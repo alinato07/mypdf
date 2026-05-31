@@ -1,0 +1,1464 @@
+
+Here is the cleaned, formatted, and professional transcript of the lecture,
+following all your rules:
+
+Professor: ازيكم يا دكاترة، سامعيني؟ الصوت واصل ولا لأ؟
+
+Student: أهلاً دكتور إيمان، إزاي حضرتك عاملة إيه؟
+
+Professor: الحمد لله، أخباركم إيه؟ يا رب تكونوا كلكم بخير. طمنوني الدنيا عاملة
+إيه معاكم؟ أخبار المحاضرة إيه؟
+
+Student: الحمد لله بخير. بس في سؤال، لو في أي أسئلة بعد كده نسألها في أول
+المحاضرة ولا نخلي ده وقت المحاضرة والأسئلة في وقت تاني؟
+
+Professor: إحنا كده كده مع بعض على الجروب، فلو في أسئلة في وقت المذاكرة أو السمع
+بتسأليني على الجروب وأنا لما بشوف بجاوب متقلقيش. لو في حاجة في المحاضرة بتسأليني
+بعد المحاضرة مفيش مشكلة. طمنوني.
+
+Student: في المحاضرة اللي فاتت، لما الـ Antigen بيدخل، أول حاجة الـ
+Antigen-presenting cell اللي بتقابله صح؟ بناءً على ده بياخد سكة الـ CD4 أو سكة
+الـ Cytotoxic على أساس الـ Major Histocompatibility Complex 1 أو 2 صح؟ إيه بقى
+اللي بيحدد؟ يعني هو بيدخل الكيراتينوسايت بتطلع حاجة؟
+
+Professor: إيه اللي بيحدد؟ على حسب الـ Host نفسه، بكتيريا، Drug، على حسب الـ
+Reaction اللي هيتعمل. مش مطلوب مننا نعرف إيه الحاجة اللي بتحدد، بتبقى على حسب
+الـ Interleukins وحاجات كتير. أهم حاجة الـ Specificity بتاعة الـ Adaptive
+immunity. يعني الفيروس ده هيطلع له T-helper، الفيروس ده هيطلع له Cytotoxic،
+فهماني؟ على حسب الـ Stimulus الموجود، الـ Adaptive immunity بتطلع حاجة
+Specific ليه.
+
+Student: قصدي دلوقتي هو لما يدخل بيقابل الكيراتينوسايت، فالكيراتينوسايت هي اللي
+بتطلع؟ على أساس إن ليها Toll-like receptors برضه؟
+
+Professor: أيوه، بس مش كله. عشان نروح للـ Adaptive immunity لازم
+Antigen-presenting cell، والـ Antigen-presenting cell نوع من أنواع الـ
+Histiocytes، نوع من أنواع الخلايا المناعية، ملهاش علاقة بالكيراتينوسايت.
+
+Student: طيب سؤال تاني، الـ Antigen لما بيدخل، اللي بيقابله الـ
+Antigen-presenting cell اللي موجودة في الـ Epidermis ولا الـ Dermis ولا مش
+هتفرق؟
+
+Professor: إحنا قلنا أنواع الـ Histiocytes، في خلايا للـ Antigen-presenting
+cells دي موجودة في الـ Epidermis، الـ Macrophages موجودة في الـ Dermis، في حاجة
+اسمها Dendritic cell دي طالعة بين الـ Dermis والـ Epidermis. ففي الغالب الـ
+Antigen-presenting cells بتاعة الـ Epidermis هي اللي بتقابله.
+
+[10:00]
+
+Professor: طمنوني باقي الدكاترة الدنيا عاملة إيه معاكم؟ المعلومات واصلالكم كويس؟
+الشرح بالنسبة لكم سلس والدنيا سهلة؟
+
+Student: أيوة يا دكتور، تمام كويس.
+
+Professor: بتذاكروا أول بأول ولا لسه نايمين شوية؟
+
+Student: بالنسبة لي بدأت أدخل في المود.
+
+Professor: عايزين ندخل في المود من الأول كده. دلوقتي مش مطلوب منكم إنكم تبدأوا
+تحلوا أسئلة أوي، ولما هندخل شوية المحاضرة دي والمحاضرة الجاية واللي بعدها،
+هنبقى أخدنا Bulk محترم، فلازم نبتدي نشوف الحل. بداية الحل بتاعكم من
+Passmedicine، بعد كده Study PRN شوية، خصوصاً للناس الجديدة. الناس القديمة ممكن
+تبدأ وتفتح الدنيا معاها شوية.
+
+Student: بمناسبة الـ Complement activation pathway، حضرتك كنتي تقصدي الـ
+Opsonization ده إنه بيعمل Mark للـ Antigen أو بيعمل عليه علامة، ولا الاتنين؟
+يعني بيعمله علامة وبرضه ليه جزء Phagocytosis؟
+
+Professor: بيعمله علامة وبرضه ممكن يعمله Phagocytosis اللي هي الـ Opsonization.
+
+Student: يا دكتور هي المحاضرات دي المفروض نطبعها عشان نذاكر منها ولا نذاكر سوفت؟
+
+Professor: الأفضل الناس اللي بتذاكر بطباعة يطبعوا الورق، هيبقى كويس معاكم كـ
+PDF. الناس اللي بتذاكر سوفت عادي ممكن يبقى معاكم على اللابتوب أو حاجة. بس
+الطباعة هيبقى كويس معاكم كـ Source مذاكرة، لأن هو فيه معلومات ومش بس
+معتمدين على الشرح، يعني معظم الكلام مكتوب. بعت لكم من شوية صور للـ
+Interleukins والـ Toll-like receptors، أنا محتاجة الحاجات دي تتحفظ. في حاجات مش
+هنقولها بشكل موضح في المحاضرات أو كبير لأن هندخل في كل حاجة فإحنا محتاجين تلات
+سنين على ما نخلص الجلدية. في حاجات هبقى بنزلهالكم كده محتاجاكم تركزوا فيها لأن
+هما بيحبوا الحاجات دي، بيحبوا التفاصيل دي كـ Master ودكتوراه وزمالة حتى، إحنا
+مش حافظينها أوي فبالنسبة لكم لازم الحاجات دي تبقى على الأقل عندكم.
+
+Student: دكتور إيمان بعد إذنك هو الصوت بيقطع شوية.
+
+Professor: سامعيني كده يا دكاترة؟
+
+Student: أنا بسمع بس بحس إنه بيقطع ثواني كده.
+
+Professor: هنبتدي المحاضرة ولو في أي حاجة بلغوني. هنبدأ بقى المحاضرة دلوقتي، كده
+سامعيني مش كده؟ أنا عملت Mute بس دقيقتين. كده سامعيني مش كده؟
+
+Student: الصوت أوضح كمان.
+
+Professor: إنتوا كلكم في مصر ولا في ناس بره مصر؟
+
+Student: أنا بره مصر، في نيجيريا.
+
+Professor: أهلاً بيكي. أنا حاسة إن معظم الناس مش هتبقى في مصر، أنا نفسي مش في
+مصر دلوقتي.
+
+Student: حضرتك فين يا دكتور إيمان؟
+
+Professor: أنا في السعودية، لسه جاية.
+
+Student: حمد لله على سلامتك.
+
+Professor: الله يسلمك. يلا هنبدأ بقى محاضرة النهاردة.
+
+[20:00]
+
+Professor: أول Chapter هنتكلم في أول حاجة وأشهر حاجة عندنا في الجلدية وأشهر مرض
+وأكتر مرض بيحصل فيه Updating ودراسات كتير وكل يوم اختلافات، وهو الـ Psoriasis.
+بس قبل ما نبتدي الـ Psoriasis لازم ناخد حاجة مينفعش دكتور جلدية بادئ جلدية أو
+ماشي في الجلدية ميبقاش عارف الحاجات اللي هقولها دلوقتي. إيه الحاجات اللي
+هنقولها دلوقتي؟ هي الـ Primary lesions. حد سمع قبل كده عن الـ Primary
+lesion أو عارفها؟
+
+Student (Dr. Doaa): الـ Primary lesions general اللي هي الحاجات اللي أول المرض
+ما بيعملها، مثلاً زي Papule، Macule.
+
+Professor: كويس، عايزين الناس كلها تشارك. دكتورة دعاء ما شاء الله من الناس الـ
+Active معايا، بحب الناس تبقى Active عشان كلنا نستفيد. إيه الفرق بين الـ Primary
+lesion والـ Secondary lesion؟
+
+Student: الـ Secondary lesions مثلاً Scars، Hyperpigmentation.
+
+Professor: تمام، يعني الـ Primary lesions دي حاجات بتبقى موجودة دي الـ First
+lesion في أمراض معينة، دي بتظهر من البداية. الـ Secondary lesion هيبقى لازم يكون
+في Primary lesion موجود عليه Secondary lesion، زي ما الدكتورة قالت مثلاً Scar،
+Crusting أياً كان. لكن الـ Primary lesion دي تتحفظ زي اسمكم. إنتوا من حسن الحظ
+إن الامتحان اللي عندنا ده مش Clinical يعني مش هتواجهوا دكتور، لكن إحنا كنا في
+الزمالة المصرية تلت الناس سقطت عشان خاطر مش عارفة الـ Primary lesion. فلكوا أن
+تتخيلوا.
+
+Professor: الـ Primary lesions في شوية حاجات بقى عندنا كده زي ما الدكتورة قالت،
+أول حاجة الـ Macule. يعني إيه Macule؟ Macule دي عبارة عن Change في الـ Color
+بس، يعني حاجة لون بس في الجلد، حاجة زي Melasma، حاجة زي الـ Vitiligo، بس بشرط
+إن هي تبقى لازم أقل من 1 سم. طيب لو أكتر من 1 سم؟ بنسميها Patch. يعني أنا مينفعش
+أشوف Lesion قدامي متساوي على سطح الجلد مجرد لون مفيش Atrophy أولاً ومفيش حاجة
+عالية عن الجلد وأقول عليها دي Papule مثلاً أو Plaque. هنعرف الكلام ده منين؟
+الكلام ده لازم يبقى محفوظ. لما تيجي توصفي حالة تبقي قاعدة في عيادتك أو حد
+بيسألك، لو قلتي مثلاً إنتي شايفة دي Plaque، لأ غلط، يعني إيه Plaque؟ يعني
+حاجة عالية عن الجلد.
+
+Professor: يعني إيه Macule؟ يعني Change بس في الـ Color، بيبقى Flat،
+Circumscribed متحدد بالطريقة دي، ولكن أقل من 1 سم. طيب لو Change في الـ Color بس
+كبير شوية؟ نسميها Patch. الـ Patch بتبقى أكتر من 1 سم، الكلام ده مفيهوش فهم،
+الكلام ده حفظ.
+
+Professor: طيب لو الحباية اللي إحنا بنسميها حباية عادية خالص دي؟ دي اسمها
+Papule. الـ Papule دي عبارة عن إيه؟ Elevated circumscribed lesion أقل من 1 سم.
+طيب لو أكتر من 1 سم إيه اللي هيحصل؟ هنسميها إيه؟ هنسميها Plaque. يبقى أقل من 1
+سم عالية عن الجلد Elevated circumscribed lesion بنسميها Papules. كل الناس عارفة
+الكلام اللي أنا بقوله ده ولا في ناس لسه مش عارفة الكلام ده؟ اللي مش عارف يقولي
+أنا مش عارف، أول مرة أسمعه منك. ردوا عليا إحنا عددنا زاد دلوقتي. اللي مش عارف
+يقولي أنا مش عارف، لو سكتوا يبقى أنا هبقى عارفة إن كلكم خلاص عارفين الكلام ده.
+ها يا دكاترة؟ كله عارف؟
+
+Students: أيوة.
+
+Professor: دي حاجة كويسة. الـ Papule معناها Elevated circumscribed lesion less
+than 1 cm. الـ Papule بيبقى ليها وصف، وصفها عامل إزاي؟ يا إما Flat-topped papule
+حاجة عاملة زي دي كده، Umbilicated papule ودي اللي بنشوفها مثلاً في الـ Molluscum
+contagiosum ييجي نقطة في النص كده فنقول إن دي Umbilicated papule، Verrucous
+papule ودي اللي دايماً بنشوفها في الـ Warts مثلاً، Dome-shaped papule. الـ
+Plaque بتبقى عبارة عن إيه؟ نفس الـ Papule ولكن أكتر من 1 سم. في بعض الكتب بتقول
+نص سم وأكبر من نص سم، لكن ده Bolognia، Bolognia هي اللي بتقول أكتر من سم وأكتر
+من 1 سم.
+
+Professor: طيب أومال إيه الفرق بقى بين الـ Nodule والـ Plaque أو الـ Papule؟ حد
+يقولي.
+
+Student: الـ Depth. الـ Nodule is more deep.
+
+Professor: أيوة، الـ Depth. يعني إيه الـ Depth؟ يعني الـ Nodule تاخد تنزل في الـ
+Dermis والـ Papule لأ. أيوة بالظبط كده، لازم يكون ليها Dermal لحد Subcutaneous
+component. يعني بمعنى إيه؟ يعني لو حاجة كبيرة في الجلد وحاسين إن هي Deep نازلة
+واخدة جزء من الجلد كله لحد كمان وتوصل للـ Subcutaneous وطالعة على السطح، دي مش
+Papule، دي اسمها Nodule. الـ Nodule عبارة عن إيه؟ نفس الـ Definition بتاع الـ
+Papule ولكن With dermal or subcutaneous compartment. دي مهم جداً جداً جداً.
+
+Professor: طيب إيه الـ Wheals يا دكاترة؟ حد عارف إيه الـ Wheal؟ حد يشارك معانا
+مع دكتورة دعاء.
+
+Student: بتبقى في الـ Urticaria. Primary lesion of urticaria.
+
+Professor: برافو عليكي، Primary lesion of urticaria. شكلها إيه؟ هو ده الشكل
+بتاعها. عبارة عن بنسميها إيه؟ Transient elevation of the skin due to dermal
+edema. بيحصل Edema في الجلد فتبتدي تعلى، بنقول إن هو Transient elevation ليه؟
+لأن الـ Urticaria من أهم الخصائص بتاعتها إن هي Less than 24 hours، يعني لازم
+هتقعد أقل من 24 ساعة. لو قعدت أكتر من 24 ساعة بتبقى حاجات تانية Urticarial
+vasculitis أو أياً كان هنشوف الحاجات دي بعد كده. ولكن الـ Wheals تعريفها إيه؟
+Transient elevation يعني حاجة مش دايمة معانا Of the skin due to dermal edema.
+
+Professor: طيب إيه الـ Vesicles؟ الـ Vesicles بالونة مليانة ماية، بس صغيرة، أقل
+من 1 سم. طب لو كبرت شوية بنسميها إيه؟ بنسميها Bulla. طيب الـ Vesicles عبارة عن
+إيه؟ Elevated circumscribed lesion filled with fluid، بس Less than 1 cm. الـ
+Vesicles مثلاً بنشوفها في أمراض إيه؟
+
+Student: في الـ Viral. Chickenpox.
+
+Professor: أيوة في الـ Viral بالظبط، الـ Chickenpox، الـ Herpes.
+
+Professor: لو كبرت تبقى اسمها إيه؟ تبقى اسمها Bulla. الـ Bulla عبارة عن إيه؟
+Elevated circumscribed lesion filled with fluid بس أكتر من 1 سم. طيب إحنا عندنا
+ده لازم يبقى Fluid، طيب لو بقى Pus؟ تبقى اسمها إيه؟
+
+Student: Pustule.
+
+Professor: Pustules، أسهل حاجة Pus pustules. الـ Pustule ممكن تبقى Primary
+lesion في أمراض معينة، وممكن تبقى Secondary lesion في أمراض تانية. الـ Pustules
+عبارة عن إيه؟ Elevated circumscribed lesion filled with purulent fluid. يعني
+بمعنى إيه؟ معظم أمراض الـ Neutrophilic اللي هي عبارة عن Pustules دي Primary
+lesion، ولكن ممكن أي Lesion مثلاً ممكن الـ Herpes simplex يحصل عليه Secondary
+bacterial infection يعمل لي Pustules، في الوقت ده بتبقى Pustule. ممكن الـ Acne
+اللي هي Papule الـ Primary lesion بتاعها تطلع لي حباية Pustule كده، في الوقت
+ده بتبقى Pustule، تبقى Secondary lesion. ممكن إيه تاني يقلب لي بـ Secondary
+bacterial infection ويحصل Pustule عليها؟ في أمراض بيبقى الباستيول هو الـ Primary
+lesion بتاعها. ده شكل الـ Bulla وده شكل الـ Pustules. كلام مفيش أسهل منه مش كده؟
+
+[30:00]
+
+Professor: الـ Secondary lesions عبارة عن إيه؟ حاجات مثلاً زي الـ Crust، زي الـ
+Scales، زي الـ Fissure، زي الـ Ulcer، زي الـ Excoriation، زي الـ Erosion. طيب
+إحنا جرينا ليه في الكلام ده؟ الـ Crust إيه الفرق بين الـ Crust والـ Scales يا
+دكاترة؟
+
+Student: الـ Crust بتبقى Dried exudate.
+
+Professor: أيوة بالظبط كده. يعني في Pus موجود وبقى Dry فسميناه Crust. طيب أومال
+الـ Scales عبارة عن إيه؟
+
+Student: Exfoliation برضه أو Turnover of the skin.
+
+Professor: لأ مش برضه، هو دي حاجة ودي حاجة. الـ Crust dried serum، blood، pus
+على الـ Surface بتاع الـ Skin. لكن الـ Scales عبارة عن جلد، الـ Scales عبارة
+عن Stratum corneum.
+
+Student: Desquamation.
+
+Professor: أيوة Desquamation. Hyperkeratosis و Accumulation للـ Stratum corneum.
+يعني أنا أشوف الجلد فيه قشرة على الجلد أعرف أفرق إذا كان دي Crust يعني عبارة عن
+حاجة Serum موجود Fluid موجود ونشف ولا ده الجلد ده الـ Stratum corneum. لكوا أن
+تتخيلوا إن ده كان سؤال عندنا في الزمالة. إيه الفرق بين الـ Crust والـ Scales؟
+لكوا أن تتخيلوا.
+
+Professor: الـ Fissure، يعني إيه Fissure؟ بيقولي ده Linear cleft in the skin،
+يعني إيه؟ حاجة زي دي كده، بتبقى داخلة لجوه شوية ولكن على الجلد Fissure.
+
+Professor: Excoriation، يعني إيه Excoriation؟ يعني بالضوافر كده لما نعمل، معناها
+إيه؟ Exogenous injury to all or part of the epidermis. يعني واحد مثلاً بضوافره
+عمل Excoriation بأي حاجة حادة وعمل Excoriation، كأنه بيقشر الجلد كده.
+
+Professor: الـ Erosion، إيه الفرق بينه وبين الـ Ulcer؟ الاتنين Loss للـ
+Epidermis، لكن الـ Erosion بيبقى Superficial، بيقولي إنه Partial loss للـ
+Epidermis، ولكن الـ Ulcer بتبقى Total loss للـ Epidermis وممكن توصل للـ Dermis
+كمان. ده شكل الـ Erosion، ده شكل الـ Ulcer. يعني معنى كده إن الـ Ulcer عبارة
+عن Deep erosion. دول Secondary lesions مش Primary lesions. إحنا كده خلصنا الـ
+Primary lesions، في أي حد عنده سؤال في اللي فات ده؟ كلام سهل مفيهوش حاجة، مجرد
+مشي يتحفظ كمان يتعرف. إحنا في الـ SCE أو الـ EBDV مبيسألوش فيهم، ولكن الحاجات
+دي تبقوا عارفينها، ده ABC جلدية، لو في حاجة قبل الـ ABC لازم تبقى معانا.
+
+Student: معلش دكتورة إيمان، الـ Pustule primary lesion للـ Neutrophilic disease
+قلتي صح؟
+
+Professor: أيوة بالظبط كده. بس الـ Pustule ممكن تبقى Secondary lesion زي ما قلت
+لكم لو حصل زي أي Secondary bacterial infection على أي مرض أياً كان هيعمل لي
+Pustules، في الوقت ده هو مش Primary.
+
+Professor: ندخل بقى في موضوعنا المهم جداً، الـ Psoriasis تقريباً هتاخد لها تلات
+محاضرات. المحاضرة دي النهاردة، المحاضرة الجاية، المحاضرة التالتة الـ Therapy
+بتاع الـ Psoriasis وهيعتبر محاضرة Therapy من الجزء الـ Therapy أصلاً.
+
+Professor: أول حاجة الـ Psoriasis، طبعاً كلنا بلا استثناء ولا في حد فينا مش عارف
+مرض الـ Psoriasis؟ اسمه إيه بالعربي؟
+
+Student: صدفية.
+
+Professor: محتاجة الناس تشارك معايا. حد عنده أي معلومات عن الـ Psoriasis إيه
+المرض ده أصلاً؟
+
+Student: Chronic autoimmune disease.
+
+Professor: تمام، كويس جداً جداً جداً. الـ Psoriasis ده، ده المرض اللي إحنا
+بنشوفه بيظهر لي على الجلد بحاجة بشكل معين بيبقى عبارة عن إيه؟ Silvery
+white scales on erythematous base. ده كلنا حافظينها بالمنظر ده، ده الـ
+Erythematous base وعليه Scales بيبقى لونها Silvery white. إيه المشكلة أصلاً بتاع
+الـ Psoriasis All in all كده؟ إن في مشكلة في الـ Proliferation والـ
+Differentiation بتاع الـ Epidermis. فبيبقى سريع جداً جداً الـ Differentiation
+والـ Turnover، والـ Desquamation زي ما هو، فبيسيب لي القشرة موجودة قوية قشرة
+كبيرة بنسميها اللي بتبقى Silvery white scales نتيجة تجمع الـ Stratum corneum أو
+الـ Epidermis على الجلد. بيتعمل إزاي بقى؟ إيه هو المرض؟ هنشوف دلوقتي كل حاجة.
+
+Professor: الـ Psoriasis بيقولي إن هو Chronic immune-mediated disorder results
+from genetic predisposition. كل أمراض الجلدية من هنا ورايح هنشوف Pathway مهم
+جداً جداً هو الـ Etiopathogenesis. معظم الأمراض هقول لو قلت 90% من الأمراض
+اللي هنشرحها في الكورس ده هي بتاع السهم ده وهتشوفوه في كل محاضرة وهفكركم بيه،
+هو كده. معظم الأمراض الجلدية مش Genetic لوحدها، يعني لما الشخص بيقولي هي دي
+وراثية؟ مقدرش أقوله لأ وأه. مش Immunological لوحدها، يعني مش الـ Immunity
+المسؤولة، مش Environmental لوحدها. لأ ده التلات حاجات مع بعض بيكونوا لي
+المرض. يعني إيه؟ يعني في Environmental trigger موجودة في البيئة اللي الشخص
+عايش فيها، إن Genetically susceptible patient في شخص عنده قابلية إنه يجيله
+المرض لو اتعرض للـ Environmental factor. يقوم إيه اللي يحصل؟ يحصل Immune
+dysregulation، مشكلة في المناعة، تقوم تظهر لي المرض. فهمنا دي يا دكاترة؟
+
+Professor: يعني بمعنى إيه؟ لو واحد مثلاً خد الـ Beta-blocker، دوا مثلاً، أو واحد
+اتعرض لـ Infection، هل كلنا كل الأطفال لو اتعرضوا لـ Streptococcal infection
+ممكن يجيلهم Guttate psoriasis؟ كان الشعب كله بقى عنده Guttate psoriasis صح؟
+صح ولا إيه؟
+
+Student: أيوة يا دكتور.
+
+Professor: لكن طفل معين جيناته مهيأة، سواء بقى الـ HLA اللي على الخلايا، أو أياً
+كان إيه اللي موجود Genetically هو مؤهل إنه يجيله Guttate psoriasis لو اتعرض لـ
+Streptococcal infection. يقوم إيه اللي يحصل؟ تقوم الـ Strep في الشخص ده عشان هو
+مهيأ جينياً تعمل لي لخبطة في الـ Immunity بتاعته تقوم تظهر لي مرض الـ
+Psoriasis. معظم الأمراض الجلدية ده، هو ده السهم ده كده ميتنسيش: Environmental
+trigger in genetically susceptible patient تعمل لي Immune dysregulation. إحنا
+مطلوب مننا نعرف إيه الـ Environmental triggers اللي ممكن تجيب لي الـ
+Psoriasis، نعرف Genetically susceptible إيه الـ Proved إزاي؟ هنقول إن Proved عن
+طريق الـ Family history، إن بعض الأشخاص الـ Parents لو عندهم ممكن الولد يجيلهم،
+الـ Twins لو عندهم ممكن يجيلهم. هنعرف كمان نأكد إزاي إن في بعض الناس اللي
+الخلايا بتاعتهم HLA معينة، فاكرين HLA؟ Human Leukocyte Antigen، وده اللي
+قلت لكم ده بطاقة الشخص. الشخص ده مثلاً HLA Cw6، أنا البطاقة بتاعتي Cw6، لقوا إن
+الشخص اللي عنده Cw6 ده لو اتعرض لـ Strep infection هيجيله Guttate psoriasis أو
+هيجيله Psoriasis. فهمتوني الدنيا ماشية إزاي؟ إيه اللي يحصل؟ يتحول ييجي مشكلة
+Immunological تبتدي تظهر لي المرض. هو ده الكلام اللي بنقوله هنا.
+
+[40:00]
+
+Professor: نقرأها تاني، عبارة عن يعني لو قلت دلوقتي إن هو Chronic
+immune-mediated disorder هتقولوا معايا صح، هو Immunological disease، لكن
+Immunological لوحده؟ لأ لازم يبقى هو Genetically susceptible ولازم يتعرض للعوامل
+دي عشان تجيب له المرض. فنفهم الجملة دي مع بعض: Chronic immune-mediated disorder
+that results from genetic predisposition combined with environmental triggers
+characterized by sharply demarcated erythematous scaly plaques. المرض نفسه عامل
+إزاي؟ Sharply demarcated erythematous scaly plaques اللي هي الصورة اللي إحنا
+شفناها دي، تيجي تظهر لي المرض ده.
+
+Professor: طيب هل الـ Psoriasis systemic disease ولا Dermatological only؟
+
+Student: Systemic disease.
+
+Professor: ليه؟ ليه قلنا Systemic؟
+
+Student: بقى معاه Associated cardiac و Metabolic.
+
+Professor: أيوة Metabolic syndrome. Associated معاه Metabolic syndrome. وجدوا إن
+الـ Psoriasis ودلوقتي إن هو بقى Systemic disease مش بس Metabolic syndrome، لأ ده
+في Psoriatic arthritis صح؟ مش دي تعتبر حاجة Systemic؟ كمان وجدوا إن الشخص اللي
+عنده صدفية ده عرضة أكتر إنه يجيله Metabolic syndrome، يعني إيه؟ يعني يبقى
+Obese، يبقى عنده Hyperlipidemia، يبقى عنده Diabetes، يبقى عنده Cardiovascular
+disease، ودي مشهورة جداً جداً جداً مع الـ Psoriasis لأن هي مشهورة مع الـ
+Metabolic syndrome. عشان كده خلاص الـ Psoriasis مبقاش مجرد مرض جلدي بس.
+
+Professor: Psoriasis is a systemic disease that may be associated with psoriatic
+arthritis, metabolic syndrome, atherosclerotic cardiovascular and other
+diseases. عشان كده خلاص الـ Psoriasis مبقاش مجرد مرض جلدي بس. إحنا تمام لحد
+دلوقتي؟
+
+Professor: الـ Epidemiology بتاعتي بقى، درجة انتشار المرض ده عاملة إزاي؟ 2% من
+سكان العالم عندهم صدفية. وده رقم مش قليل خالص خالص خالص. هتسمعوا 2% دي في الـ
+Vitiligo كمان وفي الغالب في الـ Alopecia areata. يعني لكوا أن تتخيلوا إن من
+كل 100 في 2 عندهم صدفية، وده مش بسيط. عشان كده تعالوا مين فيكوا حضر في الحوض
+المرصود قبل كده أو اشتغل في الحوض المرصود؟
+
+Student: أنا كنت ماستر في الـ Psoriasis، أخدتها من الحوض المرصود.
+
+Professor: يا سلام! يعني اشتغلتي هناك ولا جيتي للحالات؟
+
+Student: لأ أنا جيت أخدت الحالات وأخدت كل تجميعة الحالات بتاعتي كانت من الحوض
+المرصود.
+
+Professor: شفتي طبعاً عيادة الصدفية؟ المتابعة والحالات الجديدة؟
+
+Student: أه، وطلعت القسم فوق.
+
+Professor: ستات ورجالة، شفتي الوضع كان عامل إزاي؟ شعب الصدفية! متقالش عنها حاجة
+غير كده.
+
+Student: قابلت ناس اللي قعدت 10 سنين ورجعت له، واللي قعدت 5 سنين ورجعت له.
+
+Professor: أه Chronic بالظبط. ومش بس كده، العدد، العدد المهول. إحنا في تلات
+عيادات في المستشفى للصدفية، عيادة حالات جديدة وده بشكل يومي حالات جديدة
+بتتعرض علينا 40 لـ 50 حالة بشكل يومي. في عيادتين متابعة، عيادة للسيدات
+وعيادة للرجال. فلكوا أن تتخيلوا الحجم عامل إزاي، ودي مستشفى أه كبيرة بس مش
+كل الحالات بتاعت مصر هتعدي علينا، فاهمين قصدي؟ فهي تعتبر خلاص هي كأنها مستشفى
+لوحدها، مستشفى الصدفية.
+
+Professor: 2% من الـ World population. بيقولي الـ Peak of age ليها Two peaks of
+age: Early onset عند سن 20 لـ 30 سنة، والـ Late onset عند سن 50 لـ 60 سنة. Equal
+in both sexes، ملهاش Sex معين.
+
+Professor: قلنا الـ Etiopathogenesis، كلنا فهمناها؟ عايزة حد يقولي السهم اللي
+أنا قلته ده إيه. حد غير دكتورة دعاء، كان معايا في الـ Cycle اللي فاتت دكتورة
+سمية ودكتورة هيفاء، كانوا من أكتر الناس اللي ما شاء الله Active معايا ربنا
+يكرمهم يا رب. عايزين بقى ناس تشارك كده برضه تبقى شطورة كده.
+
+Student (Dr. Sherifa): Genetic susceptibility اللي هو الـ HLA.
+
+Professor: مش لازم تفاصيل، أنا عايزة الـ Pathway زي ما أنا قلته، بنفس الطريقة
+اللي أنا قلته بيها عشان تحفظيها.
+
+Student (Dr. Sherifa): إحنا قلنا Environmental trigger in genetically
+susceptible patient، مع إن صار بعد كده الـ Immune dysregulation.
+
+Professor: برافو عليكي. يعني إحنا لازم يكون في Environmental trigger مع شخص
+Genetically susceptible، إيه اللي يحصل له لو اتعرض للـ Environmental trigger دي؟
+يحصل Immune dysregulation تجيب لي الـ Psoriasis أو تجيب لي أي مرض أياً كان.
+
+Professor: هنتكلم في محور محور فيهم بقى. الـ Environmental trigger، حد يقدر
+يقولي الـ Environmental triggers بتاعة الـ Psoriasis؟ أو حاجات مهمة منها؟
+أنا قلت حاجتين وأنا بتكلم.
+
+Students: قلنا Stress، وقلنا Drugs، Trauma، Infection، Drugs.
+
+Professor: بصوا بقى، الـ Environmental triggers دي تتحفظ كده زي اسمكم. أنا
+مجمعاها في كلمة كده اسمها "Tie pod leba"، متسألونييش يعني إيه، هي اتجمعت
+كده. "Tie pod leba"، لما هاجي أسألكم بعد كده هقولكم إيه هي الـ Tie pod leba
+دي.
+
+  - T: Trauma
+  - I: Infection
+  - E: Endocrine
+  - P: Psychologic stress
+  - O: Other
+  - D: Drugs
+  - Leba هي الـ Drugs: Lithium، Interferon، Beta-blocker، Antimalarial.
+
+Professor: ما يتنسوش. يعني إيه Trauma؟ يعني في شخص عنده قابلية إنه يجيله
+Psoriasis، لما يتعور يجيله في نفس مكان التعويرة Psoriasis. أو هو خلاص عنده المرض
+تمام، يهرش في أي مكان أو يتعور في أي مكان يطلع الـ Lesion ده في المكان اللي هو
+هرش فيه أو اتعور فيه. دي عبارة عن Phenomena معينة بنسميها إيه؟
+
+Student: Koebner.
+
+Professor: Koebner phenomenon. يعني إيه Koebner phenomenon؟ يعني بيقولي
+Formation of psoriasiform lesion in uninvolved skin of psoriatic patient by
+injury of the skin. بمعنى إيه؟ واحد عنده صدفية، جه هرش في مكان أو اتعور في مكان،
+الصدفية في مكان مفيهوش Psoriasis، تقوم الصدفية تطلع له في المكان ده. يقوم الـ
+Lesion نفسه يطلع في المكان ده. الـ Koebner phenomenon هل Specific للـ Psoriasis
+بس ولا موجودة في أمراض تانية؟
+
+Student: موجودة في الـ Vitiligo، Lichen planus.
+
+Professor: تمام، والـ Lichen planus، تمام.
+
+Student: Common warts.
+
+Professor: ثواني بقى، ثواني، أنا بقى كنت عايزة نقع الوقعة دي. الـ Common wart
+يعتبر Koebner phenomenon؟
+
+Student (Dr. Sherifa): Pseudo-Koebner.
+
+Professor: أيوة تمام، دكتورة مين اللي بتقول؟
+
+Student (Dr. Sherifa): دكتورة شريفة.
+
+Professor: إزيك يا دكتورة عاملة إيه؟ يعني إيه Pseudo-Koebner بقى؟
+
+Student (Dr. Sherifa): يعني هو مش Koebner حقيقي، هو ما حصلوش Injury فجه الـ
+Lesion، لأ الـ Common wart ده Viral infection فالعدوى اتنقلت.
+
+Professor: فبيسموها Pseudo-Koebnerization، مش Koebnerization عادي أو مش Koebner
+phenomenon اللي إحنا عارفينها دي. ده Reaction من الجسم، لكن الـ Wart لأ، الـ
+Wart هو هرش في مكان وكان ضافره مثلاً فيه الفيروس، اتعور في مكان فالفيروس اتنقل
+للمكان بتاع الـ Injury ده، فبنسميها Pseudo-Koebnerization. تمام؟ حد سمع قبل
+كده عن الـ Reverse Koebner؟ مش عايزة أدخلكم في تفاصيل كتير، ولكن حد سمع؟
+
+Student: إن هو لو حصله Trauma تاني ممكن يحصلها Healing.
+
+Professor: أيوة، يعني لو حد حصله Injury في مكان بتاع الـ Psoriasis ممكن يخف. وده
+بيعتمدوا عليه في بعض طرق العلاج في الـ Vitiligo.
+
+Professor: طيب، أول حاجة دي الـ Trauma. تاني حاجة الـ Infection، بيقولي مثلاً إن
+الـ Streptococcal infection ممكن تجيب لي الـ Guttate psoriasis (Guttate
+psoriasis with strep infection). الـ HIV مع الـ Severe psoriasis.
+
+Professor: Endocrine، يعني إيه Endocrine؟ يعني الـ Hypocalcemia. الـ
+Hypocalcemia من ضمن الـ Triggers بتاعة مين؟ Generalized pustular psoriasis، وده
+نوع من أنواع الـ Psoriasis هنقوله دلوقتي.
+
+Professor: Psychological stress يزود الـ Psoriasis.
+
+Professor: Others زي الـ Alcohol، زي الـ Smoking، زي الـ Obesity.
+
+Professor: Drugs زي إيه؟ زي الـ Lithium، زي الـ Interferon، زي الـ Beta-blocker.
+الحاجات دي لازم تتحفظ، لازم تتحفظ، لازم تتحفظ. عشان امتحاناتنا وعشان شغلنا. ده
+اللي هيفرقك دكتور شاطر مش دكتور مش شاطر. مش هتيجي حالة Localized psoriasis
+تكتبي لها خلاص يلا الـ Emollient والـ Steroid والـ Salicylic والحاجات اللي
+بنكتبها دي وتمشي، ولا هتبدأي تسألي على الحاجات دي؟ ولا هتبدأي لو بيدخن تقوليله
+وقف التدخين؟ لو حد وزنه زيادة هتقوليله لازم تنزل الوزن؟ هتبدأي تعملي تحاليل
+بتاعة الـ Metabolic syndrome؟ بتسألي على أدوية؟ بتشوفي الدنيا عاملة معاه
+Stress؟ الحاجات دي كلها لازم تبقى في دماغنا وإحنا بنعالج مريض الـ Psoriasis.
+
+Professor: يبقى إحنا قلنا لحد دلوقتي Environmental triggers in genetically
+susceptible patient. الـ Genetic predisposition إيه اللي يثبت لي إن هو مرض الـ
+Psoriasis فيه جزء وراثي؟ أولاً عشان Positive family history في 35 لـ 90% من
+الحالات. ودي حقيقة، بتلاقوا معظم أطفال جاية عندها Psoriasis أو ناس جاية
+تقولك ده عمتي، ده جدي، ده مش عارفة إيه، ده عنده صدفية. الـ Risk بتاعتي لو
+الـ Both parents عندهم Psoriasis هيجيله Psoriasis بنسبة 41%. لو One parent بس
+هيجيله بنسبة 14% بس. لو واحد من الأطفال من الإخوات عنده Psoriasis، الأخ هيجيله
+أو مش هيجيله بنسبة 6% يجيله Psoriasis. بيقولي Higher risk في الـ Monozygotic
+twins أكتر من الـ Dizygotic بنسب مش بنسب بقى 2 لـ 3 Folds increase. دي كلها
+إثباتات إن الـ Psoriasis وراثية.
+
+Professor: تاني حاجة بقى إن هي Associated with certain HLA. مين الـ HLA بتاعة
+الـ Psoriasis؟ لازم تتحفظ، لازم تتحفظ، لازم تتحفظ. HLA-Cw6 و HLA-B27. B27 ده
+Specific لمين في الـ Psoriasis أكتر؟
+
+Student: Psoriatic arthritis.
+
+Professor: Psoriatic arthritis، برافو عليكي. Associated with certain HLA، بيقولي
+HLA-Cw6 90% من الـ Early onset و 50% من الـ Late onset. يعني 90% من الحالات الـ
+Early onset اللي قلنا تقريباً سن 20 لـ 30 سنة لو فحصنا الـ HLA بتاعتهم هنلاقيها
+Cw6، و 50% من التانيين من الـ Late onset. الـ HLA-B27 في الـ Pustular psoriasis
+والـ Psoriatic arthritis يتحفظوا ما يتنسوش.
+
+Professor: ندخل بقى على، إحنا خلصنا Environmental و Genetic، ودي باقي الـ
+Immunological. تالت حاجة بقى إيه الـ Immune dysregulation اللي هتبتدي تحصل؟ من
+اللحظة دي إحنا بدأنا مرض الصدفية. إحنا عمالين نقول في Trigger وفي شخص
+Susceptible عشان يجيله المرض. المرض بييجي إزاي؟ هو ده الكلام اللي هنقوله دلوقتي.
+
+Professor: بيقولي إن الـ Psoriasis عبارة عن إيه؟ T-cell mediated inflammatory
+disease. كنت الأول بقولكم Chronic immune-mediated، هنا بقيت أنا Specific أكتر،
+T-cell. هل هو T ولا B؟ طب هل هو T-helper ولا T-cytotoxic؟ طيب الـ Psoriasis بقى
+للناس اللي عارفة، T-helper ولا T-cytotoxic؟
+
+Student: T-helper.
+
+Professor: T-helper، برافو عليكي. في هو T-helper وطبعاً بحاجات Specific للـ
+T-helper يعني أنواع معينة من الـ T-helper كمان. بنسميها T-cell mediated
+inflammatory disease. Characterized by إيه؟ يعني بعد الـ Immunological ما تحصل،
+Epidermal hyperplasia يعني Keratinocyte proliferation، و Angiogenesis يعني تكوين
+Blood cells أو Small blood vessels موجودة.
+
+Professor: Psoriasis is mediated by T-helper cells. Mainly مين؟ Th1، Th17، Th22.
+يتحفظوا ما يتنسوش. طبعاً كلنا ذاكرنا الحاجات بتاعة المحاضرة اللي فاتت، المحاضرة
+اللي فاتت ما كانتش Immunology ماشية هباءً ولواحدة، دي Basic لكل الحاجات اللي
+جاية.
+
+Professor: الـ Psoriasis قلنا Environmental trigger في Genetically susceptible
+patient يعمل لي Immune dysregulation. إيه الـ Immune dysregulation بتاعتها؟ إن
+يتحفز عندي الـ Th1 والـ Th17 والـ Th22. التلاتة دول لو اتحفزوا هيعملوا لي مرض
+الـ Psoriasis. مرض الـ Psoriasis Clinically عبارة عن إيه؟ عبارة عن Plaque عالية
+عن الجلد Erythematous plaque و Silvery white scales. Erythematous plaque إيه سبب
+الـ Erythematous plaque؟ وجود Blood vessels جديدة و Vasodilation للـ Blood
+vessels. إيه سبب الـ Silvery white scales؟ Increased proliferation. يبقى أنا
+عندي حاجتين يا دكاترة أساسيين في المرض كـ Clinical أنا بشوفهم: Increased
+proliferation و Angiogenesis. المسؤول عنهم مين؟ Th1 لما بتتحفز بتطلع لي
+Cytokines اسمه Tumor Necrosis Factor alpha (TNF-alpha)، وده الـ Most important
+cytokine في الـ Psoriasis. عشان كده لما بنيجي نعالج الـ Psoriasis بالـ Biologics
+بنجيب حاجة Anti-TNF-alpha صح؟ صح يا دكاترة؟
+
+Professor: طيب هو بيعمل لي إيه؟ بيشتغل على حاجتين، بيشتغل على الـ Keratinocyte
+يزود لي الـ Proliferation فيعمل لي الـ Plaque، ويشتغل على مين تاني؟ ويشتغل على
+الـ Endothelial cell بتاعة الـ Blood vessels يزود لي الـ Expression بتاع الـ
+Adhesion molecules. مين الـ Adhesion molecules دي؟
+
+Student: الـ ICAM والـ E-selectin.
+
+Professor: الـ ICAM والـ E-selectin، أيوة برافو عليكم، الحاجات دي إنتوا كده
+ذاكرتوا. يزود الـ Adhesion molecules علشان يخلي T-cells تيجي كتير، يقوم
+يعمل لي Help extravasation بتاع الـ T-cells. وكمان يعمل لي إيه؟ يزود لي حاجة
+يطلع لي Factor اسمه Vascular Endothelial Growth Factor (VEGF) يعمل لي الـ
+Angiogenesis، وده اللي يظهر لي الـ Erythema بتاعة الـ Psoriasis والـ Auspitz
+sign. حد عارف يعني إيه الـ Auspitz sign؟
+
+Student: Pinpoint bleeding.
+
+Professor: أيوة، لما بقشر الـ Scale اللي موجودة دي ألاقي في نقط دم طالعة من الـ
+Erythematous plaque الموجودة دي، دي الـ Auspitz sign. دي بتتعمل عن طريق إيه؟ إن
+الـ Th1 بتتحفز تطلع لي TNF-alpha، فالـ TNF-alpha يطلع لي VEGF فيعمل لي
+Angiogenesis، Blood vessels جديدة، فتعمل لي الـ Erythema والـ Auspitz sign. كل
+حاجة داخلية بتظهر لي بشكل Clinical، أنا عشان أفهم الـ Clinical اللي ظاهر لي
+على الجلد لازم أفهم داخلياً إيه اللي حصل، ولو ما فهمتش داخلياً إيه اللي حصل
+مش هعرف أعالج.
+
+Professor: طيب دي أول حاجة. تاني حاجة بيحصل لها Activation الـ Th17. طيب الـ
+Th17 لما بتطلع بتطلع لي مين؟ بتطلع لي IL-17. IL-17 ده مسؤول عن إيه؟ أكتر حاجة
+وأهم حاجة مسؤول عنها الـ IL-17 إن هو بيجيب لي يعمل لي Chemotaxis للـ
+Neutrophils. من ضمن الـ Pathology لما هناخد الـ Pathology كمان شوية بتاع الـ
+Psoriasis، هنلاقي إن في Neutrophils موجودة كتير. الـ Neutrophils دي بنسميها إيه؟
+بنسميها Munro microabscesses و Kogoj spongiform pustules. اعرفوا دايماً إن الـ
+Neutrophils وجودها مسؤول عن وجود الـ Pus أو الـ Abscess. الـ Pathology بتاعي
+هيظهر لي بـ إيه؟ Small collection من الـ Neutrophils. الـ Small دي اللي
+موجودة لما بتبقى Small بنسميها Munro، الـ Kogoj بتبقى كبيرة باينة واضحة.
+هنا لما تكبر وتبقى Kogoj microabscesses تظهر لي بشكل إيه بقى؟ الشاطر هيقولها.
+
+Student: Pustules.
+
+Professor: Pustules، اللي هو مين؟ Pustular psoriasis. ولكن كل الـ Psoriasis، كل
+أنواع الـ Psoriasis في الـ Pathology فيها Munro microabscesses اللي هي Small
+pustules أو Small collection من الـ Neutrophils مش ظاهر لي كـ Clinical إن في
+Pustules موجودة، ولكن يظهر إمتى كـ Pustules موجودة؟ لما الـ Neutrophils تزيد
+جداً جداً جداً في مكان الـ Lesion فيظهر لي Pustular psoriasis. عرفنا الـ
+Pustular psoriasis بتيجي منين؟ من Accumulation كتير، Chemotaxis كتير للـ
+Neutrophils تظهر لي بشكل Pustular psoriasis، وده نوع من أنواع الـ Psoriasis يا
+دكاترة. تمام؟ تمام لحد دلوقتي؟
+
+Students: أيوة.
+
+Professor: تالت حاجة الـ Th22 بتطلع لي IL-22، ده مسؤول عن إيه؟ مسؤول زي فوق كده
+يزود لي الـ Keratinocyte proliferation، Clinical يظهر لي بـ Plaque.
+
+Professor: ده جدول من كتاب دكتور أحمد كامل، يعني أخدته كده ونزلتهولكم لأن صراحة
+ممتاز. دي رسمة، ده اللي بيحصل جوه، يقوم يظهر لي ده. لو ركزنا مع بعض شوية، مش
+عارفة ليه الدنيا صغيرة أنا مبقتش أشوف. Environment، Microorganism، Drug،
+Trauma، أياً كان إيه اللي هيدخل، الـ Antigen-presenting cell مستنياه تاخده وتدخل
+بيه جوه. دي مين؟ دي كلها عبارة عن إيه؟ Lymph nodes والـ Lymph vessels. دخلت
+لمين؟ الـ Naive T-cell الصغيرة اهي، دي الـ Dendritic cell اللي هي الـ
+Antigen-presenting cell. طيب أنا بقى MHC 1 ولا 2؟ 2 عشان أنا هطلع مين؟ هطلع
+T-helper. طلعت Th1، Th17، Th22. راحت فين؟ مشيت في الـ Blood vessels، والـ
+E-selectin والـ ICAM والحاجات دي بتمشي لحد ما تخرج لي تاني للـ Skin. Th1 طلعت،
+Th17 طلعت، Th22 طلعت. خلينا نشوف، أدي الـ VEGF عمل لي الـ Angiogenesis، شايفين
+بقى هنا ده الجلد العادي خالص، شايفين هنا بقى عامل إزاي؟ Proliferation،
+Acanthosis. هنا ده الجلد بتاعنا عادي جداً، هنا بقى عامل كده، شايفين الـ
+Acanthosis ده؟ وطلعت دي عاملة إزاي؟ دي هتبقى رقيقة من هنا أضعف من دي، فلما أقشر
+هيبان الـ Blood vessels اللي زادت هنا في الـ Dermis جداً، فتديني الـ Auspitz
+sign. مع نفسكم بقى كده هتشوفوا دي وتبدأوا تفصصوها الحاجات اللي أنا مقلتهاش لأن
+مش هنعرف نقولها كلها، أنا مش شايفة الكلام أصلاً. هتلاقوها إن نفس الكلام اللي
+إحنا قلناه. دي صورة من Bolognia صراحة مجمعة لي كل كل الـ Pathogenesis بتاعة
+الـ Psoriasis في الحتة دي كده. يطلع لي إيه على الجلد؟ يطلع لي المنظر اللي
+إحنا شايفينه ده. تمام يا دكاترة؟ تمام يا شباب؟
+
+Students: تمام يا دكتور، تمام.
+
+Professor: الدنيا مفهومة معاكم؟ كويسة؟
+
+Students: تمام.
+
+Professor: ده الشكل الـ Clinical، ده الشكل الـ Pathology. شايفين الجلد بقى عامل
+إزاي؟ هل ده زي ده؟ لأ. شايفين هنا عامل إيه؟ إيه اللي حاصل؟ Hyperproliferation،
+Parakeratosis. شايفين الـ Stratum corneum بقت قد إيه؟ شايفين؟ الـ Stratum
+corneum الطبيعي بتاعها مش كده، بقى في Hyperkeratosis. طيب إحنا عندنا Stratum
+corneum، Stratum granulosum، Stratum spinosum، Stratum basalis. في حاجة ناقصة
+هنا؟
+
+Student: Granulosum.
+
+Professor: الـ Granular layer مش موجودة، Absence of stratum granulosum. ليه؟
+ليه؟
+
+Student: عشان الـ Proliferation سريع.
+
+Professor: Rapid proliferation، بعد ما كانت بتاخد شهر بقت تاخد أسبوع، فمش لاحقة.
+فتخيلوا النقط الزرقاء دي إيه؟ عبارة عن خلايا كيراتينوسايت، فاكرين لما كنت بقولكم
+الكيراتينوسايت عبارة عن Dead cell؟ مبقاش Dead، من كتر السرعة واللهوجة المصنع
+عمال بيصنع بيصنع بيصنع ويرمي يصنع ويرمي، فمبيلحقش يحصل Differentiation،
+فمبتلحقش الخلايا تموت وتعمل لي Stratum corneum جاهزة، لأ ده بيطلعها وهي لسه
+فيها الـ Nucleus بتاعتها. الحاجه دي بنسميها في الـ Histopathology بتاعنا إيه؟ زي
+ما قلته Parakeratosis. يعني إيه Parakeratosis يا دكاترة؟ يعني Retained nucleus
+في الـ Stratum corneum. يعني إيه؟ يعني Retained nucleus في الـ Stratum
+corneum. النقط الزرقاء دي كلها عبارة عن خلايا موجود فيها الـ Nucleus، وده مش
+طبيعي، المفروض الـ Stratum corneum عبارة عن Dead keratinocytes صح ولا إيه؟
+من كتر السرعة واللهوجة ملحقتش أصلاً تعملها، طلعت من الـ Spinosum على الـ
+Corneum على طول، حتى مفيش وقت إن هي تعمل Stratum granulosum ولا الـ Keratohyalin
+granules ولا الـ Transglutaminase ولا البروتينز ولا الـ Lamellar bodies ولا
+الحاجات اللي إحنا قعدنا نعيش فيها في أول محاضرة دي. لأ دي شقلبتها بسرعة،
+فمبقاش في أصلاً Granular cell layer، وبقى في Hyperkeratosis، وبقى في
+Parakeratosis. ده على مستوى الـ Epidermis، على مستوى الـ Dermis هنشوفه كمان
+شوية.
+
+
+
+Here is the cleaned, formatted, and professionally edited transcript of the 2nd part of the 
+lecture. All educational content, explanations, and Q&A have been preserved
+verbatim, with filler words removed and proper punctuation added for
+readability.
+
+[00:00:00]
+
+Professor: نزلت على الـ Naive T-cell طلعتلي دول: T-helper 1، T-helper 22،
+T-helper 17. طلعتلي إيه؟ Tumor Necrosis Factor alpha، والـ Interleukin 22، والـ
+Interleukin 17 بردو. أنا عايزة هتعملي Psoriasis، أنا عايزة أقفل الـ Tumor
+Necrosis Factor alpha. الـ Infliximab، والـ Adalimumab، والـ Etanercept، تتحفظ
+كده. الثلاثة دول مابيتنسوش. طيب، أنا عايزة أقفل الـ Interleukin 17 بالـ
+Secukinumab، اللي هو مين؟ اللي هو مين مشهور أوي؟
+
+Student: الـ Cosentyx.
+
+Professor: الـ Cosentyx، تمام. والـ Ixekizumab، والـ Brodalumab، مفيش مشكلة.
+عايزة أقفل الـ Interleukin 12، ده اللي طلع T-helper 1، والـ Interleukin 23.
+انتوا حفظتوا الكلام ده ولا ماحفظتوهوش؟
+
+Student: بنحاول نحفظه.
+
+Professor: نحاول نحفظه عشان الـ Biologics مهمة جداً جداً، يا لهوي! مهمة جداً، مش
+عايزة أقولكم يعني بمنتهى الأهمية اللي في الامتحان كمان. وأسماء Biologics إحنا
+منعرفش عنها حاجة، عشان كده بعتلكم الصورة بتاعت الـ Interleukins دي عشان
+تحفظوها، عشان بعد كده هجيب لكم أسماء الـ Biologics اللي إحنا مش عارفينها،
+وتحفظوها بناءً على اللي انتوا عارفين الـ Interleukins. فدي ماتتنسيش، لأن مثلاً
+في حاجة اسمها Ustekinumab، ده بتاع الـ Interleukin 12 والـ Interleukin 23. إنتي
+لو حد بالـ Logic كده، يا دكتورة إيه اللي جاب Interleukin 12 و 23 وهما أصلاً
+مالهمش رول في الـ Psoriasis؟ ما إحنا لو ملناش علاقة بدي خالص هنبقى عارفين
+إن الـ Interleukins دي بس هي اللي بتشتغل. لا، ده دول أصلاً اللي بيعملوا
+Induction لتطليع الـ T-helper نفسها عشان تطلعلي الـ Interleukins دول. ففي دوا
+اسمه Ustekinumab، ده اللي بيقفل الحنفية من الأول عشان مايطلعليش الـ T-helper
+نفسها. فهمنا؟ الدنيا سهلة ولا صعبة؟
+
+Student: اه تمام يا دكتور إيمان.
+
+Student: لا صعبة عايزة تتحفظ.
+
+Professor: صعبة عايزة تتحفظ، ولا إنتي مافهمتيش؟ في فرق.
+
+Student: لا الفهم كويس، بس هي أسماء عايزة تتحفظ يعني.
+
+Professor: فيها أسماء عايزة تتحفظ، وفيها أسماء عايزة تتذاكر، وبعد ما تذاكريها
+تذاكريها تاني وتالت وعاشر، ده هاجس جلدية كده. بس أهم حاجة تخرجي من المحاضرة
+فاهمة، بعد كده كله هييجي بإذن الله. بس صدقوني، أي حاجة بتحفظوها في الـ
+Etiopathogenesis بتوفر عليكم كتير جداً جداً في التشخيص، في الـ Differential
+diagnosis، في الـ Treatment، في إن إنت تبقى دكتور شاطر. عشان كده أنا بحب الـ
+Etiopathogenesis. الدنيا جاية منين ورايحة على فين؟ إنتي هتعرفي لو حتى مش حافظة
+أي Prescription لأي حاجة، إنتي هتطلعي الدوا من الـ Mechanism بتاعتها، من الـ
+Etiopathogenesis نفسها. تمام يا دكاترة؟
+
+إحنا حصل Immune dysregulation، خلاص الـ T-helpers طلعت وطلعت الـ Interleukins
+بتاعتها، تعملي إيه بقى؟ أولاً: Increased proliferation under the effect of
+keratinocyte growth factor. الـ Turnover للـ cell cycle is shortened from 28
+days to about 1 week. ثاني حاجة: Abnormal differentiation and keratinization of
+the granular and horny cell layer. يعني مش مجرد إن الـ Proliferation سريع، لا ده
+الـ Differentiation كمان بقى فيه مشكلة. أومال إيه المشكلة بتاعت الـ
+Differentiation؟ الـ Differentiation كان فيه Keratin 1 و 10، فاكرين الكلام ده؟
+مابقاش Keratin 1 و 10، بقى Keratin 6 و 16 و 17، ده اللي بيحصل Expression للـ
+Keratinocytes بتطلعلي أنواع الـ Keratin دي. عشان كده بردو موجود الـ Scales
+الكتير، الدنيا مش متماسكة، مش ده الـ Keratin بتاع الـ Stratum corneum
+المفروض يبقى مأهلها إن هي تبقى Barrier كويس، لا مابقاش موجود، بقى موجود
+Keratin 6 و 16 و 17. طيب، الـ Cytokines production بتطلع Interleukin 1 والـ
+Selectin expression والـ Lymphocyte recruitment، نفس الكلام اللي إحنا قلناه مفيش
+أي اختلاف. الـ Slide دي ملهاش أهمية غير بس إن انتوا تبقوا عارفين النقطة دي، الـ
+Increased expression بتاع الـ Keratin 6 و 16 و 17. تمام يا دكاترة؟ إحنا كده
+خلصنا الجزء الصعب.
+
+[00:10:00]
+
+Professor: اللي جاي بقى شغلنا إحنا Clinical بقى، أنا بشوف إيه؟ الـ Clinical
+features بتاع الـ Psoriasis بيقولي إن أنا عندي Classical cases. الـ Classic case
+اللي إحنا عارفينها عبارة عن إيه؟ بشوف فيها إيه؟ بشوف Erythema، Epidermal
+thickening، Scales. نفس الكلام مابقولش كلام جديد. الـ Erythema سببها إيه؟ شفتوا
+أنا عكست، الأول كنت بقولكم Etiopathogenesis فيعملي Erythema، هنا بقول الـ
+Erythema سببها إيه؟ نفس الكلام: Erythema due to vascular angiogenesis resulting
+in elongated, dilated dermal papillary capillaries. بمعنى إيه؟ إن الـ
+Capillaries الموجودة في الـ Dermis خلاص بقت Elongated و Dilated و Tortuous، يعني
+كبرت وتخنت وترعرعت وبقى فيها نمو كبير.
+
+ثاني حاجة: Epidermal thickening، إيه اللي بيحصل؟ تديني Papule أو Plaque نتيجة
+إيه؟ نتيجة الـ Epidermal acanthosis والـ Keratinocyte proliferation والـ
+Cellular infiltrate. نفس الكلام ماقلتش حاجة جديدة، Cellular infiltrate يعني وجود
+الـ T-helper كتير في المنطقة دي. الـ Scales: Due to abnormal keratinization and
+rapid turnover. عشان كده قلتلكم الـ Abnormal keratinization، الـ Keratin 6 و 16
+و 17 بدل Keratin 1 و 10. يديني الشكل ده، شوفوا الشكل ده يظهر من إيه؟ يعني كل
+اللي إحنا بنعمله ده عشان يظهرلي الشكل ده.
+
+الـ Histopathology بقى، من تفكيركم كده حد بقى يتكلم معايا ويقولي هشوف إيه في الـ
+Slide بتاع الـ Psoriasis؟
+
+Student: هشوف Acanthosis.
+
+Professor: تمام. يعني إيه Acanthosis؟
+
+Student: Acanthosis يعني Hyperproliferation للـ Epidermis.
+
+Professor: أيوة، أي مكان؟ الـ Spinous cell والـ Basal، خصوصاً الـ Spinous.
+
+Student: قصدك على الـ Cells؟
+
+Professor: اه.
+
+Student: Thinning في الـ Dermal papillae. في الـ Epithelium اللي فوق الـ Dermal
+papillae.
+
+Professor: تمام، عايزة تقولي الـ Suprapapillary thinning وتشرحوا عليها. بس
+الصورة هتظهر أهي، يلا.
+
+Student: الـ Epithelium اللي فوق الـ Dermal papillae. والـ Parakeratosis.
+
+Professor: تمام، اللي هي دي. دي عبارة عن Dermis، بصوا بقت كأنها صوابع. الدنيا
+كانت الأول تمام، Epidermis ماسكة نفسها و Dermis تحتها طبقتين. دلوقتي مابقاش
+طبقتين، بقت صوابع من الـ Epidermis نازلة تحت عشان الـ Acanthosis، هو ده معناه
+الـ Acanthosis. وبقت صوابع من الـ Dermis طالعة فوق. الحتة اللي في النص دي بقى
+فيها Thinning، الحتة بتاعت الـ Epidermis اللي فوق الـ Dermal papillae دي
+بنسميها Suprapapillary thinning. بقى فيها Thinning، الـ Thinning ده يعملي
+إيه بقى كـ Clinical؟
+
+Student: Auspitz sign.
+
+Professor: الـ Auspitz sign بالظبط. الـ Scales لما أقشرها بتتقشر بسرعة، فأنا شفت
+الـ Blood vessels بسرعة. عشان دي، الحتة دي رقيقة، ده أولاً. وثانياً عشان الـ
+Blood vessels أصلاً يعني كبيرة وتخينة وضخمة خلاص دلوقتي عايزة تخرج أصلاً من الـ
+Epidermis. تمام يا دكاترة؟ طيب وبنشوف إيه تاني؟
+
+Student: Parakeratosis.
+
+Professor: Parakeratosis تمام، اللي هي يعني إيه Parakeratosis؟
+
+Student: Parakeratosis retention of nuclei.
+
+Professor: أيوة، Retained nucleus في الـ Stratum corneum. كويس أوي، ده بالنسبة
+لحد دلوقتي إحنا بنقول الـ Epidermis. ماشي، في حاجة تانية في الـ Epidermis؟
+
+Student: Absence of granular layer.
+
+Professor: Absence of granular cell layer. خلينا بقى ناخدها بالترتيب كده للـ
+Psoriasis، احفظوها معايا بالترتيب من فوق لتحت. أولاً Parakeratosis، يعني في
+Hyperkeratosis هنا و Retained nucleus بنسميها Parakeratosis. Absence of granular
+cell layer، مش هلاقي Granular cell layer موجودة. Regular acanthosis، الـ
+Acanthosis اللي هي الـ Increased proliferation بتاع الـ Stratum spinosum بس
+Regular. يعني إيه Regular؟ عشان في أمراض تانية بتبقى Irregular. بتبقى شكلها إيه؟
+Test tube appearance بالمنظر اللي إحنا شايفينه ده، Test tube كأنها Test tube
+وعاملة Clubbing، ده معنى الـ Clubbing إن اتنين Tube لازقين في بعض عاملين الـ
+Clubbing ده. شايفينه؟ عشان تبقوا عارفين لما بتقرأوا أي كلام عارفين إيه الشكل أو
+مش بتحفظوا حاجة كده. طيب، Suprapapillary thinning، الكلمة اللي إحنا قلناه أهي،
+فوق الـ Dermal papillae thinning للـ Epidermis بقت رفيعة. غير دي طبعاً. طيب إيه
+تاني؟ Exocytosis و Neutrophils. يعني إيه Exocytosis؟
+
+Student: يعني Presence of lymphocytes في الـ Epidermis. بس Benign.
+
+Professor: تمام، برافو عليكي يا دكتورة مين؟ الدكتورة شريفة اللي معايا؟
+
+Student: اه.
+
+Professor: طيب تمام برافو عليكي. يعني إيه Exocytosis؟ يعني وجود، هل سؤال الأول
+طبيعي إن أنا ألاقي Lymphocytes في الـ Epidermis يا دكاترة؟
+
+Student: لأ.
+
+Professor: مش طبيعي، صح ولا إيه؟ كل الناس ترد عليا. هل من الطبيعي وأنا بشرحلكم
+في الـ Structure بتاع الـ Skin قلتلكم إن الـ Lymphocytes موجودة في الـ
+Epidermis؟
+
+Student: لأ.
+
+Professor: ماكانتش موجودة. لو بقت موجودة في الـ Epidermis، حالتين يبقوا موجودة
+في الـ Epidermis. أول حالة اللي قدامنا دي وبنسميها Exocytosis. Exocytosis
+معناها Presence of lymphocytes in the epidermis. موجودة في الـ Psoriasis
+بس؟ لأ مش في الـ Psoriasis بس، ممكن تبقى Psoriasis، ممكن تبقى Eczema، موجودة
+في الـ Inflammatory diseases عموماً. أي مرض Inflammation هيستدعي الـ Antigen
+presenting cell فهتروح تجيب الـ T-cell وترجع وتجيلي في الـ Epidermis، فكده اسمها
+Exocytosis. خصوصاً في الـ Psoriasis والـ Eczema. ولكن لو الـ Lymphocytes اللي جت
+دي بقت Malignant lymphocytes وطلعت قعدت فوق في الـ Epidermis، دي بنسميها
+Epidermotropism. ودي من أهم الـ Signs اللي عندنا في الجلدية في مرض مشهور جداً
+اسمه Mycosis Fungoides، وده نوع من أنواع الـ Primary Cutaneous Lymphoma. تمام
+يا دكاترة؟
+
+يبقى Parakeratosis، Absence of granular cell layer، Regular acanthosis اللي هي
+Test tube appearance، Suprapapillary thinning، Exocytosis of some lymphocytes،
+Neutrophils (Munro and Kogoj microabscesses). تمام يا دكاترة؟ الـ Munro هي اللي
+موجودة فوق في الـ Epidermis.
+
+[00:20:00]
+
+Professor: طيب، في الـ Dermis هنلاقي إيه؟ تخيلوا معايا كده في الـ Dermis هنلاقي
+إيه؟
+
+Student: Dilated blood vessels.
+
+Professor: بالظبط. أولاً Blood vessels elongated و dilated و tortuous، دي اللي
+إحنا قلناه. تاني حاجة خلايا كتير، ده بقى Media lymphocytes على Neutrophils على
+مواويل بقى. يبقى إيه اللي بيحصل؟ Increased number and length of the dilated
+tortuous capillaries. Number والـ Length، Angiogenesis. Edema at the top of the
+dermal papillae، عشان كده بتديني Club shaped. Mixed perivascular infiltrate،
+يعني بمعنى إيه؟ الـ Lymphocytes والخلايا اللي جاية دي جاية منين؟ جاية من الـ
+Blood vessels صح؟ فهنلاقي حوالين كل Blood vessel خلايا كتير، خلايا كتير أوي من
+Lymphocytes، Macrophages، Neutrophils. تمام يا دكاترة؟ بصوا حوالين كل Blood
+vessel الدنيا عاملة إزاي؟ دي الخلايا أصلاً اللي هتيجي عشان تطلع فوق وتيجي بقى
+تعمل Munro و Kogoj microabscesses، الـ Neutrophils تعملي Exocytosis للـ
+Epidermis دي Lymphocytes كده. حوالين كل Blood vessel خلايا كتير، والـ Blood
+vessels بقت كتير، بقت كتير، بقت كتير، شايفينها؟ تمام كده؟
+
+تمام كده يا دكاترة ولا الدنيا... فاهمين الدنيا كده؟ إحنا كده يعتبر خلصنا الـ
+Psoriasis كمرض، فهمنا الدنيا بتاعته ماشية إزاي كـ Etiopathogenesis، كـ Clinical،
+كـ Histopathology. فهمنا يا شباب ولا في حاجة مش مفهومة؟
+
+Student: لا واضح يا دكتور، تمام.
+
+Professor: طيب تمام. ندخل بقى في حاجات دلوقتي Variant of psoriasis. الـ
+Psoriasis دي هل هو النوع ده وخلاص خلصنا الـ Plaque psoriasis والـ Erythematous
+plaque والـ Silvery white scales ولا الموضوع أكبر من كده وأعمق من كده؟ ما تبقاش
+جلدية لو الموضوع ما كانش أكبر وأعمق و Variant وحاجات تلخبط وحاجات تجيب دماغنا
+يمين وشمال، لازم هي الجلدية كده. إيه أنواع الـ Psoriasis اللي انتوا عارفينها؟
+يلا كل واحد فيكم يقول نوع بقى. إحنا 21، أنا عايزة الـ 20 يشاركوا ويقولولي كل
+واحد نوع. يلا.
+
+Student: Psoriasis Vulgaris.
+
+Professor: يا سلام، برافو عليكي. Psoriasis Vulgaris هي اللي إحنا بنتكلم فيها.
+كلمة Vulgaris يا دكاترة يعني المشهورة، فهي الـ Classic psoriasis. ماشي،
+ماتقوليش تاني بقى يا دكتورة دعاء صح؟
+
+Student: Guttate psoriasis.
+
+Professor: Guttate psoriasis، برافو. حد تاني.
+
+Student: Pustular.
+
+Professor: Pustular psoriasis، برافو. حد تاني.
+
+Student: Erythrodermic.
+
+Professor: Erythrodermic psoriasis، الدكتورة قالتها قبل كده.
+
+Student: Psoriatic arthritis.
+
+Professor: Psoriatic arthritis، تمام.
+
+Student: Nail psoriasis.
+
+Professor: Nail psoriasis، حلو أوي. يلا ركزوا في الـ Sites، هتلاقوها بتجيبوا
+حاجات. الـ Site عموماً.
+
+Student: Inverse psoriasis.
+
+Professor: Inverse psoriasis، ماشي تمام كويس.
+
+Student: Palmoplantar.
+
+Professor: Palmoplantar psoriasis، تقصدي من أنواع الـ Pustular psoriasis ولا
+Palmoplantar العادية؟
+
+Student: Palmoplantar hyperkeratosis يعني.
+
+Professor: طيب تمام. طيب إحنا قلنا شوية أنواع حلوين، ولكن عشان تحفظوها معايا
+احفظوها كان ده ماتش كورة وإحنا الخطة بتاعتنا 4-7-2-8. تتحفظ كده: 4-7-2-8.
+الـ 4 الـ Major اللي انتوا قلتوهم في الأول، الـ 7 على حسب الـ Site (سبع أماكن
+بسبع أنواع)، الـ 2 دول حاجة كده هقولهالكم، الـ 8 أنواع اللي هي الـ Rare. تمام يا
+دكاترة؟
+
+الـ 4 عبارة عن إيه؟ Psoriasis Vulgaris، Guttate psoriasis، Erythrodermic
+psoriasis، Pustular psoriasis. طيب الـ 7؟ Nail psoriasis، Psoriatic arthritis،
+Scalp psoriasis، Palmoplantar psoriasis، Mucosal psoriasis، Flexural psoriasis
+(اللي الدكتور قال عليها Inverse psoriasis)، Penile psoriasis كمان. الـ 2 دول ما
+يعتبروش Type لوحدهم ولكن عشان بيكون ليهم شغل تاني فاعتبروهم أنواع تانية، ولكن
+هما Psoriasis: Childhood psoriasis، Unstable psoriasis. Childhood بتبقى نفس
+الأنواع العادية ممكن ييجي Guttate psoriasis، ممكن Psoriasis Vulgaris، ولكن
+بيبقى التعامل مع الـ Childhood psoriasis مختلف عن الـ Psoriasis العادية اللي
+بتيجي في الكبار. Unstable psoriasis، Psoriasis عادية بدأ يحصل Triggering factor
+أو مشاكل تبتدي تتحول لـ Unstable، يعني تبقى Severe مثلاً أو تتحول من Psoriasis
+عادية لـ Generalized pustular psoriasis أياً كان. Unstable يعني مش مستقرة،
+Erythrodermic مثلاً كده. الـ 8 Types الـ Others دول حاجة اسمها Rupioid،
+Elephantine، وانتوا قاعدين كده تبقوا تجيبوا أو في المحاضرة الجاية في الغالب
+هوريكم صورها كلها، بس انتوا بردو تبصوا عليها على جوجل. افتحي Rupioid
+psoriasis شوفي شكلها عامل إزاي، Elephantine psoriasis، Ostraceous psoriasis،
+Digital والـ Interdigital، والـ Verrucous، والـ Lichenoid، والـ Follicular. تمام
+يا دكاترة؟ 4-7-2-8، طبعاً أهم 4 هما دول والـ Sites مهمين عشان فيهم Nail وفيهم
+Psoriatic arthritis وفيهم Scalp بردو. تمام؟ 4-7-2-8، كده مش هيتنسوا.
+
+أول حاجة بقى الـ Psoriasis Vulgaris ومش هنتكلم عنها كتير لأن دي بتاعتنا أصلاً
+اللي إحنا عمالين نتكلم عليها من الصبح. دي الـ Most common، عبارة عن إيه؟
+Well-defined erythematous plaque with silvery white scales. بتيجي فين أكتر؟ في
+الـ Elbow والـ Knee والـ Perisacrum في المنطقة دي. دايماً إنتي لو شكيتي في
+Psoriasis أول حاجة تسأليها للـ Patient: بيطلعلك قشور أو حاجات من دي في الركب، في
+الكيعان بتاعتك؟ لو شفتي مثلاً حالة Scalp psoriasis وشاكة فيها، أول حاجة تسألي
+فيها: انت بيطلعلك حاجة في ركبك أو كيعانك أو كده؟ لأن ده أكتر Site مشهور بالـ
+Psoriasis. تمام؟ الـ Differential diagnosis بتاعتي ممكن نحط إيه؟ طبعاً، طبعاً
+الـ Differential diagnosis من أهم أهم أهم أهم الحاجات في الجلدية، لا يقل
+أهمية عن الـ Etiopathogenesis. المرض عبارة عن Etiopathogenesis جاي منين
+ورايح فين، ولكن أنا كدكتور قاعد في عيادتي أنا مش بييجي لي Patient وعليه ورقة
+ده مرض كذا، لأ ده أنا أول احتكاكي بأي مريض Differential diagnosis. يعني بشوف
+Papule، Plaque، عشان كده بقولكم لازم تجيبوا الـ Primary lesion. لو شفتوا حالة
+مليانة Pustules، مليانة Crustation، مليانة Ulceration، لازم تروحي في حتة
+فاضية خالص وتدوري على الـ Primary lesion. تجيبي الـ Primary lesion بتاعك
+وتبدأي تحطي الـ Differential diagnosis، ده شغل Clinical بحت. أنا المريض مش
+بيجيلي يقولي أنا صدفية، إنتي ممكن حالة جديدة إنتي بتشخصيها. إنتي شايفة Lesion
+قدامك، طب ليه حطيتي Psoriasis؟ عشان ده هي Erythematous plaque. طب في حاجات تانية
+ممكن تبقى Erythematous plaque؟ ممكن تبقى داخلة على Violaceous plaque، ممكن تبقى
+Raised مثلاً، فنحط زي مين؟ زي Hypertrophic Lichen Planus. زي مين تاني؟ زي الـ
+Dermatomyositis، إيه الـ Dermatomyositis؟ الـ Gottron sign اللي بتبقى
+Erythematous scaly plaque بردو على الركب وعلى الكيعان وعلى الصوابع. تمام؟ زي الـ
+Eczema طبعاً، أشهر حاجة ممكن معاكي. زي الـ MF، بتبقى أصلاً Psoriatic plaques
+موجودة. تمام يا دكاترة؟ الـ Differential diagnosis في الجلدية من أهم الحاجات
+اللي بتفرق دكتور شاطر عن دكتور يعني شوية كده عايز شوية مذاكرة. تمام يا دكاترة؟
+إحنا بقى زي الشاطرين هنعمل إيه وإحنا بنذاكر؟ هنفتح نشوف الـ Hypertrophic
+Lichen Planus كصور، قلتلكم بحب الصور جداً ومش من فراغ، سواء صور حالات أو صور
+تفهمني Etiopathogenesis. شوفي الـ Hypertrophic Lichen Planus شكله إيه بالـ
+Variants بتاعته، شوفي الـ Dermatomyositis شكلها عامل إزاي، شوفي الـ MF شكله عامل
+إزاي، شوفي الـ Eczema عامل إزاي، وابدأي قارني. عينيكي تاخد على الحاجات تبدأي
+تشخصي كويس.
+
+[00:30:00]
+
+Professor: تاني نوع الـ Guttate psoriasis. Guttate psoriasis من اسمها Guttate
+يعني حاجات Small papules. Guttate psoriasis mainly بتيجي في الأطفال، mainly
+بتيجي بعد Streptococcal upper respiratory tract infection. تمام؟ Multiple
+small papules with thin scales. Small papules with thin scales. أحطلها
+Differential إيه؟ يعني أنا لو شفت المنظر ده، بيقولي Widely disseminated on
+trunk. لو شفت المنظر ده ممكن أحط إيه كـ Differential diagnosis؟
+
+Student: Chickenpox.
+
+Student: Measles والـ Viral... Measles والـ German measles و Rosacea.
+
+Professor: كويس أوي. Pityriasis Rosea، عشان الـ Pityriasis Rosea بردو عبارة عن
+Small papule، Erythematous papule وعليها Collarette scales صح؟ لكن ممكن تحطي
+Chickenpox؟ ممكن تحطي Pityriasis؟
+
+Student: مفيش Vesicles.
+
+Professor: أيوة تمام. أنا عايزة حد يشارك معايا مع الدكتورة دعاء يا دكاترة. ليه
+مش هنحط Chickenpox هنا؟
+
+Student: Chickenpox vesicles.
+
+Professor: أيوة تمام. شفتوا أهمية الـ Primary lesion انتوا قلتوها إزاي؟ مخك
+System لا دي مش Chickenpox لأن الـ Primary lesion بتاع الـ Chickenpox عبارة عن
+Vesicles، أنا ماشفتش هنا Vesicles. شفتوا الدنيا ماشية إزاي؟ شفتوا أهمية الحاجة
+بتيجي منين؟ هنا عبارة عن Papules صغيرة، أنا الـ Chickenpox مستحيل يتحط هنا.
+طيب تمام، نحط إيه؟ نحط زي ما الدكتورة قالت أهم حاجة Pityriasis Rosea عشان
+بتبقى نفس الشكل ده بس عليها Collarette scales وممكن تبقى أكبر شوية. ممكن نحط
+الـ PLC، مش الـ PLEVA عشان الـ PLEVA بردو بتبقى كده ولكن بيبقى عليها Hemorrhagic
+crust. الـ PLC بتبقى Papules وعليها Mica scales، قشرة اسمها إيه؟ الـ Scales
+بتاعتها بتبقى شكلها إيه؟ تخيلوا إحنا بنفرق الأمراض من إيه؟ تخيلوا الـ Mica
+scales، برافو عليكي. إن بتبقى عليها قشرة قوية بتتشال كلها كاملة، فعشان كده هي مش
+PLC. ممكن نحط الـ Secondary syphilis عشان الـ Secondary syphilis بيكون
+Psoriasiform eruption، شكل الـ Psoriasis بالظبط. تمام؟
+
+تالت نوع من أنواع الـ 4 المشهورين بتوعنا: Erythrodermic psoriasis. يعني إيه
+Erythrodermic psoriasis؟ يعني إيه Erythroderma؟
+
+Student: Generalized erythema and scales.
+
+Professor: Generalized erythema and scaling more than 90% of body surface area.
+برافو عليكي. ده منظر الـ Erythroderma. الـ Erythroderma ده Chapter لوحده، أمراض
+كتيرة جداً جداً جداً جداً تعملي Erythroderma. من ضمنهم الـ MF، من ضمنهم الـ
+Eczema، من ضمنهم الـ Atopic dermatitis، من ضمنهم الـ Psoriasis، من ضمنهم الـ
+Ichthyosis في الأطفال. فده Chapter لوحده خالص. من ضمنهم طبعاً الـ Drugs. كان إيه
+أهم تلات حاجات بتعملي Erythroderma؟
+
+Student: Psoriasis.
+
+Student: Steroid withdrawal.
+
+Student: الـ MF.
+
+Professor: ماشي. الـ Drugs، والـ Psoriasis، والـ Atopic dermatitis. دول أهم تلات
+حاجات. إيه اللي يخلي مريض Psoriasis، في حد قالها دلوقتي، يتحول من Psoriasis لـ
+Erythrodermic psoriasis إن جسمه كله بتاعه يبقى بالمنظر ده؟ Generalized erythema
+and scaling more than 90%. طبعاً دي حالة، حالة مش ICU بس المفروض بتتحجز، حجز في
+المستشفى. تمام؟ إيه اللي يوصلها لكده؟ هل في Risk factors معينة؟
+
+Student: Infection، Steroids.
+
+Professor: Steroids، يعني إيه Steroids؟ يعني لما أدي Steroid؟
+
+Student: Sudden withdrawal of steroids.
+
+Professor: Sudden withdrawal للـ Steroid بالظبط كده. عشان كده إحنا مابنعالجش
+أبداً الـ Psoriasis بـ Systemic steroid أبداً. مع إن يا دكتور بيقولوا بيحصل
+Dramatic response مع الـ Steroid. أما توقفيه يقلب Pustular psoriasis أو
+Erythrodermic، عشان كده ممنوع. تمام؟
+
+رابع نوع، وده النوع الأخير النهارده اللي هنتكلم فيه ومش حتى مش هنشرحهم، مش هنشرح
+الأنواع كلها. الـ Pustular psoriasis، إحنا قلنا أنواع الـ Psoriasis حد يقولي
+الأرقام اللي إحنا قلناه؟
+
+Student: 4-7-2-8.
+
+Professor: 4-7-2-8، ماشي. مين اللي بتتكلم؟ الدكتورة اللي معانا هيحفظوا خطة
+الكورة على طول. دي خطة، أهلاوي بقى ومش عارفة مين والناس الأهلاوية دول
+فكده. دي خطة: 4-7-2-8. أيوة برافو عليكم، 4-7-2-8. ده آخر واحد في الـ 4. الـ
+Pustular psoriasis بقى فيه كام نوع؟ ما شاء الله علينا وعلى الجلدية وعلى جمالها.
+فيها Generalized و Localized. الـ Generalized عبارة عن إيه؟ حوالي خمس أنواع،
+والـ Localized نوعين. Generalized أول نوع منهم اسمه Acute generalized
+pustular psoriasis، وبنسميه الاسم التاني بتاعه Von Zumbusch. تاني نوع Circinate
+أو Annular أو Linear exanthematous psoriasis. تالت نوع Infantile psoriasis.
+رابع نوع Localized but not in the hand and feet، إحنا نسينا نوع. Generalized
+pustular psoriasis in pregnancy. يبقى إحنا الأنواع بتاعتنا إيه؟ إحنا دلوقتي
+بنقولها مجرد Enumeration، خلاص المحاضرة خلصت. Acute generalized pustular
+psoriasis اللي هي Von Zumbusch. Generalized pustular psoriasis في الـ Pregnancy.
+Circinate و Annular و Linear. Exanthematous اللي بيبقى شبه الـ AGEP. Infantile
+اللي بييجي في الأطفال. Localized but not in the hand and feet. انتوا شايفين
+العك اللي هما بيعكوه معانا؟ يعني أنا عندي نوع Generalized وعندي نوع
+Localized. الـ Localized ده عشان تحفظوه، الـ Localized لوحده ده يا إما
+Palmoplantar يا إما بييجي في الصوابع. تمام؟ في الصوابع بالضوافر، اللي هو اسمه
+إيه؟ Acrodermatitis continua of Hallopeau، بالظبط كده. ولكن في نوع من أنواع
+الـ Generalized بنسميه Localized but not in the hand and feet. بمعنى إيه؟ لو
+جالي Localized pustular psoriasis، هي دي ملهاش Clinical correlation أو حاجة
+هتفيدنا بحاجة، مش هتفيدنا بحاجة صراحة بس هي معمولة كده بالأنواع بتاعتها.
+Localized مش في الـ Hand والـ Feet بيعتبر تحت بند الـ Generalized. فهمتوا؟ لكن
+الـ Localized لازم يبقى في الـ Hand والـ Feet، في الـ Palmoplantar pustulosis
+اللي بتيجي في الـ Palm أو الـ Sole، أو Acrodermatitis continua of Hallopeau.
+تمام يا دكاترة؟
+
+[00:40:00]
+
+Professor: تمام كده لحد دلوقتي الدنيا تمام؟ إحنا بالنسبة لنا كده المحاضرة
+النهارده يعني الحمد لله خفيفة وخلصت. ولكن حد فيكم مش فاهم أي حاجة من اللي
+فات؟
+
+Student: يا دكتور إيمان بس عليا كم سؤال.
+
+Professor: قوليلي.
+
+Student: أول حاجة يعني هو الـ Definition دلوقتي أنا عارفة إن هو، إن أنا مثلاً
+لما كنت باخد الماستر كان دايماً الـ Psoriasis immune-mediated cell، ماكانوش
+بيقولوا إنها Non-inflammatory، وكمان بيقولوا إنها Non-itching. بعد شوية قالوا
+لا Inflammatory وإنها Itching وكمان بتسيب Post-inflammatory hyperpigmentation
+مش Post-inflammatory hypopigmentation.
+
+Professor: بصي، هو الأول كانوا بيقولوا Non-itchy، لكن الـ Psoriasis itchy. وممكن
+نترجمها ليه؟ عشان فيها Neutrophils.
+
+Student: أنا قصدي بس عشان الـ MCQ. لو MCQ يعني إيه أكتر حاجة؟ يعني مثلاً لو
+إداني كام تعريف وقال لي...
+
+Professor: مش هيجيبلك الكلام ده. الـ MCQ مش هيجيبلك الكلام ده. الـ MCQ بتاع الـ
+SCE يا دكاترة مختلف. بيجيبلك Case ويلففك حوالين نفسك بالـ Case، وبعد كده يسألك
+بقى حاجة جواها. لكن مش هيسألك هل هي Itchy ولا لأ، مش هيسألك في Definition. خدي
+بالك، يعني إيه Immunological ويعني إيه Inflammatory؟ يعني إيه أصلاً؟ ما الاتنين
+Immunological، يعني أي حاجة Inflammatory هتبقى Immunological. ما الـ
+Inflammation دي هي الخلايا المناعية بالـ Interleukins بالـ Cytokines. فإنتي في
+الأول هتلاقيني قلتلك إن هي Immune-mediated، بعد شوية قلتلك إن هي T-cell
+mediated inflammatory disease، فكلها واحد. مش هيلعب بأي ألفاظ عشان... هبقى
+أنزلكم سؤالين تلاتة على ما تحلوا الـ Study PRN وأعرفكم طريقة طريقتهم عاملة
+إزاي في الأسئلة. هما أعمق من كده بكتير، بكتير. هما عايزين يعرفوا إنتي Clinician
+شاطر ولا لأ. لأن إنتي خدي بالك إنتي بتاخدي شهادة زي دي بتخرجي بيها، أيوة نعم هي
+مش مرخصة لينا في مصر أو حتى في الدول العربية، بس هي كشهادة معتمدة عندهم. فإنتي
+هتاخديها إنتي خلاص بقيتي Consultant جلدية. فبيطمنوا من الأسئلة كأنه First و
+Second و Third بتاعنا. كأن دكتور قاعد معاكي وبيفصصك يعني بيعرف إنتي مخك بتفكري
+إزاي. حتى كمان بيدرس إنتي خبرة ولا لأ. عشان كده دايماً بقولكم هتذاكروا كويس
+والناس اللي لسه جديدة أوي هتصبر شوية على نفسها. عايز حد مستوي، إنتي فهماني
+أقصد إيه؟ حد خبرة، حد شاف الحالات، حد لف، حد اتعامل، حد قرأ كتير، مش حد حافظ
+كلمتين الطريقة اللي إنتي بتقوليها دي ده الـ MCQ بتاعنا اللي هو إنتي حافظة الكتب
+و Itchy ولا Non-itchy؟ طب لا دي Inflammatory ولا مش Inflammatory؟ ده T-helper
+ولا T-cytotoxic؟ لا هما مش كده.
+
+Student: تمام. لا أنا قصدي عشان ما يبقاش في أي حاجة مثلاً يقول لي...
+
+Professor: لا مفيش لعب في كده. ولكن اللعب في إيه؟ إن تبقي عارفة الـ Interleukins
+كويس أوي، طالعة إزاي، إيه اللي طلع الـ T-helper، الـ T-helper نفسها طلعت إيه،
+إيه الـ Biologics اللي مسؤولة عنها، الأدوية نفسها. فهماني؟ بيحبوا الـ
+Etiopathogenesis جداً جداً جداً. يجيبلك الـ Case clinical إنتي هتشخصيها، بعد كده
+يبتدي يلعبلك في أسئلة الـ Etiopathogenesis. جين معين، هالة معينة موجودة، فهماني؟
+أي حاجة كده ليها علاقة بالـ Etiopathogenesis والجينات بالذات بيحبوها.
+
+Student: طيب الـ Drugs كان الـ Beta-blocker والـ Lithium والـ Antimalarial وكان
+في حاجة اختصار INF بس مش عارفة...
+
+Professor: Interferon.
+
+Student: Interferon، تمام. طيب بالنسبة للـ Type، يعني مع الـ Clinical كنت بشوف
+مثلاً Hypopigmented psoriasis، ولا ده مش Type؟
+
+Professor: ده مش Type. ده الـ PIH. يعني الـ Post-inflammatory hypopigmentation
+بتاعت المرض.
+
+Student: يعني ساعات بتبقى جاية Primary بتاعها أولها Hypopigmented، حتى كانت
+بتبقى داخلة Differential، يعني كنا مثلاً في حالات بتتشخص غلط على إنها
+Vitiligo.
+
+Professor: ما هو مش Type، وخدي بالك الـ Psoriasis والـ Vitiligo Immunological
+diseases فممكن ييجوا مع بعض وبنشوفهم كتير جداً. خصوصاً في حالات الـ Down
+syndrome سبحان الله، ربنا يعافينا يا رب. حالات شفتها كتير جداً جداً في عيادة
+الصدفية في المستشفى. Down syndrome ويبقى عنده Psoriasis و Vitiligo مع بعض.
+والـ Lesion بتاع الـ Psoriasis يخف ويسيب Vitiligo. فممكن يبقوا الاتنين مع بعض،
+لكن مفيش نوع اسمه Hypopigmented psoriasis. Psoriasis يعني Plaque، فهماني؟
+Erythematous plaque.
+
+Student: تمام. في حد عنده أي أسئلة يا دكاترة؟
+
+Professor: المحاضرة مع إنها طويلة، المفروض إن هي بتاخد وقت أطول من كده، بس خلصت
+معاكم بسرعة. معنى كده إن انتوا فاهمين ولا مش فاهمين؟ بس عشان أبقى فاهمة.
+
+Student: ممكن بس الـ Pathology بتاع الـ Psoriasis؟
+
+Professor: صوتك، صوتك مش واضح أوي يا دكتورة.
+
+Student: الـ Histopathology of psoriasis. لو بس سريعاً كده تاني.
+
+Professor: عايزاه تاني؟ الدكتورة مين اللي معايا؟
+
+Student: دكتورة شيماء.
+
+Professor: إزيك يا دكتورة شيماء. طيب قولي إنتي معايا بقى يا حبيبتي. يلا قولي.
+بنشوف إيه في الـ Epidermis؟ بنشوف إيه في الـ Dermis؟ يلا. قولي اللي إنتي
+فكراه، أنا مش عايزاكي تقوليها، قولي اللي إنتي فاهماه، اللي إنتي طلعتي بيه.
+مش عايزة أي مصطلح خالص. المصطلحات دي إنتي جديدة يا دكتورة ولا معانا شوية بقالك
+فترة في الجلدية؟
+
+Student: لا عادي يعني مش... على طول بتلخبط فيها يعني، لأن الموضوع مفيش فيه
+Practice أوي. Especially في الـ Pathology يعني.
+
+Professor: طيب. لا ما إحنا أنا مش عايزة، مش عايزة مصطلحات خالص. يعني مش عايزاكي
+تقولي Parakeratosis ولا Acanthosis ولا الكلام ده. لكن إحنا عندنا، اعرفي الـ
+Pathology منين؟ من الـ Etiopathogenesis. إحنا عندنا T-helper 1 بتطلعلي Tumor
+Necrosis Factor alpha. ده بيعملي إيه؟ بيعملي بيزودلي الـ Proliferation ويزودلي
+الـ Angiogenesis. يزودلي الـ Proliferation هيظهرلي بإيه؟ إن الـ Epidermis
+بتتكون بسرعة جداً جداً جداً. فيعملي إيه؟ Hyperkeratosis و Parakeratosis.
+يعني إيه Parakeratosis؟ يعني الجلد مالحقش يستوي خلايا فطلعت بالـ Nucleus
+بتاعتها فوق في الـ Stratum corneum. دي اسمها إيه؟ اسمها Parakeratosis. طيب،
+الجلد بردو الـ Epidermis مالحقتش في سريعة سريعة سريعة، فالـ Stratum granulosum
+ماتكونتش أصلاً. فـ Absence of stratum granular cell layer. تمام؟ بيقولي
+Regular acanthosis، يعني إيه Acanthosis؟ يعني Proliferation، نتيجة الـ
+Proliferation الكتير الـ Tumor Necrosis Factor طلعت، طلعتلي Keratinocytes كتير
+كتير كتير عملتلي Acanthosis. هو ده الـ Acanthosis، Elongation الكبيرة دي.
+تمام؟ طيب لما يحصل Acanthosis هتيجي الـ Epidermis يعملوا صوابع مع بعض كده،
+فيعملي الـ Papillae، الـ Dermal papillae. فوق الـ Dermal papillae هتبقى الـ
+Epidermis رفيعة، فبنسميها إيه؟ Thinning، Suprapapillary thinning اللي هي دي. طب
+دي Clinical تظهرلي بإيه؟ بالـ Auspitz sign، لما تقشري تلاقي Pinpoint bleeding
+موجود. تمام؟ طيب في إيه تاني؟ هو ده Inflammatory disease، ده Autoimmune
+disease، ده T-helper عمالة تيجي و Macrophages عمالة تيجي كتير. T-helper لما تيجي
+تبقى في الـ Epidermis بنسميها Exocytosis. تمام؟ Exocytosis. تمام؟ طيب في
+Neutrophils كمان، مين اللي بيعملي Chemotaxis للـ Neutrophils يا دكتورة شيماء؟
+مين؟ T-helper إيه و Interleukin إيه؟
+
+Student: Interleukin 17.
+
+Professor: 17، هو اللي بيعملي يجيبلي الـ Neutrophils للـ Skin. يعملي إيه؟ يعملي
+حاجة اسمها Munro و Kogoj microabscesses. معناها إيه؟ Collection للـ Neutrophils
+في الـ Epidermis والـ Dermis. لما تبقى صغيرة أوي اسمها Munro، وده اللي بنشوفه
+بالـ Pathology. الـ Kogoj لو موجودة دي Pustular psoriasis، اتحولت لـ Pustules
+ظاهرة على الجلد. تمام؟ لحد دلوقتي فهمتي؟ أنا كأني بشرحلك الـ Psoriasis كلها
+تاني. ولكن أنا عايزة Pathology بس. Parakeratosis، Absence of granular cell
+layer، Regular acanthosis، Suprapapillary thinning، Exocytosis، Munro و Kogoj
+microabscesses. تمام؟ ده بالنسبة للـ Epidermis. بالنسبة للـ Dermis، عارفين إن
+بيحصل Angiogenesis، فإيه اللي هيحصل؟ هلاقي Dilated tortuous blood vessels،
+والعدد بتاعها بيزيد عشان الـ Angiogenesis والـ Length كمان. تمام؟ هنلاقي
+Edema في الـ Tip of dermal papillae، مفيش مشكلة. Mixed perivascular inflammatory
+infiltrate، يعني إيه Inflammatory infiltrate؟ يعني خلايا كتير حوالين الـ Blood
+vessels. أهي، Blood vessels كبيرة وكتيرة، أهي شايفين الدواير دي؟ ده Blood
+vessel، ده Blood vessel، ده Blood vessel. كل الـ Blood vessels حواليها نقط
+زرقاء اللي هي الـ Lymphocytes، والمفروض لو ركزنا أكتر بس إحنا مش بتوع
+Pathology فمش هنركز، هنلاقي الـ Trilobed اللي هي الـ Neutrophils. تمام يا
+دكاترة؟ ده النقط الزرقاء اللي حوالين كل Blood vessels دي بنسميها
+Perivascular inflammatory infiltrate. ده المقصود بالجملة دي، إن خلايا حوالين الـ
+Blood vessels جاية من الـ Blood vessels لفين؟ للـ Dermis عشان تطلع فوق كمان للـ
+Epidermis. تمام يا دكتورة شيماء، فهمتيها؟
+
+Student: تمام. طيب حالة إحنا مطالبين مثلاً إن إحنا نفرق بين الـ Cells الـ
+Infiltrated، Neutrophil، Lymphocyte، Eosinophil؟
+
+Professor: في بعض الأمراض. في بعض الأمراض. إنتي بصي، إنتي عشان إحنا كلنا أصلاً
+مش بتوع Pathology، ففي بعض الأمراض إنتي هتشوفي النقط الزرقاء دي هتعرفي إن دي
+Lymphocytes. هتشوفي الـ Eosinophils هتعرفيها، هتشوفي الـ Neutrophils هتعرفيها.
+بس مش في كل الأمراض، يعني مش هيجيبلك الـ Psoriasis ويقولك دي إيه. لا، هيجيبلك
+الـ Psoriasis ويقولك ده مرض إيه.
+
+Student: تمام.
+
+Professor: فهماني؟ أسئلة الـ Pathology آه بتيجي، يعني بييجي في الامتحان
+Pathology، بس إنتي بتدوري في كل مرض على الحاجة الأساسية ليه. إنتي مش هتشوفي في
+الـ Psoriasis وتقعدي تدوري على الـ Neutrophils والـ Lymphocytes. لا، إنتي
+هتشوفي منظر زي ده كده، Parakeratosis. هتشوفي منظر زي ده شهير أوي أوي أوي
+للـ Psoriasis والـ Eczema كمان، الـ Clubbing والـ Acanthosis، فهماني؟ هتشوفي
+بعض الحاجات تبقى كـ Good indicator إن ده مرض كذا، فهماني؟
+
+Student: تمام.
+
+Professor: وشوية شوية، شوية شوية إحنا كده كده بعد كده هتلاقي نفسك في حصيلة كبيرة
+من الـ Pathology، فهتقعدي تذاكري الـ Slides كمان لوحدها، الدنيا هتمشي معاكي
+يعني. محاضرة في محاضرة تلاقي الدنيا بتتظبط يعني.
+
+Student: إيه يا دكتور إيمان معلش، هو الـ Psoriasis بردو بيبقى الـ CD8 بردو
+Included صح؟
+
+Professor: لأ. لأ.
+
+Student: يعني Pure CD4؟ مفيش أي...
+
+Professor: T-helper. ماجبتش سيرة الـ CD8. ماجبتش سيرة الـ CD8.
+
+Student: ولو حتى بكمية قليلة؟
+
+Professor: ولا أي حاجة. T-helper بس.
+
+Student: تمام.
+
+Professor: إنتي جبتي كلمة CD8 دي منين؟ ولا إنتي بتسألي؟
+
+Student: لا أنا مش فاكرة اللي أنا فكراه صح ولا غلط من زمان أوي، إن هو كان بيقول
+إن أي مرض بيبقى هما الاتنين موجودين بس بيبقى في واحد واخد الـ Upper hand أوي.
+
+Professor: لا ماتلخبطيش نفسك. T-helper بس. الـ Bolognia جابتلك الموضوع من أوله
+لآخره، مفيش كلمة في الـ Psoriasis على الـ T-cytotoxic. والـ T-cytotoxic معناها
+في لخبطة كتير، بمعنى إيه لخبطة كتير؟ دي Cell بتاكل الـ Cytotoxic بتموت الخلايا،
+فهماني؟ فمش في الأمراض الـ Inflammatory دي دي. عشان كده هنا جاي مسميلك
+Inflammatory، كأن في Inflammation بسيط، فهماني؟ مش عنيف، لأن الـ Cytotoxic
+دايماً بتبقى عنيفة. T-helper بس، والتلات أنواع دول. حالياً مدخلين أنواع
+تانية، ده كـ Updates جديدة بس من الـ T-helper. فهماني؟ خلوني أشوفهالكم في الـ
+Papers الجديدة وننزلها. ولكن T-cytotoxic لأ. تمام؟
+
+Student: تمام، شكراً. دكتور إيمان معلش يعني بسرعة كده بس، لو حد يعني مثلاً إحنا
+واضح إن إحنا مجموعتين، في حد عنده فكرة عن الجلدية شوية وفي حد لسه يعني بيبتدي.
+طريقة المذاكرة دلوقتي، آه بتفرق، يعني إيه اللي المفروض إحنا نذاكره دلوقتي؟
+
+Professor: بصي، هو أنا عشان كده أنا بتعامل إن إحنا كلنا بداية. لأن حتى الناس
+اللي ماشية معانا بتزود معلوماتها، وممكن الشرح يبقى بطريقة مختلفة شوية. يعني
+إحنا الفترة اللي إحنا فيها دلوقتي مجرد مذاكرة، مانبدأش نحل أي حاجة ولا نشوف أي
+مواقع تانية ولا أي حاجة؟
+
+Student: مجرد مذاكرة مؤقتة، يعني مثلاً أسبوعين كمان ولا حاجة، بعد كده تبدأوا
+تحلوا.
+
+Professor: أكيد حضرتك هتقوليلنا أكيد قبلها صح؟
+
+Student: آه، تبدأوا تحلوا، ما عنديش مشكلة. والناس اللي ماشية شوية في الجلدية
+تبدأ تحل من دلوقتي، مش هتخسر. بالعكس، الامتحان يعني عشان تأهلي للامتحان مش
+بس الكورس، الأسئلة نفسها طريقتها جديدة تماماً عن اللي إنتي أخدتيه في الكورس
+كمان. يعني كله بيوازي بعضه أو كله بيكمل بعضه. ولا إنتي تقدري تدخلي امتحان
+بمحاضرات بس، ولا تقدري تدخلي امتحان بحل بس. الاتنين مع بعض، هتلاقي وإنتي
+بتحلي معلومات جديدة ماتقالتش في المحاضرات، دي هيبقى معاكم كشكول لأي حاجة
+جديدة بتكتبوها. تمام يا دكاترة؟
+
+Student: طيب نحل من إيه؟
+
+Professor: قلتلكم كتاب Itas والـ Study PRN، وهشوف إيه تاني. يعني هشوف إيه تاني
+موجود لكم على الموقع.
+
+Student: كتاب Itas ليه لينك أو حاجة؟
+
+Professor: كتاب Itas نازل لكم على الموقع، وهحاول أنزلهولكم على الواتساب.
+
+Student: آه تمام، شكراً.
+
+Professor: تمام. الصور اللي بنزلهالكم دي بتاعة سيماجان وعلي خان. الصور الجداول
+دي تتحفظ، تبقى معاكم هتساعدكم كتير. تمام؟
+
+Student: دكتورة أنا عندي كتاب Itas 2015، هل في فرق في السنين ولا مش هيفرق؟
+
+Professor: بتقولي Itas 2015؟ هو مش هيبقى في فرق أوي صراحة، هو أصلاً كده كده صعب
+يعني. فحلي، وأنا النسخة اللي عندي تقريباً 2021، فهحاول أنزلهالكم.
+
+Student: طيب دكتور هو في فرق في... هو حضرتك قلتي مش دي طريقة الأسئلة أصلاً صح؟
+
+Professor: علي صوتك بس، علي صوتك.
+
+Student: الـ Itas مش دي طريقة أسئلة الامتحان. الـ Itas مش نفس طريقة أسئلة
+الامتحان صح؟
+
+Professor: لأ، الـ Itas مش نفس طريقة الامتحان خالص، خالص، خالص. ولكن بيديكي
+معلومات كتير. الـ Study PRN هو اللي شبه الامتحان. أيوة، بتذاكريه كمذاكرة،
+كتزويد معلومات. لكن هو مش نفسها. هديكم، هنزل لكم كام سلايد من الـ Study PRN
+تعرفوا الطريقة ماشية إزاي، حتى لو ماعرفتوش تحلوا بس تعرفوا أنا أقصد إيه من
+الكلام اللي أنا عمالة أقولهولكم ده.
+
+Student: تمام يا دكتور. هل الشابترز بتاعة Itas المفروض نخلصها لوحدنا؟ يعني هو
+كان شابتر 1 بيزك ساينس، شابتر 2 إميونولوجي. هل المفروض الإميونولوجي ده...
+
+Professor: إنتي هتبدأي تحلي منه، إنتي هتبدأي تحلي منه. وفي أسئلة بعد كده في آخر
+كل شابتر لينا إحنا، يعني بعد كل شابتر أو شابترين بينزلولكم حاجة شبه الامتحان،
+أسئلة من Itas وأسئلة من Study PRN. دي هتحليها إنتي كـ Exam ويديكي الدرجة
+بتاعتك. ولكن إنتي بتعملي إيه دلوقتي؟ إنتي بتذاكري، بتسمعي المحاضرات. بصوا،
+عايزين نصيحة مني؟ انتوا هتكتفوا بالـ PDF ومحاضراتي مع الحل، وتوفروا أي حاجة
+تانية، أي مجهود تاني للحل. الحل مهم جداً جداً جداً. تمام؟ يعني أنا مش
+عايزاكم تتبحروا في الكتب لأن الكتب كتير أوي. أنا ماشية معاكم، هتلاقوا الـ
+PDF هو Bolognia، الـ Source بتاع Bolognia، كل حاجة مهمة في Bolognia جايبهالكم.
+الحاجات اللي أنا ببتدي أبعتهالكم بتاعة بردو سيماجان، بتاعة علي خان، بتاعة
+Rook. فهتلاقوني أي حاجة مهمة بقرأها وبشوفها ببعتهالكم، فاهميني؟ فمش عايزاكم
+تشتتوا نفسكم، هتلاقوا الدنيا بتتشتت معاكم أوي. فـ PDF وحل، حل كتير وتسمعوا
+المحاضرات. تمام؟
+
+Student: دكتور الـ PDF بتاع حضرتك نلاقيه فين؟
+
+Professor: ما هو معاكم.
+
+Student: هو لو ممكن يا دكتور بس ينزل على جروب الواتساب عشان يبقى طبعه أسهل، لأن
+أنا بصراحة مش عارفة أطبعه من على الموقع.
+
+Professor: هو اتبعت مع الداتا اللي بعتوها أول مرة دي اللي فيها الأسئلة والـ...
+
+Student: لا هو مش كل الـ PDF اتبعتت، هي في الغالب محاضرة بمحاضرة.
+
+Student: أيوة، هل هينزل بتاع المحاضرة؟ لا المحاضرتين موجودين، لا موجودين.
+
+Professor: المحاضرات كلها موجودين، أيوة المحاضرة اللي بنشرحها بينزلولكم الـ PDF
+بتاعها وبينزلولكم التسجيل الصوتي.
+
+Student: آه على الـ Platform نفسها.
+
+Professor: أيوة بالظبط كده، على الـ Account بتاعك.
+
+Student: طب هل في طريقة ان احنا نطبعه؟ عشان انا بصراحة ماعرفتش اطبعه. يعني في
+طريقة ان انا اطبعه من على الـ Platform بحيث انه يبقى Hard copy معايا؟
+
+Professor: اه هما الـ Cycle اللي فاتت كانوا كلهم طابعينه، فاعتقد اكيد في طريقة.
+اسألي، اسألي على الجروب دلوقتي وخلي حد من الـ Technical support يرد عليكي. يعني
+حد من الأكاديمي نفسها هيرد عليكي ماتقلقيش.
+
+Student: دكتور...
+
+Professor: اتفضلي.
+
+Student: بالنسبة لحل الأسئلة، ده بقى في فايلات اتبعتت على الإيميل، هي دي اللي
+نذاكر منها بالنسبة للحل ولا في بردو حاجات تانية؟
+
+Professor: مفيش مشكلة، ما هو انتوا هتلاقوا الفايلات دي عبارة عن Itas و Study PRN
+وحاجات تانية. هو ده.
+
+Student: طب هي دي كفاية يعني للحل؟
+
+Professor: كفاية، مفيش مشكلة، خلصيها بس. هي كتيرة.
+
+Student: آه كتيرة بقول. طب نراجعها مثلاً كام مرة؟
+
+Professor: نعم؟
+
+Student: نراجعها كام مرة مثلاً؟
+
+Professor: مثلاً هل في موقع يبقى Evaluation ندخل نمتحن عليه زي مثلاً الـ USMLE
+وكده؟
+
+Professor: أيوة ما هو أنا قلتلكم كده، قلتلكم كده. في الغالب هيبقى في حوالي على
+مدار الكورس حوالي 6 أو 7 Exams. هيبقى بعد كل شابتر كده بننزل لكم Exam بتحلوه
+وتشوفوا مستواكم عامل إزاي.
+
+Student: هيبقى Full exam يعني؟
+
+Professor: لا مش Full exam، مش بالطريقة دي يعني. أسئلة MCQ من اللي هو بيظهرلكم.
+
+Student: هل في موقع عليه Full exam مثلاً بفلوس ندفع ونعمل...
+
+Professor: ما هو الـ Study PRN يا حبيبتي. دكتورة مين اللي معايا؟
+
+Student: شريفة.
+
+Professor: دكتورة شريفة، الـ Study PRN ده هو ده الموقع بتاع الـ Royal College
+اللي منزلة حاجة محاكية للامتحان بتاع الـ SCE والـ EBDV. فهماني؟ إحنا واخدين
+الأسئلة، لأن هو الموقع ده بتفتحيه بفلوس، بتدفعيله فلوس وتحلي عليه. إحنا أخدنا
+الأسئلة، الأكاديمي السنة اللي فاتت دفعوا الفلوس دي وأخدوا الأسئلة وبقى معانا
+بنك الأسئلة بتاعتها. ده نزل لكم أصلاً. وعايزة أقولك حاجة، ده مش حاجة تطمنكم
+أوي، بس الامتحان بيبقى شبه الأسئلة دي جداً جداً جداً.
+
+Student: تمام.
+
+Professor: حد عنده سؤال تاني يا دكاترة؟
+
+Student: حد محتاج حاجة في...
+
+Student: سؤال معلش. هو اللي أنا لسه فاهماه، أنا زي ما قلت لحضرتك على الـ Itas،
+الـ Itas فيه أول Chapter مثلاً Basic science، إحنا المفروض ده إحنا خلصناه مع
+حضرتك أول محاضرة صح؟
+
+Professor: آه، بس هتلاقي حاجات تانية كتير. هتحليها، هتلاقي في حاجات بردو مختلفة.
+
+Student: طيب يعني إحنا نبتدي نذاكرها بردو، يعني إحنا مش هتشرحيها تاني؟
+
+Professor: لا هتذاكريها، ما هو ده اللي أنا بقولهولك يا دكاترة. كله مكمل بعضه. مش
+هينفع كورس في الدنيا عشان أعرف أجيبلك كل الجلدية كلها أنا محتاجة تلات سنين
+والله. تلات سنين فعلاً مش مبالغة عشان أعرف يعني نقعد تلات سنين ناخد كورس.
+ده طبعاً مش منطقي ولا مبدئي. الفكرة إن أنا بديكوا الدنيا تفهموا All in all
+الموضوع عامل إزاي بكل تفاصيله، بكل الـ Etiopathogenesis، بكل الأدوية حتى.
+ولكن في تفاصيل، تفاصيل عميقة دي، دي هتعرفوها من الحل.
+
+Student: تمام، شكراً جداً لحضرتك وشرحك حقيقي أكتر من رائع يعني. الواحد ندمان على
+السنين اللي ضيعها قبل ما يسمع شرح حضرتك.
+
+Professor: لا يا حبيبتي ربنا يكرمك، ربنا يكرمك، شكراً ليكي بجد. ربنا معاكم يا
+رب، يا رب أبقى بقدر أوصلكم معلومة وباذن الله كلكم ناجحين إن شاء الله.
+
+Student: تسلمي يا دكتور إيمان بجد والله، ربنا يكرمك يا رب دايماً.
+
+Professor: شكراً ليكم يا دكاترة. يلا مش هعطلكم، محاضرة لذيذة يعني المفروض إن هي
+بتاخد وقت أطول من كده بس خلصت معاكم بسرعة، معنى كده إن انتوا فاهمين فإحنا
+أنجزنا يعني. ويلا لو احتجتوا أي حاجة أنا معاكم على الجروب، اسألوني ومفيش
+مشكلة حتى لو معلش بتأخر شوية ببقى بتوه كده وبسرح، بعد كده بتلاقوني برد عليكم
+تاني.
+
+Student: شكراً.
+
+Professor: تمام؟ يلا تصبحوا على خير. سلام عليكم.
+
+Student: وعليكم السلام.
+
+
+
