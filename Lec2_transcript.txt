@@ -1,0 +1,1293 @@
+
+Here is the cleaned, formatted, and professional transcript of the lecture,
+following all your rules.
+
+[00:00]
+
+Professor: الصوت واضح عندكم؟ أخباركم إيه؟ يا رب تكونوا بخير.
+
+Student (Dr. Doaa): الحمد لله يا دكتور إيمان، حضرتك أخبارك إيه؟
+
+Professor: تمام الحمد لله. دكتورة مين معايا؟
+
+Student (Dr. Doaa): دعاء.
+
+Professor: إزيك يا دكتورة دعاء، أهلاً بيكي. أخبار المحاضرة اللي فاتت إيه؟
+ذاكرناها ولا عملنا إيه؟
+
+Student (Dr. Doaa): والله أنا راجعتها بس كان عندي برد شوية فمكتش بتركيز أوي. بس
+هي الحمد لله، حتى وأنا بحضرها كانت كويسة أوي. بس طريقة المذاكرة فعلاً مكنتش
+متخيلة أوي إنها هتتغير أوي. أنا مخلصة ماستر بس من فترة كبيرة.
+
+Professor: لا متقلقيش، برضه هيبقى عندك Base، بس زي ما إنتي فهمتي كده الدنيا
+هتبقى مختلفة شوية في المذاكرة. بس إن شاء الله هتستفيدي على المستوى
+الأكاديمي للامتحان، وهتستفيدي كمان على المستوى الإكلينيكي أوي بإذن
+الله. يلا كلنا بقينا موجودين يا دكاترة؟ حد عنده أي سؤال في المحاضرة اللي
+فاتت أو أي تعليق؟
+
+Student (Dr. Ahmed): مرحبا دكتورة.
+
+Professor: أهلاً وسهلاً، إزيك يا دكتور؟
+
+Student (Dr. Ahmed): الله يحفظك. أنا عندي سؤال على الـ Study PRN. أنا دكتور
+أحمد، بورد دكتوراه عراقي.
+
+Professor: أهلاً بيك يا دكتور. تفضل.
+
+Student (Dr. Ahmed): الـ Study PRN ما لقيت أي مصدر عليه، ويقال إنه ما في
+Previous exams أو Examples على الموضوع. وأكو جروبات تتفعل... أكو أسئلة كتير
+عليه؟
+
+Professor: معلش هنعلي الصوت يا دكتور. حضرتك بتقول الـ Study PRN معليهوش أسئلة؟
+
+Student (Dr. Ahmed): لا، دكتورة ما لقينا شيء نوصل له، مثلاً PassMedicine موجودة،
+بس الـ Study PRN ماكو أي مصدر عليه.
+
+Professor: هو كده كده الـ Study PRN بيتفتح يومين. في الغالب بيتفتح يوم أو يومين
+كتجربة، بعد كده بيتقفل وبعد كده بيبقى عايز فلوس. إحنا هننزلكم الأسئلة دي
+بإجاباتها.
+
+Student (Dr. Ahmed): يعني دكتورة راح تنزلوها بالإيميل نفسه تدزولنا إياه؟
+
+Professor: هتبقى على الـ Account بتاع حضرتك على الـ Website، هتنزلكم بعد كده.
+متقلقوش، أنا عارفة إنه مش هيفتح معاكم، بس هما كده كده فاتحينه (دافعين فلوس
+للموقع)، فهينزلولكم الأسئلة متقلقوش. تمام يا دكاترة؟ هنبتدي بقى إن شاء الله
+محاضرة النهاردة.
+
+يا رب تبقى لطيفة كده وتعدي على خير. محاضرة النهاردة زي المحاضرة اللي فاتت، المرة
+اللي فاتت كنا بنتكلم على الـ Skin structure، المرة دي هنتكلم عن الـ Immunology
+بتاع الـ Skin. دي تعتبر Base لكل أو معظم الأمراض الجلدية، لأن إحنا كلنا عارفين
+إن الأمراض الجلدية بنسبة 50% منها بيبقى جزء مناعي. إحنا عارفين كلنا إن في تلاتة
+هتتكرر في كل الأمراض: Environmental، و Genetic، و Immunological. فلازم أبقى أنا
+فاهمة الـ Immunity بتاعة الـ Skin ماشية إزاي.
+
+هنلاقي كلام سهل وعارفينه، وهنلاقي كلام صعب وغلس، وهنلاقي كلام حتى للناس اللي
+مخلصة ماستر ودكتوراه بيتنسي وبيتبخر. فالمحاضرة دي تعتبر أساس لكل الـ
+Immunology بتاع الـ Skin، هتبقى متجمعة كده بشكل حدوتة. هنلاقي شوية مصطلحات أو
+أرقام غلسة شوية، أنا مش محتاجة برضه إن إحنا نحفظها دلوقتي، ولكن أفهم الحدوتة
+عاملة إزاي. إن شاء الله المحاضرة تبقى خفيفة، وفكرة إنها قصة لطيفة كده عشان
+نفهمها، لأن الـ Immunology بتاع الجلد من أرخم الحاجات، وبالنسبة لي أنا كانت
+من أصعب الحاجات اللي ممكن نقدر نفهمها عشان نفهم الحاجات اللي بعد كده. فلو خرجنا
+من المحاضرة دي فاهمين الجزء ده كويس، هتسهل علينا كتير أوي أوي في كل الشباتر
+بتاعة الجلدية.
+
+إيه هي الـ Immunity يا دكاترة؟ بشكل بسيط خالص، التعريف الأساسي بتاعها بيقول:
+"All defense mechanisms that can identify and eliminate foreign threats". كلنا
+عارفين إن المناعة دي هي جهاز المناعي بتاعنا اللي ربنا خلقهولنا عشان يحمينا من
+كل الحاجات الخارجية والداخلية. حد عارف المناعة دي بتتقسم لإيه عندنا؟ ممكن
+تشاركوا معايا؟
+
+Student (Dr. Doaa): Innate immunity و Adaptive immunity.
+
+Professor: تمام، يعني إيه Innate immunity ويعني إيه Adaptive؟
+
+Student (Dr. Doaa): الـ Innate اللي هي الـ Natural immunity.
+
+Professor: تمام. الـ Immune system بتاعنا بيتقسم لحاجتين اتنين: Innate immunity
+و Adaptive immunity.
+
+الـ Innate immunity دي المناعة اللي أول ما Antigen أو أول ما حاجة تيجي تقرب من
+الجسم، الجسم بتاعي يبتدي يتعامل معاها. من غير ما يكون في سابق معرفة، من غير ما
+يكون في Antigen-presenting cell تيجي تعرف الحاجة، من غير ما يكون في Memory cell،
+من غير ما تاخد وقت. الـ Innate immunity دي كأنها الحاجز. من ضمن الـ Innate
+immunity أصلاً الـ Skin بتاعنا يعتبر من ضمن الـ Protection، يعني هو الوقاية.
+مابيميزش بين بكتيريا، مابيميزش بين فيروس، مابيميزش بين أي حاجة. هو المهم إن
+الجسم في خطر، أنا هبتدي (كـ Innate immunity أو كجهاز دفاع أول في الجسم) أشتغل.
+
+يجي بعد كده الـ Adaptive immunity، ده الأقوى، ده الراسي شوية، ده اللي يبتدي الـ
+Innate immunity لما ماتقدرش على الـ Antigen أو على المشكلة، تبتدي تنده الـ
+Adaptive immunity. الـ Adaptive immunity عبارة عن إيه؟ دي اللي هي الـ T و الـ B
+cells (T and B lymphocytes). بتتقسم لـ Cell-mediated immunity و Humoral immunity
+اللي هي عن طريق الـ Antibodies.
+
+دي صورة كده بسيطة مبسطالنا إيه هي الـ Innate immunity وإيه هي الـ Cells بتاعة
+الـ Adaptive immunity. الـ Innate immunity اسمها Innate، التانية Adaptive أو
+Acquired immunity اللي هي مكتسبة، لكن دي كده كده Already عندنا في الجسم، الجسم
+بيبتدي يتعرض لأي حاجة تبتدي الحاجات دي تشتغل. زي إيه بقى الأسلحة بتاعتها؟ أول
+حاجة: Macrophages. تاني حاجة: Dendritic cells. Natural killer cells,
+Neutrophils, Basophils, Eosinophils, Mast cells. طبعاً إحنا كلنا عارفين الحاجات
+دي ومش عارفين نفرق بينهم أوي.
+
+طيب الـ Adaptive immunity أو الـ Acquired immunity دي عبارة عن إيه؟ عبارة عن الـ
+B-cell اللي بتطلعلي Antibodies، والـ T-cell اللي بتطلعلي T-helper و T-cytotoxic.
+إحنا شغلنا كله في المحاضرة دي هيبقى على الحاجات دي كده، بكل بقى النواقل بتاعتها،
+بالمساعدين، بلغة الحوار، بحاجات كده هتفهموها كمان شوية في المحاضرة. ولكن
+المحاضرة بتاعتنا عبارة عن إني هفهم الـ Innate immunity بكل الحاجات اللي
+فيها، وهفهم الـ Acquired immunity بكل الحاجات اللي فيها.
+
+[10:00]
+
+Professor: اللي حاسس إني سريعة أو عايز يفهم حاجة يقولي. ده جدول بسيط كده، أعتقد
+إن إحنا خدنا الكلام ده أصلاً زمان في الباطنة أو حاجة كده، درسناه الجدول ده كده
+بالظبط للـ Innate immunity والـ Acquired immunity.
+
+الـ Innate immunity بيقولي إن ده الـ First line of defense. تاني حاجة الـ
+Acquired immunity ده الـ Second line of defense. أنا دايماً بشبههم بمين؟ بالأب
+والأم في البيت بتاعهم وهما بيدافعوا عن ولادهم. مين السلاح الأول أو مين الواقي
+الأول للأطفال؟ الأم. الأم لما مابتقدرش على الابن أو مابتقدرش على المشكلة اللي
+بتواجه الابن، بتبتدي تلجأ لمين؟ للأب (اللي هي الـ Acquired immunity).
+
+طيب الأم عندنا، إحنا كأمهات عموماً بنعمل إيه؟ هل إنتي لما بتقدري تفرقي بين
+المشكلة اللي بتيجي لابنك؟ أنا مشكلة بالنسبة لي أنا قدامي ابني في خطر، ممكن
+هاكل الحاجة اللي قدامي دي عشان أعملها. يعني بمعنى إيه؟ Non-specific، مابتفرقش،
+هي شافت الولد في خطر هتجري عليه بالعاطفة بتاعتها، هتحميك من أي حاجة. الأب لأ،
+الأب بيفرق، دي مشكلة ولا لأ؟ أسيب الولد يتعلم من دي ولا لأ؟
+
+هنا احفظوا إن هي Non-specific، يعني مش Specific لمشكلة معينة. بمعنى إيه؟ خلونا
+نفهمها علمياً. يعني هنا جت بكتيريا، جه فيروس، جه أي نوع من أي حاجة، هتطلع نفس
+الـ Innate immunity تواجه. ولكن الـ Acquired immunity لأ، الـ HPV (Human
+Papillomavirus) ليه نوع من الـ Acquired immunity معين، الـ Coronavirus ليه نوع
+من الـ Acquired immunity معين، فاهمين قصدي؟ يعني كل حاجة خاصة بحاجتها.
+
+في حاجات اسمها Receptors، يعني إيه Receptors؟ دي بتبقى على سطح الخلايا عشان
+تستقبل الـ Antigen أو لما الـ Antigen يجي تبتدي تتعرف عليه. طيب إيه الـ
+Innate immunity عليها Receptors اسمها إيه؟ حاجة اسمها Pattern Recognition
+Receptors (وهنفهم يعني إيه كمان شوية)، ومن ضمن الـ Pattern Recognition Receptors
+ده الـ Toll-like receptors. حد سامع عن كلمة Toll-like receptors دي قبل كده؟
+
+Student: تقريباً في الـ Psoriasis أو الـ Atopic.
+
+Professor: لا مش في الـ Psoriasis ولا الـ Atopic.
+
+Student (Dr. Ahmed): دكتورة موجودة Multiple types of Toll-like receptors، أعتقد
+يوصلون 9 types أو 10 types.
+
+Professor: طيب كويس أوي. سمعناها فين؟ إيه أشهر Toll-like receptor موجود في مرض
+مشهور جداً؟ وفي دوا معمول باسم Toll-like receptor؟
+
+Student: الـ Alopecia type 7؟
+
+Professor: معلش هنعلي الصوت يا دكاترة، أنا تقريباً عندي مشكلة في الصوت إني مش
+سامعاكم أوي.
+
+Student: الـ Alopecia type 7؟
+
+Professor: إنتي بتقولي Type 7 مش كده؟ Type 7 ده معموله دوا إحنا كلنا عارفينه،
+دوا Topical وبيعتبر Topical chemotherapy. حد سمع قبل كده عن الـ Aldara أو الـ
+Imiquimod؟
+
+Student (Dr. Ahmed): إي الـ Imiquimod.
+
+Professor: أيوة، الـ Imiquimod ده عبارة عن Toll-like receptor 7. ليه اتسمى كده؟
+إحنا عملنا دوا يشجع الـ Toll-like receptor 7 ليه؟ الـ Aldara ده بنستخدمه في
+إيه؟ بنستخدمه Mainly في الـ Genital warts صح؟ عشان الـ Production of
+Interferon بيبقى Better to fight viral particles.
+
+خلينا نسهلها، عشان الـ Toll-like receptor 7 ده Specific للـ Warts، للـ HPV والـ
+Other viruses. فأنا لما أعمل دوا يحفزلي الـ Toll-like receptor، إذن أنا هاجمت
+الـ Wart اللي هو الـ HPV. فهمنا؟ يعني أفهم إيه الـ Toll-like receptor (طبعاً
+لسه مشرحتوش عشان أفهمه بالظبط)، لكن فهمنا يعني إيه Toll-like receptor وليه
+اتعمله Imiquimod وليه أصلاً بيعالج الـ Warts؟ وطبعاً في Toll-like
+receptor 2 بتاع الـ Acne صح؟
+
+طيب دي الـ Receptors اللي بتبقى موجودة على سطح الخلايا بتاعة الـ Innate immunity
+عشان تعمل إيه؟ عشان تتعرف على الـ Antigen. هنا الـ Receptors بتاعة الـ Acquired
+immunity اسمها T-cell receptor (بأساميهم) و B-cell receptor.
+
+الـ Action هنا طبعاً الأم مش بتفرق، بتيجي تدخل بسرعة كده في دقايق تاكل الحاجة
+اللي قدامها عشان خاطر ابنها. ولكن الأب دايماً حكيم، هياخد وقت شوية، هياخد
+تأني على ما يبتدي يهاجم المشكلة اللي بتواجه ابنه. يبقى دي بتاخد دقايق
+لساعات، لكن دي بتاخد أيام لأسابيع.
+
+الـ Memory: كلنا كأمهات ما شاء الله علينا، ممكن تضربي ابنك بالشبشب وتزعقيله
+وتعضيه، وتيجي بعديها بشوية تقعدي تعيطي جنبه وتنسي وتحضنيه وكل حاجة. لكن
+الأب عاقل، راسي، ولكن مابينساش. نفتكر دايماً إن الـ Innate immunity مفيش
+Memory cell، لكن الـ Acquired immunity في Memory cell بتتخزن.
+
+الـ Communication عن طريق إيه؟ يعني إيه Communication؟ يعني في ترابط بين الـ
+Innate والـ Acquired immunity أصلاً، وفي ترابط بين الـ Acquired ونفسها (الخلايا
+وبعضها، المستقبلات والحاجات دي). كلنا سمعنا عن الـ Cytokines والـ Chemokines
+والحاجات اللي هنقولها كمان شوية.
+
+الـ Effect بتاعتي، الـ Innate immunity بتعمل إيه؟ إيه وظيفتها؟ أولاً: Antigen
+presentation، يعني بتجهز الـ Antigen وتروح بيه للـ Acquired immunity. كأن الأم
+بتحضر بتجهز الدنيا وتروح للأب تقوله ده ابنك عمل كذا وكذا أو في مشكلة بتواجهه
+كذا. تاني حاجة: Complement activation (وهنعرف يعني إيه Complement دلوقتي).
+تالت حاجة: إن هي ممكن تعملي Phagocytosis عن طريق الـ Macrophages.
+
+طيب هنا بتعمل إيه؟ Cytotoxic T-cells بتقتل الـ Antigen، أو الـ Antibodies هي
+اللي بتواجه الـ Antigen.
+
+الـ Antigen recognition: هنا بيقولي Native form، لكن هنا Processed form. يعني
+إيه؟ بمعنى إيه؟ الـ Innate immunity مش محتاجة وسيط عشان تتعرف على الـ Antigen
+(على المشكلة). يعني الفيروس داخل كده، تبتدي تهاجمه الـ Innate immunity. ولكن الـ
+Acquired immunity لأ، دي باشا دي، عايزة حد يقدملها الـ Antigen. مين اللي
+بيقدملها الـ Antigen؟ الـ Antigen-presenting cell اللي هي جزء من الـ
+Innate immunity. أنا بتكلم بسرعة ولا الدنيا ماشية معاكم تمام؟
+
+Student: لا تمام دكتورة إيمان.
+
+Professor: طيب تمام. إيه الـ Cells بقى بتاعة الـ Innate immunity أو الـ
+Acquired؟ Macrophages, Natural killer, و Others. لكن هنا الـ Cells الأساسية الـ
+B والـ T lymphocytes.
+
+هنتكلم شوية عن الـ Innate immunity. المحاضرة هتحسوا إن هي طويلة شوية وفيها
+تفاصيل، بس التفاصيل أو المحاضرة إن الـ Immunology كلها تتعمل في محاضرة
+واحدة ده إنجاز رهيب، لأن الـ Immunology كبيرة بتاع الجلد جداً جداً. بس فكرة
+إنها تتعمل في محاضرة واحدة على شكل حدوتة تقدروا تسمعوها، تقدروا تقرأوها في أي
+وقت، تقدروا تذاكروها في أي وقت، ده هيوفر عليكم كتير بعد كده.
+
+الـ Innate immunity بيقولي إن هي عبارة عن إيه؟ بيقولي "It is inborn with
+everyone"، بيتولد بيها الشخص. "It is the first line of defense". "It can
+differentiate between self and non-self antigen, and differentiate between
+pathogenic and non-pathogenic antigen". كأنه قلب الأم يعني، بيقدر يفرق بين مشكلة
+حقيقية لابنها وبين مشكلة مش حقيقية، بيقدر يفرق بين إن هي مش هتأذي ابنها لكن
+هتأذي الحاجة اللي بتهاجم ابنها.
+
+على عكس الـ Acquired immunity، ليه نقصد كده؟ مش إحنا عندنا أمراض مناعية كتير؟
+Autoimmune connective tissue diseases؟ مين المسؤولة عن الـ Autoimmune connective
+tissue diseases؟ معنى إيه؟ معنى إن جهازي المناعي اللي بيهاجم جسمي، مين اللي
+بيعملي Alopecia areata؟ مش الـ Antibodies بتاعتنا؟ مين اللي بيعملي Systemic
+LE؟ مين اللي بيعملي كل كتاب الـ Connective؟ جسمنا ولا مش جسمنا؟ ردوا عليا يا
+دكاترة.
+
+Student: آه جسمنا أكيد يا دكتور.
+
+Professor: بالظبط كده، جسمنا. الـ Innate immunity ولا الـ Acquired immunity أو
+الـ Adaptive immunity هي اللي بتعمل كده؟
+
+Student: الـ Innate immunity.
+
+Professor: لأ، مش الـ Innate، الـ Acquired هي اللي بتعمل كده. الـ B والـ T cells
+هما اللي بيعملوا كده. الـ Innate immunity بتفرق، شايفين بنقول إيه؟ Differentiate
+between self and non-self antigen. لكن إحنا عندنا في الـ B والـ T بتيجي تضرب
+العاطل بالباطل، يلا بقى أنا جلد وخصوصاً بقى لما بتتجنن لما بيكون في مرض
+مناعي. تمام؟ لكن الـ Innate لأ، وبتقدر تفرق بين الـ Pathogenic والـ
+Non-pathogenic.
+
+طيب الـ Functions بتاعتها بيقولي أول حاجة: Identification and removal of foreign
+body substances. Attraction of immune cells to the site of infection (اللي هي
+بتنادي على الـ Acquired immunity تعالي الحقينا بسرعة في مشكلة هنا).
+Activation of the complement system (وهنفهم إيه الـ Complement كمان شوية).
+Activation of adaptive immunity through the antigen-presenting cells.
+
+[20:00]
+
+Professor: الـ Components بتاعة الـ Innate immunity عبارة عن إيه؟ الـ Innate
+immune system عبارة عن Physical barriers، والـ Cells، والـ Soluble factors.
+
+يعني إيه Physical barriers؟ يعني الـ Skin والـ Mucosa يعتبروا من الجهاز المناعي
+بتاعنا، من الـ Defense mechanism بتاعتنا صح؟
+
+طيب إيه الـ Cells بقى بتاعة الـ Innate immunity يا دكاترة؟ أول حاجة Macrophages،
+Dendritic cells، Natural killer cells، Granulocytes، Mast cells. دول كلهم
+يعتبروا من الـ Innate immunity.
+
+طيب إيه الـ Soluble factors دول؟ Cytokines، Chemokines، في حاجة اسمها
+Antimicrobial peptides، في حاجة اسمها Complement system. حد يعرف إيه هو الـ
+Antimicrobial peptides ده أو سمع عنه قبل كده؟ دكاترة، طب حد يضربلي مثال بإيه
+الحاجات اللي عندنا من ضمن الـ Antimicrobial peptides؟
+
+Student (Dr. Ahmed): دكتورة الـ Cathelicidin والـ Defensin.
+
+Professor: أيوة تمام، حضرتك مذاكر كويس يا دكتور. Cathelicidin والـ
+Beta-defensin. بالظبط كده، أنا عايزاكم تقولوهم عشان إحنا سمعنا الـ Beta-defensin
+ده فين؟ فين؟
+
+Student (Dr. Ahmed): Elevated levels have been associated with a decrease in
+Psoriasis.
+
+Professor: في الـ Psoriasis تمام برافو عليك. و Decreased فين؟ في الـ Atopic
+dermatitis. عشان كده جينا من هنا بنقول مريض الـ Atopic dermatitis عرضة للـ
+Infection جداً جداً. أول حاجة عشان الـ Skin barrier، تاني حاجة عشان الـ
+Antimicrobial peptide اللي هو الـ Beta-defensin بيقل. إحنا مش عارفين إيه الـ
+Beta-defensin ده، يعني إيه نعمل إيه؟ في الـ Psoriasis الـ Beta-defensin عالي،
+فالمريض بتاع الـ Psoriasis بيكون أقل عرضة جداً جداً من الـ Patient الـ Normal
+إنه يجيله Infection. تمام يا دكاترة؟
+
+دي صورة يعني إلى حد ما هتبقى موضحالك الدنيا شوية، دي الـ Cell وده الـ Toll-like
+receptor. بيتعرف، أدي Flagellin مثلاً، أدي Lipopolysaccharide، أدي مش عارفة إيه،
+كل حاجة ليها الـ Receptor بتاعها.
+
+الـ Physical barriers ممثلة في مين؟ في الـ Skin، في الـ Mucous membrane، في الـ
+Cilia، في الـ Body temperature، في الـ pH، دي كلها حاجات من الـ Defense
+mechanism بتاع الـ Body بتاعنا. طيب الـ Pathogen عدى الكلام ده كله، هيلاقي الـ
+Innate immunity ممثلة في مين؟ في الـ Neutrophils, Basophils, Eosinophils (وكل
+حاجة طبعاً Specific لحاجة)، Macrophages, Mast cells, Dendritic cells, Natural
+killer cells. تخطى كل ده وقدر يعديه، هيلاقي مين بقى؟ هيلاقي الـ Acquired
+immunity، الجهاز الدفاعي القوي جداً جداً بتاعنا، ممثل في الـ T-helper,
+T-cytotoxic, الـ B-cell والـ Plasma cell. تمام يا دكاترة؟
+
+الـ Cells بقى بتاعة الـ Innate immunity اللي كنا بنتكلم عنها من شوية. أول نوع من
+أنواع الـ Cell اللي كنا بنتكلم عنها: Natural killer cell. إيه هي الـ Natural
+killer cell دي؟ الـ Natural killer cell دي بيعتبروها نوع من أنواع الـ
+Lymphocytes، ولكن اسمها Non-B و Non-T lymphocyte. يعني هي ولا B ولا T، هي اسمها
+Natural killer cells كده، بس نوع من أنواع الـ Lymphocytes.
+
+بيقولي إيه تاني؟ بيقولي إن هي Have no specific cytotoxic action، على عكس الـ B
+والـ T، مش Specific، عشان كده اتحطت إن هي تبع الـ Innate immunity. بتعمل إيه؟
+بيقولي إن هي بتـ Kill الـ Virally infected cells والـ Tumor cells. إزاي بتـ
+Kill الـ Virally infected cells والـ Tumor cells؟
+
+أول حاجة عن طريق إن هي Antibody-dependent cellular cytotoxicity. يعني إيه؟ يعني
+إن هي بتلاقي الـ Viral infected cell دي ماسكة في الـ Antibody أو الـ Tumor cell
+ماسكة في الـ Antibody، فتبتدي تتعرف عليها وتقتلها. يعني لازم يكون في Antibody
+يعرف الخلية دي فتبتدي تشتغل الـ Cytotoxicity بتاعتها.
+
+أو الحاجة التانية إن هي ممكن عادي تلاقي الخلية الـ Viral infected cell دي أو الـ
+Tumor cell تعملها Cytolosis، تفرقعها من الآخر. تفرقعها إزاي؟ عن طريق حاجة اسمها
+Perforin و Granzyme وسمعنا عنهم قبل كده. إيه الـ Perforin ده؟ Perforin مادة
+بتطلع تخرم في الخلية. و Granzyme يعني بتدوب الخلية. تمام؟ يعني من الآخر
+بتعملي Cytolosis أو إن هي بتفرقع الخلية أو بتموتها. ده دي وظيفة الـ Natural
+killer cells. وفي طبعاً نوع من أنواع الـ Lymphoma (الـ Primary cutaneous T-cell
+lymphoma) كانت Natural killer cell.
+
+تاني نوع بقى من أنواع الـ Phagocytic cells: أول نوع الـ Monocytes. والـ
+Monocytes بيقولي إن هي 5% من الـ Total leukocytes in blood، Migrate to tissue
+عشان تعملي مين؟ الكلام ده مش جديد، الكلام ده أنا قلته قبل كده تقريباً
+المحاضرة اللي فاتت وفي الـ Orientation مع الـ Histiocytosis فاكرين؟ الـ
+Monocytes تطلع من الـ Bone marrow تمام، Leukocytes عادي، تدخل جوه الـ Tissue
+بنسميها Macrophages.
+
+Macrophages لما تدخل جوه الـ Tissue بتعملي إيه؟ إيه وظيفتها؟ أول حاجة:
+Phagocytosis. يعني إيه Phagocytosis؟ يعني يجي الفيروس على الـ Cell، الـ Cell
+تبتدي تعمله Phagocytosis اللي هي كأنها بتاكله، بعد كده تعمله Destruction.
+تاني حاجة: ليها وظيفة إيه تاني؟ Antigen-presenting cells. إن هي ممكن تاخد الـ
+Antigen نفسه وماتموتوش، لكن هتعرضه للـ T-cell. تالت حاجة: إن الـ Macrophages
+بتطلع Interleukin-1 و Interleukin-6. رابع حاجة خالص: Regulation للـ
+Hemostasis.
+
+أنا جايبالكم الـ Functions دول عشان منبقاش فاهمين إن الـ Macrophages وظيفتها
+الوحيدة Phagocytosis، لأ. في نوع من أنواع الـ Macrophages بيعملي
+Antigen-presenting cell، وفي أنواع بتطلعلي Interleukin-1 و 6، وفي أنواع بتعملي
+Regulation للـ Hemostasis. تمام يا دكاترة؟ حد دلوقتي ماشيين كويس؟ اتكلمنا عن الـ
+Natural killer cell، اتكلمنا على الـ Macrophages.
+
+هنتكلم دلوقتي على الـ Granulocytes. إحنا أصلاً عشان بس نبقى عارفين الـ Blood
+film عبارة عن إيه أو الـ Leukocytes عبارة عن إيه عشان ماتتوهوش مني. الـ WBCs
+كلها عبارة عن إيه؟ حد يقول معايا بقى. Granulocytes و Non-granulocytes. الـ
+Non-granulocytes اللي هما مين؟ الـ B والـ T اللي هما الـ Lymphocytes. الـ
+Granulocytes اللي هما الـ Neutrophils والـ Eosinophils والـ Basophils. تمام يا
+دكاترة؟ وفي الـ Monocytes اللي إحنا قلناها من شوية في 5% منها.
+
+طيب الـ Granulocytes دول تبع الـ Innate immunity، الـ Non-granulocytes اللي هما
+الـ Lymphocytes اللي هي الـ Adaptive immunity أو الـ Acquired immunity.
+
+نقول شوية فروق كده بين الـ Neutrophils والـ Eosinophils والـ Basophils. الـ
+Neutrophils طبعاً كلنا عارفين إن هي Tri-lobed، بنشوفها إزاي في الـ
+Histopathology؟ في الـ Pathology إن هي ليها 3 Nucleus. لكن الـ Eosinophils بنقول
+إن هو كأنها حد لابس نضارة Bi-lobed. الـ Basophils بيبقى اللون الأزرق بتاعها ده.
+الـ Eosinophils طبعاً اللون الـ Pink. الـ Neutrophils بتبقى Neutral.
+
+طيب الـ Neutrophils هي الـ Mainly 60% من الـ Leukocytes، وليها وظايف كتيرة جداً
+جداً واسمها في كل حاجة بعد كده الـ Neutrophils دي. بيقولي Both basic and acidic
+cytoplasmic granules تدي Neutral staining. طيب عبارة عن بيقولي من 2 لـ 5 Nuclear
+segments اللي هي دي، بس إحنا دايماً بنشوفها تلاتة تمام. الـ Neutrophils بيقولي
+وظيفتها إيه أهم حاجة؟ Phagocytic cell بتـ Engulf البكتيريا وتـ Destroy
+البكتيريا. تمام؟
+
+الـ Eosinophils، الـ Eosinophils لما نشوفها في الـ Blood نعرف إيه عموماً؟
+
+Student: Allergy.
+
+Professor: إيه؟ الـ Eosinophils بتشوفيها في الجلد يبقى في Allergy. تشوفيها في
+الـ Blood في Parasitic infection. يعني عالية في الـ Blood يبقى ده Indication
+إن في Parasitic infection موجودة. عالية في الجسم بالـ Pathology يبقى في
+Allergic reaction أياً كان هو بقى وفي أمراض كتير Eosinophilic. طيب الـ
+Eosinophils بيقولي من 0 لـ 5% مفيش مشكلة، Bi-lobed برضه. طيب الـ Basophils بقى
+بيقولي إن هي Bi-lobed وبرضه بتبقى موجودة في الـ Allergic reactions.
+
+الـ Mast cell جزء من الـ Innate immunity برضه. بيقولي إن هي بتـ Develop وتـ
+Drive من Precursor من الـ Bone marrow. إحنا برضه لا مشرحناهاش، بتطلع من الـ Bone
+marrow بتـ Circulate في الـ Peripheral blood لحد ما بتوصل للـ Tissue. Finally
+migrate into the tissue. موجودة فين؟ موجودة في الـ Mucosal وموجودة Connective
+tissue. الـ Mucosal mast cell بيقولي موجود فيها Tryptase، أنا الحاجات دي مش لازم
+كل ده يتحفظ، بس كل ده لما يبقى موجود معاكم كمحاضرة أو كورق وترجعوله من وقت
+للتاني هيوفر علينا كتير. الـ Mucosal mast cell contain only tryptase. الـ
+Connective tissue mast cell بيبقى فيها حاجة اسمها Tryptase والـ Chymase كمان.
+الـ Function بتاعتها Immediate type allergic reaction والـ Urticaria والـ
+Angioedema. تمام يا دكاترة؟ تمام لحد دلوقتي؟
+
+[30:00]
+
+Professor: كل خلايا الـ Innate immunity دي بتتعرف على الـ Antigen إزاي؟ ممكن حد
+يساعدني يقول معايا؟ الـ Innate immunity...
+
+Student (Dr. Ahmed): Pattern recognition receptors.
+
+Professor: أيوة تمام. دكتور أحمد؟
+
+Student (Dr. Ahmed): إي نعم.
+
+Professor: حضرتك بتدرس إيه دلوقتي؟
+
+Student (Dr. Ahmed): لا أنا مخلص دكتوراه.
+
+Professor: ما شاء الله، ما شاء الله. تمام، كويس أوي عشان كده حضرتك ما شاء الله
+المعلومات قوية. طيب إحنا عندنا زي ما قلنا الـ Innate immunity زي الـ Adaptive
+immunity، لازم يكون في Receptors بتتعرف على الـ Antigen، ما هو الـ Antigen هيدخل
+كده في طريقة للتعارف بينهم، هيتعرفوا على بعض إزاي؟ يعني منين الـ Cell بتاعة الـ
+Innate immunity دي هتيجي تقول إن ده Antigen أنا لازم آخده؟ بتتعرف عشان على سطحها
+حاجة اسمها Pattern recognition receptor. يعني إيه Pattern recognition receptor؟
+دي الـ Receptors المحطوطة على سطحها عشان تتعرف على الـ Antigen اللي داخل.
+
+طب بتتعرف على إيه في الـ Antigen؟ فهميني. Pattern يعني إيه كلمة Pattern؟ يعني
+شكل. Pattern recognition receptor، دي Receptor موجودة قاعدة كده عشان تتعرف
+على شكل معين لو لقيته في أي Antigen داخل هتروح تهاجمه. فاهمين الفكرة؟ يعني ده
+Receptor موجود، كان بيبقى ليها صورة أو المفروض إني أرسمهالكم بس مش هعرف أطلع
+الـ... ده بيبقى شكل معين، لو الخلية دي لقت إن هو ده الشكل المتوافق مع الـ
+Receptors اللي عندها تروح تهاجم الخلية دي.
+
+طيب كل Receptor بيكون ليه حاجة ليه Agonist، حاجة تمسك فيه. الحاجة اللي بتمسك فيه
+في الـ Antigen اسمها إيه بقى؟ بنسميها حاجة بنسميها PAMPs أو Pathogen-associated
+molecular pattern. تمام يا دكاترة؟ Pathogen-associated molecular pattern. لو
+ترجمتوها هتلاقوا الـ Pathogen اللي هو الـ Antigen اللي موجود عليه Molecular
+pattern عليه الشكل اللي بيتعرف عليه الـ Pattern recognition receptor.
+
+طيب هل الـ Pattern recognition receptor ده Specific ولا Non-specific؟
+
+Student: Non-specific.
+
+Professor: بالظبط كده، هو بيتعرف Pattern شكل، لقى الشكل ده في فيروس هيروح يمسك
+فيه، لقى الشكل ده في بكتيريا هيروح يمسك فيه. تعرف يعني إيه؟ يعني على جزء من
+Lipid مثلاً، على جزء من بروتين، على جزء من DNA، على أي حاجة. فعشان كده مش بيبقى
+Specific، غير الـ Acquired immunity اللي بيكون فيها Receptors Specific لكل حاجة
+موجودة. يعني الخلية بتاعة الـ T-cell دي بتاعة الـ Viral، بتاعة الـ Human
+Papillomavirus، غير فيروس تاني، غير بكتيريا، غير كده، كل حاجة Specific لحاجتها.
+لكن ده هنا في الـ Acquired immunity لأ.
+
+طيب الـ Pattern recognition receptors إيه أنواعه أصلاً؟ أنواعه الحاجات اللي إحنا
+قلنها من شوية، الـ Toll-like receptor أول نوع وده أهم نوع يهمني. بقية الأنواع
+هنقولها كده وتبقوا عارفينها ومش لازم تحفظوها، لكن الـ Toll-like receptor
+يهمني لأن ليه Clinical correlations كتير سواء أمراض أو أدوية كمان.
+
+طيب الـ Toll-like receptors، most important. في حاجة اسمها Keratinocyte
+mannose-binding receptor. في حاجة اسمها Peptidoglycan recognition protein. في
+حاجة اسمها Nucleotide-binding oligomerization domain. تمام؟ الكلام ده مش
+عايزاه يتحفظ، لو خرجنا من المحاضرة فاهمين الدنيا ماشية إزاي كله هيجي بعد
+كده. مش عايزة حفظ للكلام ده، تمام؟ نعرف بس إن الـ Pattern recognition
+receptor ده ده الـ Receptor الموجود على خلايا بتاعة الـ Innate immunity عشان
+يتعرف على الـ Antigen. مقابله إيه؟ الريسبتور ده مقابله الـ
+Pathogen-associated molecular pattern ده الجزء اللي بيمسك فيه في الفيروس أو في
+البكتيريا اللي هو هيهاجمها.
+
+إيه أهم نوع من أنواع الـ Pattern recognition receptor؟ الـ Toll-like receptor.
+طيب إيه الـ Toll-like receptor؟ شوية كلام كده. بيقولي الـ Toll-like receptor
+عبارة عن جروب من الـ Glycoprotein surface transmembrane receptor. عبارة عن
+Receptor ذات Help الـ Innate immunity to recognize الـ Pathogen. موجود فين الـ
+Toll-like receptor؟ هيبقى Mainly موجود على الخلايا المناعية بتاعة الـ Innate
+immunity. بس كمان ممكن يبقى موجود على الـ Keratinocytes. تمام؟ عشان لو في لو
+سؤال أو حاجة إن الـ Toll-like receptor بتطلع كمان من الـ Keratinocytes؟ أيوة
+بتطلع من الـ Keratinocytes. تمام؟
+
+They are found on immune cells زي الـ Monocytes, Macrophages, Dendritic cells,
+Natural killer cells, Granulocytes, B and T cells. ماشي كده. طيب الـ Toll-like
+receptors بيقولي إن هو At least 10 types of Toll-like receptors are found in
+humans. From Toll-like receptor 1 to 10. طيب دي For examples أنا مش جايبالكم
+كله.
+
+Toll-like receptor 2 ده بيـ Recognize مين؟ الـ Double-stranded RNA اللي موجود في
+الـ Viruses. يعني Toll-like receptor 3 بيتعرف على أي فيروس عنده Double-stranded
+DNA. فهل كده يبقى Specific؟ لأ مش Specific، إحنا عندنا أنواع من الفيروسات كتير
+فيها Double-stranded DNA. تمام؟
+
+طيب Toll-like receptor 4 بيتعرف على مين؟ بيتعرف على الـ Lipopolysaccharide.
+تمام؟ ده بيبقى موجود فين؟ في الـ Gram-negative bacteria، فبيتعرف على كل الـ
+Gram-negative bacteria، فعشان كده Non-specific.
+
+Toll-like receptor 5 بيتعرف على الـ Flagellin، وده بيبقى Component موجود في الـ
+Bacterial flagella. تمام يا دكاترة؟ فالـ Flagellin ده في الغالب موجود في كل
+أنواع البكتيريا، فإذن أنا عندي Toll-like receptor 5 مش Specific لنوع معين،
+مش لـ Staph لوحده، مش لـ Strep لوحده، لأ ده أي بكتيريا فيها Flagellin الـ
+Toll-like receptor 5 هيتعرف عليها. فهمتوني؟ فهمتوني ولا لسه؟
+
+Toll-like receptor 7 قلنا إن ده بتاع الـ Human Papillomavirus. تمام؟ ده بتاع الـ
+Imiquimod. Toll-like receptor 2 كان إيه دخله بالـ Acne؟ كان إيه دخله بالـ Acne
+يا دكاترة؟ كان من ضمن الـ Mechanism أصلاً بتاعة الـ Acne.
+
+Student (Dr. Ahmed): عفواً دكتورة يمكن Proliferation of Propionibacterium acnes؟
+
+Professor: أيوة بالظبط كده. Activation بقى والـ Bacteria تبتدي يحصل الـ
+Inflammation، الـ Process بتاعة الـ Inflammation بتبتدي من الـ Toll-like
+receptor 2. تمام؟ مش موضوعنا دلوقتي.
+
+دي صورة يعني إلى حد ما هتبقى موضحالك الدنيا شوية، دي الـ Cell وده الـ Toll-like
+receptor. بيتعرف، أدي Flagellin مثلاً، أدي Lipopolysaccharide، أدي مش عارفة إيه،
+كل حاجة ليها الـ Receptor بتاعها. الصورة دي يعني هتحاولوا إنتوا تمسكوها كده
+وتبصوا عليها. Toll-like receptor 1، Toll-like receptor 2، تمام يا دكاترة؟
+
+طيب إحنا كده خلصنا الـ Cells وخلصنا إزاي الـ Cells بتتعرف على الـ Antigen
+بتاعها. هندخل على تاني Component من الـ Innate immunity، حاجة اسمها الـ
+Complement system. ناس كتير سمعت عن الـ Complement system، حد يقدر يقولي إيه
+الخلفية أو حد يعرف إيه هو الـ Complement ده؟ مش لازم تفاصيل.
+
+Student: Plasma proteins.
+
+Professor: تمام، هو فعلاً Proteins. Proteins بتعمل إيه؟ جزء من الـ Innate
+immunity. تمام، نبتدي.
+
+الـ Complement ده بيقولي إن هو عبارة عن Biochemical cascade. Cascade يعني حاجة
+بتنادي حاجة بتنادي حاجة عشان نوصل لحاجة في الآخر. في الـ Immune system عشان
+أوصل لإيه؟ عشان That help antibodies to clear pathogens or mark them for
+destruction. يعني وليه وظيفتين: يا إما بيساعد الـ Antibody إن هو يتخلص من الـ
+Pathogen، يا إما بيعلم عليه، بيديله علامة (علامة صح كده) عشان الخلايا وهي معدية
+تيجي تعمله Destruction.
+
+طيب في 3 Pathways عشان أعمل Activation للـ Complement ده. Classical pathway،
+Classical pathway عن طريق مين؟ عن طريق Antigen-antibody complex. أو Alternative
+pathway، أو Mannan-binding lectin pathway. اللي إحنا هنتكلم فيه دلوقتي هو الـ
+Classical pathway. أفهم بس إيه هو الـ Complement ده ككل كده وأبقى فاهمة الصورة
+بتاعته قدام عيني، بعد كده ممكن تحفظوا الكلام.
+
+الـ Complement ده عشان أبقى الصورة واصلالكم، دي عبارة عن شوية بروتين ماشية في
+الـ Blood. هنعتبرهم إن هما بص شايل شوية Complement، والـ Complement دول عبارة
+عن أشخاص من 1 لـ 9 أساميهم كده: Complement 1 لحد Complement 9. ده بيمشي بالباص
+بتاعه في الدم رايح جاي، رايح جاي، كأنه زي البوليس كده، عارفين الدورية اللي
+بتلف في الشارع دي كده؟ هو كده بالظبط. إيه ده؟ ده لقى مشكلة هنا، ينزل بسرعة.
+يا إما يحل المشكلة، يا إما يقف لحد ما يبعت دعم كبير من القسم بقى، من الجيش، من
+أي حاجة، تعالوا ده في مصيبة هنا حاصلة. تمام؟
+
+[40:00]
+
+Professor: طيب، إيه المشكلة اللي لقاها في الشارع إيه؟ لقى Antigen ماسك في
+Antibody وعمالين بيتخانقوا مع بعض. Antigen و Antibody واقفين بيتخانقوا مع بعض.
+إيه ده؟ يجي بسرعة أول واحد يجي مين؟ طبعاً Complement 1. ينزل بسرعة، تعالوا
+ينده على مين؟ ينده بالترتيب على Complement 4 و Complement 2. وكل واحد ليه
+وظيفة.
+
+يبقى Complement 1 لقى إيه يا دكاترة؟ لقى Antigen و Antibody واقفين بيتخانقوا مع
+بعض، ماسكين في بعض الاتنين. Complement 1 نزل، نده مين؟ نده Complement 4 و
+Complement 2. Complement 4 و Complement 2 بيتقسموا لحاجتين: A و B. الـ A تفضل في
+الـ Blood، والـ B تطلع لمكان المشكلة.
+
+يبقى هنا أنا أكتيڤيت مين؟ Complement 4 و Complement 2. فجالي هنا Complement 1 و
+Complement 4b و Complement 2b. الـ A فضلوا في الـ Blood. طيب دول هيعملوا إيه؟
+هيأكتيڤوا Complement 3، هما غلسين، يعني هما كده بيقعدوا يأكتيڤوا في بعض، يعني
+كأنهم مسؤولين أو إدارات فوق بعضهم عمالين كل واحد يحفز التاني عشان يبتدي يشتغل.
+
+طيب أكتيڤيت Complement 3، قام Complement 3 عمل إيه؟ اتقسم برضه، فضل
+Complement 3a تحت وطلع Complement 3b فوق عشان المشكلة دي. هو ده اللي يهمني
+بالدور، عشان كده معظمنا بنسمع عن Complement 3، 3b دايماً، دايماً ده الأساس
+بتاعنا. طيب بيعمل إيه؟ بيعملي Opsonization. يعني إيه Opsonization؟ يعني بيتخلص
+من الـ Antigen.
+
+طيب معرفش يتخلص من الـ Antigen، يقوم يأكتيڤيت Complement 5. فـ Complement 5 نفس
+الحوار، يسيب A تحت ويطلع B هنا. عشان Complement 5 يأكتيڤيت مين؟ 6 و 7 و 8 و 9.
+يبقى 5b و 6 و 7 و 8 و 9 دول اسمهم إيه؟ دول بقى اللي هما المجموعة اللي جاية تقضي
+من الآخر، اسمهم Membrane Attack Complex. يعملولي إيه؟ يعملولي Cytolosis للخلية
+أو Cytolosis للمشكلة اللي موجودة.
+
+تمام يا دكاترة؟ تمام؟ أنا عارفة إن هو برضه غلس، وبرضه مش محتاجة منكم اللي
+ميعرفوش خالص مايفهموش مني دلوقتي مرة في التانية هيلاقي (يعني أنا لو وصلت
+إن الناس اللي معايا اتقبلوا 50% من المحاضرة دي أنا راضية جداً أقسم بالله). عشان
+أنا مفهمتش Immunology غير بعد ما خلصت الزمالة تقريباً. يعني Immunology كـ
+Immunology لأ، إن إحنا نفهمها وإن إحنا نقعد نتعمق فيها هتيجي بعد كده بالممارسة
+مع الأمراض كمان. بس فكرة إني أدرس أمراض من غير ما أبقى عارفة الـ Immunology دي
+من أصعب الحاجات، لأن إحنا كنا بندرس كده وده اللي حصل معانا فعلاً. إن أنا أبقى
+عارفة المرض كل مرض لوحده، وبسمع عن Interleukins معينة، وبسمع T-helper 17 و 22
+و 23 ده Interleukin و Tumor... إيه الحاجات دي؟ الحاجات دي جاية منين؟ لفة والـ
+ICAM والـ Defensin، الكلام ده كله بتاع إيه؟ هو اللي إحنا بنعرفه في المحاضرة دي.
+فأنا مش مطلوب مني إني أعرفها كلها، ولكن لما أجي للـ Psoriasis في المحاضرة
+الجاية أقولكم كذا، إنتوا ترجعوا للمحاضرة دي وتقولوا آه إحنا سمعناها فإذن
+إحنا فاهمين. فاهميني يا دكاترة؟
+
+تمام كده؟ طيب خلاص أنا مش عايزة أبتدي من الأول تاني، ولكن هنقول كده:
+Complement 1 بيأكتيڤيت Complement 4 و 2، A ينزلوا تحت في الـ Blood، الـ B يطلعوا
+فوق. يأكتيڤيتوا 3، 3a ينزل تحت، 3b يطلع فوق. 3b ده بيعملي Opsonization. ماقدرش،
+يأكتيڤيت 5، 5a ينزل تحت، 5b يطلع فوق. 5b يأكتيڤيت 6 و 7 و 8 و 9، يعملولي الـ
+Membrane Attack Complex اللي بيعملي Cytolosis.
+
+طيب الـ A اللي إحنا سايبينهم في الـ Blood دول بيعملوا إيه؟ تفتكروا بيعملوا إيه؟
+دول بقى الستات اللي هما بيصوتوا: "يا لهوي الحقوني! الحقوني ده في مشكلة هنا!
+تعالوا بسرعة!". بيعملوا إيه؟ بيعملوا Chemotactic effect. يلا بقى Neutrophils
+تعالي، يلا T-cell تعالي، يلا كذا، على حسب بقى المشكلة اللي موجودة عبارة عن إيه
+بالظبط. تمام؟ يعني جزء بيتعامل (الرجالة بيتعاملوا هما بقى اللي عمالين يضربوا
+ويموتوا ويقتلوا)، والستات بتوعهم فيهم الخير عمالين بيصوتوا عشان يجيبوا النجدة
+بقى ويجيبوا بقية الحاجات. فهمنا شوية الـ Complement pathway عبارة عن إيه؟ لو
+حتى فهمناه بشكل الكاريكاتير اللي إحنا عاملينه ده.
+
+في حد مش فاهم؟
+
+Student: تمام يا دكتور.
+
+Professor: طيب تمام. الـ Functions بتاعة الـ Complement إيه؟ أول حاجة
+Opsonization، مين اللي بيعمل Opsonization؟ الـ C3b. تاني حاجة Anaphylatoxins،
+مين اللي بيعمل Anaphylatoxins؟ الـ C3a والـ C4a والـ C5a. تالت حاجة
+Chemotaxis، مين اللي بيعمل Chemotaxis؟ الـ C5a. رابع حاجة Cytolosis، مين اللي
+بيعمل Cytolosis؟ الـ Membrane Attack Complex اللي هو من C5b لـ C9.
+
+إحنا كده خلصنا الـ Cells وخلصنا الـ Soluble factors، خلصنا الـ Complement.
+هنبتدي بقى نشوف مين؟ الـ Cytokines ومين الـ Antimicrobial peptides.
+
+الـ Antimicrobial peptides ده بيسموه Soluble factor زي ما إحنا شفناه. حاجات
+موجودة برضه تبع الـ Innate immunity. طيب عبارة عن إيه؟ بيقولي "Group of
+short peptides secreted by epithelial cell surface including the skin". يعني الـ
+Antimicrobial peptides دي بتطلع من مين؟ بتطلع من الـ Epithelial surface زي مين؟
+زي الـ Keratinocytes، الـ Sweat glands، الـ Sebaceous glands. تمام؟ هي عبارة عن
+إيه؟ "Part of the innate immunity against organisms". يعني جزء من الجهاز المناعي
+أو الدفاعي بتاعي. زي مين؟ زي الـ Defensins والـ Cathelicidins.
+
+تمام؟ Clinical correlation زي ما قلناه من شوية، الـ Defensins ده بيبقى عالي في
+الـ Psoriasis، فعشان كده مريض الـ Psoriasis مابيجيلوش Infection كتير.
+
+[50:00]
+
+Professor: الـ Adaptive immunity لو في Antigen أول مرة يدخل الجسم، الـ Innate
+immunity عشان تشتغل بتاخدلها تقريباً أسبوع لأسبوعين. ده Response طويل، ولكن جه
+الـ Antigen ده قرر إنه يدخل الجسم بعد سنة، الـ Adaptive immunity بتهاجمه في
+خلال 48 ساعة. عارفين ليه؟ عشان كونت من الـ Antigen ده ذاكرة، خلايا تتحط جوه
+في الذاكرة لحد إيه ده؟ ده أنا شفت ده قبل كده، يلا هجوم على طول. أنا لسه مش
+مستنية الـ Innate تيجي ولا تحضرلي ولا Antigen-presenting cell ولا الكلام ده
+كله، أنا جاية على طول بقى معاكي. تمام كده؟
+
+الـ Adaptive immunity عبارة عن إيه؟ Cell-mediated وممثلة في الـ T-cell (T-helper
+و T-cytotoxic)، والـ Humoral immunity اللي هي الـ B-cell بتطلعلي الـ Antibody
+اللي هو ماجد تقريباً. تمام؟
+
+تمام يا دكاترة؟ إحنا بقى هندخل شوية في دي، الـ T-helper والـ T-cytotoxic. هندخل
+ويا رب نخرج على خير أنا وإنتوا بإذن الله. يلا.
+
+إيه هي الـ T-cell؟ الـ T-cell تمام، دي بتبتدي منين؟ بتيجي تطلع من الـ Bone
+marrow (الـ T-lymphocyte)، بنسميها T-cell precursor. تروح فين الـ T-cell دي؟
+تروح للـ Thymus، كلنا عارفين المعلومة دي من أيام الكلية أصلاً إن الـ T-cell
+بتروح للـ Thymus gland. تمام؟ وبعد كده تطلع على الـ Lymph node.
+
+طيب الـ T-cell precursor تطلع على الـ Thymus يحصلها إيه؟ تتحول لـ CD8 و CD4. حد
+يعرف إيه الـ CD8 والـ CD4؟ إيه الـ CD أصلاً؟ يعني إيه CD؟ وليه أصلاً أنا مابقتش
+T-cell؟
+
+Student (Dr. Ahmed): Cellular differentiation.
+
+Professor: أيوة، إيه يا دكتور الـ Cellular differentiation ده؟
+
+Student (Dr. Ahmed): اللي هي بتتقسم، يعني تتقسم على حسب الـ...
+
+Professor: أيوة، أنا بتكلم على كلمة CD نفسها. زي ما حضرتك قلت Cellular
+differentiation، دي كأنها دي البطاقة بتاعتها، دي الـ Receptors اللي عليها من
+الآخر. الـ T-cell بتطلع تتقسم لحاجة اسمها T-helper و T-cytotoxic. الـ
+T-helper بتطلع الـ Receptors اللي عليها أو البطاقة التعريفية بتاعتها اسمها CD4.
+والـ T-cytotoxic بتطلع CD8.
+
+ومن كتر ما هي دي Specific لدي، يعني الـ T-helper CD4 والـ T-cytotoxic CD8،
+مابقاش في T-helper و T-cytotoxic أصلاً، بقينا بنسميهم كده CD8 و CD4.
+فاهمين قصدي يا دكاترة؟ فالـ CD8 إيه؟ T-cytotoxic. CD4 T-helper.
+
+يعني إيه T-cytotoxic؟ T-cytotoxic بتيجي تقتل الخلايا على طول، تيجي تقتل المشكلة
+على طول. T-helper تقعد تطلع بقى في حاجات وتعمل في حاجات و Helper من اسمها
+مساعدة. مين الأقوى؟ مين الأقوى؟ الـ Cytotoxic، فعشان كده واخدة الرقم
+الكبير. احفظوها كده للناس اللي لسه جديدة. T-cytotoxic قوية فهي CD8 هي
+الكبيرة. T-helper حنينة فهي الـ CD4. تمام؟
+
+نقول تاني، طلع من الـ Bone marrow T-cell precursor، تبتدي هنا تدخل في الـ Thymus
+تتحول لـ CD8 و CD4 اللي هي الـ T-helper والـ T-cytotoxic. تمام؟ تطلع للـ Thymus
+medulla تمام مفيش مشكلة، تدخل بقى على الـ Lymph node. الـ T-helper ليها أنواع
+كتير، والـ T-cytotoxic ليها هي نوع واحد.
+
+طيب الـ T-helper بـ Interleukins معينة تتحول لـ T-helper 1، وبـ Interleukins
+معينة تتحول لـ T-helper 2، وكل واحدة من دول ليها وظيفة معينة، وكل واحدة من
+دول بتزيد في مرض معين أو بيكون ليها Clinical correlation لأمراض معينة.
+T-helper دي تتحول لـ T-helper 17 بـ Interleukins معينة، لكل حاجة أنا دلوقتي في
+بكتيريا أنا أنا عايزة أموتها مثلاً أو أهاجمها بالـ T-helper 17، فمين اللي
+تيجي؟ الـ Tissue growth factor beta والـ Interleukin 6 لما يطلعوا يحفزولي
+مين؟ يطلعولي مين؟ T-helper 17 اللي هي هتطلع تهاجم المشكلة دي. فاهمين قصدي يا
+دكاترة؟
+
+هنا أنا مثلاً عايزة T-helper 1 هي اللي تطلع، هطلع مين؟ هتيجي الـ Interleukin...
+مين الـ Interleukins دي؟ اللي إحنا اتكلمنا عنها من شوية اللي هي كلها كلها حاجات
+بتساعد بعضها.
+
+[54:35]
+
+
+Here is the cleaned, formatted, and professional transcript of the lecture:
+
+[00:00]
+
+Professor: Interleukin-12 عشان تطلعلي مين؟ هتقوم differentiate لـ T-helper 1.
+لحد دلوقتي أنتم فاهمين الدنيا ماشية إزاي؟ طيب، هنا بيقول لي نفس الكلام اللي
+أنا شرحته ده، هو ده الـ development of T-cell. بيقول لي T-cell precursors are
+formed in bone marrow. تطلع من الـ bone marrow، تمام. Migrate to thymus. Mature،
+تتحول للي اسمها Naive T-cell. Naive قبل ما تبقى CD8 و CD4 بتبقى Naive. عارفين
+يعني إيه Naive T-cell؟ يعني معليهاش اسم، هي مش متسمية. هي لسه خلية pure، ولا
+اتحولت لـ helper ولا اتحولت لـ cytotoxic. في الوقت ده بنسميها Naive T-cell. لحد
+بعد كده ما تدخل جوه الـ organs بقى، سواء الـ lymph node، الـ spleen، الـ
+paracortical area، تمام مفيش مشكلة. لحد دلوقتي تمام يا دكاترة؟ طبعا هتتخضوا من
+الشكل ده، بسم الله الرحمن الرحيم فعلاً. لحد دلوقتي الدنيا تمام معاكم؟
+
+طيب، أنا دلوقتي حصل مشكلة وفي antigen موجود، والـ innate immunity مقدرتش تتغلب
+عليه. إيه اللي هيحصل؟ هتيجي الـ Antigen-Presenting Cell (APC) تاخد الـ antigen
+وتروح بيه فين؟ ردوا عليا بقى أنا عايزة مشاركة عشان أنا حاسة إن أنتم هتناموا مني.
+
+Student: تروح للـ lymph node يا دكتورة.
+
+Student: تروح للـ T-cell.
+
+Professor: بالظبط كده. أنا أهي دي الـ Antigen-Presenting Cell جاية شايلة عليها
+الـ antigen أهو، عشان أروح بيه فين؟ عشان أروح بيه للـ T-cell. فهمنا؟ وهنا نفس
+الحوار. طيب سؤال، أنا كـ Antigen-Presenting Cell هروح للـ CD4 ولا الـ CD8؟
+وهروح للـ T-helper ولا الـ T-cytotoxic؟ على أساس إيه الـ Antigen-Presenting
+Cell بتحدد تروح للـ CD4 ولا الـ CD8 اللي هي الـ helper أو الـ cytotoxic؟ على
+أساس إيه؟
+
+Student: على أساس الـ receptor.
+
+Professor: بالظبط كده. في receptors على سطح الـ Antigen-Presenting Cell لما تروح
+هي طالع عليها receptors معينة رايحة specific لـ CD4، وفي receptors تانية رايحة
+specific لـ CD8. إيه هي الـ receptors دي؟ Major Histocompatibility Complex
+(MHC) 1 و 2. حد سمع قبل كده عن MHC 1 و 2؟ كل اللي ليه علاقة بالجلدية لازم يبقى
+سمع عنها بس مش فاهم هي إيه بالظبط، صح؟
+
+Student: نعم، type 1 و type 2، وفيه type 3 كمان يمكن. Type 1 found in all
+nucleated cells.
+
+Professor: تمام. حضرتك بتتكلم ثانية واحدة، حضرتك بتتكلم على الـ HLA (Human
+Leukocyte Antigen)، صح؟ خلوني أقول لكم دي بسرعة كده. كل خلايا الجسم بتاعتنا، مش
+إحنا كمصريين أو كعرب عموماً أو كناس في العالم كله معانا ID؟ كل واحد معاه رقم
+الهوية بتاعته عشان لما أطلع البطاقة بتاعتي، أه ده أنا إيمان جمعة، أه ده أنا
+ساكنة في كذا، أه ده أنا متجوزة، أه ده أنا مش عارفة إيه، عشان الناس تبقى
+عارفاني. وهكذا الجسم بتاعنا، كل خلية في جسمنا ليها هوية، ليها بطاقة
+تعريفية بنسميها إيه؟ بنسميها الـ HLA. وأتحدى برضه كل بتوع الجلدية سمعنا عن
+الـ HLA وغرقانين فيها، والـ HLA DR والـ HLA ABC والـ HLA بصوا، الـ HLA جننتنا.
+إيه الـ HLA دي؟ الـ HLA دي البطاقة بتاعت الخلية، بس. مفيش مشكلة، مفيش حاجة غير
+كده. الـ HLA دي أنواع، HLA 1 و HLA 2. HLA 1 دي موجودة في كل الـ nucleated cells
+زي ما الدكتور أحمد قال. كل الخلايا بتاعت جسمنا، كل الخلايا، لازم ليها بطاقة
+تعريفية اللي هي اسمها Human Leukocyte Antigen type 1. Type 1 ده اللي هو A و
+B و C بيتقسم لكده. طيب، الـ immunological cells بالتحديد بتطلع البطاقة التعريفية
+بتاعتها HLA 2، اللي هما دول، اللي هما في الـ Antigen-Presenting Cell (Major
+Histocompatibility Complex). ما علينا هنجيلهم دلوقتي، ولكن الـ HLA دي، دي
+البطاقة التعريفية، HLA 2 موجودة على الـ immunological cells.
+
+[10:00]
+
+Professor: الـ Major Histocompatibility Complex 2 و 1 جزء من الـ HLA أو type من
+الـ HLA. يعني إيه؟ يعني دي برضه البطاقة التعريفية بتاعت الـ Antigen-Presenting
+Cell. طيب، Antigen-Presenting Cell ماشية، الخلية دي شايلة 2، هتروح لمين؟ هتروح
+تمسك في مين؟ ده أنا ماشية كده في الدم ماشية بـ 2، مين اللي هيجي يمسك فيها على
+طول أو هي كده بتدور على مين؟ على الـ CD4 (T-helper). طيب أنا شايلة 1 (MHC 1)،
+إذن أنا بدور على الـ Cytotoxic. فأي Antigen-Presenting Cell لازم هيكون عليها
+MHC class 1 شايل الـ antigen رايح بيه لمين؟ للـ CD8. Class 2 شايل الـ antigen
+رايح بيه لمين؟ للـ CD4. فهمتوني ولا مش فاهمين؟ يعني من الآخر، MHC 2 specific
+للـ T-helper، MHC 1 specific للـ CD8. تمام؟ تحفظوها إزاي بقى عشان بس مننساهاش؟
+بنقول حاصل ضرب 1 في 8 بـ 8، وحاصل ضرب 2 في 4 بـ 8 برضه. بصوا إحنا ما شاء الله
+بنعمل شغل كاريكاتيري على شغل علمي بس هنطلع بموضوع حلو بإذن الله. تمام؟ فاهمين
+لحد دلوقتي يا دكاترة؟
+
+Student: تمام.
+
+Professor: فاهمين؟ أنا اخترت CD4 على أساس إيه؟
+
+Student: الـ MHC اللي هو class 2.
+
+Professor: عشان شايلة على سطحها، عشان اللي شايل الـ antigen كمان MHC 2. طب ليه
+اخترت CD8؟
+
+Student: عشان شايلة class 1.
+
+Professor: عشان شايلة class 1. تمام، ده اسمه إيه؟ ده اسمه إن أنا بحضر الـ
+antigen عشان تبتدي الـ T-cell تتعرف عليه. طيب، سؤال بقى خارج الموضوع، هل في
+antigen تقدر توصل للـ T-cell من غير مساعدة الـ Antigen-Presenting Cell؟
+
+Student: Yes. في الـ contact dermatitis اللي هي allergic، على طول الـ allergen
+يحفز الـ T-cell.
+
+Professor: لا، بتقولي إيه يا دكتورة؟
+
+Student: Second exposure؟
+
+Professor: لا، طب الـ contact dermatitis تقصدي ده اللي حاصل فيه pre-sensitivity،
+فكده أنا عملت memory cell فعادي خلاص. لكن أنا أقصد antigen لسه داخل الخلية طازة،
+الجسم ميعرفوش خالص. لو اتعرض قبل كده هيعمل memory cell فخلاص تمام، لكن لا يا
+دكاترة أنا أقصد antigen لسه داخل طازة الجسم. هل في antigen يقدر يروح يمسك في
+الـ T-helper أو الـ T-cytotoxic من غير مساعدة الـ Antigen-Presenting Cell؟
+
+Student: Endotoxins؟
+
+Student: دكتورة، في superantigens.
+
+Professor: تمام، تمام، الـ superantigens. ده antigen عادي، في الـ superhero بقى
+ممكن يجي يتخطى كل اللعب ده ويجي يقول يلا أنا همسك بسرعة في الـ CD8 أو الـ CD4.
+عندنا مثل شهير للـ superantigen ده عندنا في الجلدية، زي مرض اسمه إيه؟
+
+Student: Psoriasis؟
+
+Professor: لا، لا، لا.
+
+Student: Scarlet fever؟
+
+Professor: لا. Toxic Shock Syndrome. ده الـ superantigen. عدا ذلك، في حاجات
+تانية على فكرة بس إحنا مش عارفينها، عدا ذلك كل الأمراض اللي إحنا عارفينها
+لازم تمشي بده، لازم، مفيش قدامها حل تاني غير ده. ولكن في حاجة اسمها الـ
+superhero أو الـ superantigen اللي هو الـ antigen can activate T-cell without
+antigen presentation. زي مين؟ زي الـ Toxic Shock Syndrome. شايفين هنا
+Antigen-Presenting Cell، MHC 2 عشان تروح تجيب مين؟ عشان تروح تجيب الـ CD4.
+شايفين الـ antigen متشال هنا إزاي؟ ولكن هنا جه الـ superantigen مسك في دي
+على طول من غير بقى ولا antigen presenting ولا MHC ولا الكلام ده. فهمنا يعني إيه
+superantigen؟
+
+Student: واضح، واضح دكتورة.
+
+Professor: طيب، يبقى أنا لحد دلوقتي أنا عملت إيه؟ أنا بتكلم على الـ adaptive
+immunity. الـ adaptive immunity عبارة عن T-cell والـ B-cell. الـ T-cell اللي
+اتكلمنا عنها بتطلع من الـ bone marrow تروح للـ thymus، تبقى naive T-cell،
+تتحول لـ CD8 و CD4 على حسب الحاجة اللي أنا عايزاها. طيب تمام، أنا دلوقتي جه
+الـ antigen، الـ antigen لازم يتشال على Antigen-Presenting Cell. طيب الـ
+antigen ده عايز CD4، هتبقى مين؟ هتبقى على خلية اسمها إيه؟ MHC 2
+(Antigen-Presenting Cell اللي شايلة 2). طب CD8؟ MHC 1. تمام؟ طيب تمام كويس أوي
+أوي. ده عشان أخلي الـ Antigen-Presenting Cell تمسك في الـ CD4 أو الـ CD8 عشان
+تبتدي تكسرلي في الـ antigen ده.
+
+[20:00]
+
+Professor: في حاجات تانية بنسميها إحنا لغة الحوار. مسكوا في بعض، لو أنا مثلاً
+باكستانية واللي قدامي مصري مثلاً، هنعرف نتكلم مع بعض؟ وأنا مش عارفة لغته ولا
+هو عارف لغتي ولا إحنا الاتنين بنعرف نتكلم English. حلو الكلام؟ هيبقى في لغة
+حوار بينا؟ هنعرف نوصل لحل؟
+
+Student: لا.
+
+Professor: مش هنعرف نتكلم بالظبط كده. ولكن لو في مترجم معانا، أو أنا بعرف أتكلم
+شوية English على هي بتعرف توصل لي شوية، هنعرف نوصل مع بعض لحل. هو ده بالظبط،
+هنا خليتين مسكوا في بعض، هما عمي الاتنين مبيعرفوش بعض. طب أنا عايزة لغة حوار
+بقى عشان يلا خدي الـ antigen كسريه، يلا امشي، يلا اعملي، يلا هنعمل كذا دلوقتي
+مع بعض، يلا كذا. في حاجة اسمها Co-stimulatory molecules. إيه الـ
+co-stimulatory molecules دي؟ أنا بسميها لغة الحوار ما بين الخلايا. دي خلية اسمها
+Antigen-Presenting Cell ودي CD4، شايلة إيه؟ شايلة الـ MHC 2، مسك في الـ CD4 والـ
+antigen في النص. طب يلا بقى اشتغلوا! ولا أنا فاهماها ولا هي فهماني، مفيش حاجة
+بينا. طيب نجيب بقى المترجمين، مين المترجمين؟ المترجمين بتوع الـ
+Antigen-Presenting Cell حاجة اسمها LFA-1، ICAM-1، CD80، CD86. طيب بتوع الـ
+T-cell؟ CD2، LFA-1، CD28. تمام؟ أنا برضه مش عايزاكم تحفظوا الكلام ده، ولكن في
+biologic مثلاً بتاع الـ LFA-3، CD2، هنعرفها في حاجات تانية. بدل ما نيجي نحفظ
+حاجات في الأدوية مش عارفينها، وحاجات في الـ etiopathogenesis بتاعت الأمراض
+مش عارفينها، وفي الآخر ولا عارفين نشخص ولا عارفين نعالج عشان أنا أصلاً مش
+فاهمة إيه الكلام اللي أنتم عمالين بتقولوه ده. يعني معمييين كأننا بجد مش
+عارفين مين الـ LFA ومين الـ ICAM ومين الحاجات اللي إحنا بنقراها من غير ما
+نفهمها ونحفظ عليها الأدوية وفي الآخر تتنسي. لا، هما دول، هما دول عادي دي لغة
+حوار بين الخلايا وبعضها عشان يمسكوا في بعض عشان يبدأوا يتكلموا. تمام؟ اسمها
+T-cell receptor mediated signaling transduction، اللي هي co-stimulatory
+molecules من الآخر، اللي هي العوامل المساعدة عشان يبتدي الـ action بتاع الخلية
+يتعمل. تمام؟ تمام كده؟ لحد كده تمام يا دكاترة؟ زي ما قلت لكم مش عايزة كل ده
+يتحفظ، زي ما قلت لكم بس نبقى عارفين، تبقوا عارفين ده إيه. لما تيجي تسمعي في
+chapter الـ biologics تبقي عارفة إنتي بتتكلمي في إيه. لما تيجي في الـ melanoma
+تسمعي عن الـ CD28 أو تسمعي عن حاجات معينة في كل مرض تبقي فاهمة الدنيا فيها
+إيه. تمام يا دكاترة؟ لحد دلوقتي تمام؟
+
+Student: تمام.
+
+Professor: طيب، دلوقتي الخلية الـ Antigen-Presenting Cell جابت لي الـ antigen
+لحد عندي. طيب المفروض الـ T-cell تعمل إيه؟ والمحاورين اتكلموا ورغوا مع بعض
+ومسكوا في بعض وفهموا بعض. كل ده أنا عشان أعمل إيه؟ عشان أخلي الـ T-cell
+تشتغل، الـ T-helper تشتغل، فتعمل الـ action بتاعها. فلما تعمل الـ action
+بتاعها أبتدي أتخلص من الـ antigen اللي موجود، صح؟ إيه الـ action بتاع الخلية
+دي؟ أو إزاي تعمل الـ action بتاعها؟ أنا عايزة من الآخر activate الـ CD4، كل
+اللي بيحصل ده عشان activate الـ CD4 عشان تشتغل. الـ CD4 هتشتغل جوه إزاي؟
+بتشتغل جوه عن طريق إن هيحصل transcription للـ DNA والحاجات دي عشان تطلعلي
+interleukin في الآخر اسمه Interleukin-2. ومن هنا تبدأ الـ process بقى، سواء
+T-helper تتحول لـ T-helper حاجة تانية أو تطلعلي شوية interleukins تبتدي تتخلص،
+أو تديني cytotoxic تبتدي تتخلص من الـ antigen برضه. مش مشكلتنا، ولكن مشكلتي
+هنا دلوقتي إن أنا عايزة أعرف إزاي بيحصل activation للخلية من جوه. إحنا هنعدي
+دي معلش، كل ده، وهرجع تاني لأن إحنا دخلنا في حتة. بالظبط كده، أهي الـ
+Antigen-Presenting Cell مسكت في الـ T-cell، تمام؟ ودول لغة الحوار اللي هما كانوا
+شايفين نفس الصورة، نفس الصورة. وهنا الـ T-cell receptor وهنا الـ MHC سواء 1 أو 2
+لأن دي محددتش برضه دي T-helper ولا T-cytotoxic. ولكن أنا كل ده عشان أعمل
+activation لدي. طيب activation لدي اسمه إيه؟ أعمل activation هنا عشان أطلع
+Interleukin-2 عشان يبدأ يشتغلي على الـ antigen بقى سواء هيحصل كذا. لازم هنا
+activate الـ DNA عشان يعملي transcription للـ interleukin عشان نخلي الخلية دي
+تنتج لي الـ Interleukin-2 ده. إزاي؟ طبعا أنا مش جايبة ده برضه عشان حاجة، عشان
+ليه حاجات تانية clinical هنتكلم عنها. في pathway جوه الخلية بتاعت الـ T-cell،
+خلاص هي اتقدم لها الـ antigen على طبق من دهب اللي هي الـ Antigen-Presenting
+Cell وتعرفوا على بعض واتكلموا وكل حاجة. كل ده عشان الهدف إن أنا أـ activate الـ
+T-cell عشان تشتغل. بـ activate الـ T-cell إزاي؟ في pathway جوه الخلية اسمه
+Intracellular signaling T-cell activation. إزاي بعمل activation للـ T-cell؟ عن
+طريق الكالسيوم والـ Calmodulin، والـ Calcineurin، والـ Nuclear Factor of
+Activated T-cells (NFAT). الكلام ده سمعنا عنه فين قبل كده؟ Calcineurin؟
+Calcineurin تاني؟ مين؟ بنقول إيه؟ يلا صحصحوا معايا.
+
+Student: Calcineurin inhibitors.
+
+Professor: أيوة، قلتي إيه؟
+
+Student: زي الـ Calcineurin inhibitors.
+
+Professor: مين الـ Calcineurin inhibitors؟
+
+Student: Tacrolimus.
+
+Professor: الـ Tacrolimus. إيه هو الـ Tacrolimus ده؟ حد فيكم يعني قبل المحاضرة
+دي كان عارف إن الـ Tacrolimus هو اللي بـ inhibit الـ pathway ده؟ قولوا لي.
+
+Student: آه.
+
+Professor: تمام، كويس أوي. الـ Tacrolimus ده هو عبارة عن إيه؟ بنسميه أصلاً كده
+Topical Calcineurin Inhibitor. تمام، عايزة أعرف مين فيكم كان عارف إن الـ pathway
+ده هو الـ Calcineurin اللي هو اللي إحنا عارفينه، الكلمة اللي إحنا كلنا حافظينها،
+كلنا كدكاترة جلدية عارفين الكلمة دي: Topical Calcineurin Inhibitor. ده بديل
+الكورتيزون اللي بيتحط في الـ sensitive area أو في منطقة حوالين العين عشان
+ما أأذيش الجلد بالكورتيزون، صح؟ اللي هو Cortisone-sparing، صح يا دكاترة؟ مين
+فيكم كان عارف إن هو ده الـ pathway؟ اللي كان عارف يقول أنا كنت عارف، زي دكتور
+أحمد كده.
+
+Student: (Silence)
+
+Professor: تمام، أنا عاذراكم لأن إحنا بناخد الأدوية قبل الكلام ده أصلاً. وفينا
+مننا كتير، ومننا كتير جداً من الناس اللي مخلصة ماستر مش عارفين، مش عارفين ده
+إيه أصلاً. إحنا عارفين الحاجات نفسها ولكن مدخلناش في الجزء الـ basic عشان أفهم
+هو ده إيه. طيب، إيه الحاجة الـ systemic، دواء systemic اللي بيعمل لي inhibition
+للـ Calcineurin برضه؟ وهنفهم الـ Calcineurin ده بيعمل إيه. إيه الدواء الـ
+systemic اللي بيشتغل على الـ pathway ده؟
+
+Student: Cyclosporine، دكتورة.
+
+Professor: Cyclosporine، دكتور أحمد مش كده؟
+
+Student: نعم.
+
+[30:00]
+
+Professor: ممتاز. Cyclosporine، بالظبط كده. مين فيكم يا دكاترة عارف دواء اسمه
+Cyclosporine؟ أكيد كلنا سامعينه، أكيد كلنا سامعينه من ضمن الـ immunosuppressive
+drugs، صح؟ صح كده؟ خليني أقول الـ pathway ده الأول. أنا عشان يحصل activation للـ
+T-cell وتبتدي تشتغل، بيجي الكالسيوم يمسك في حاجة اسمها Calmodulin، يحصل له
+activation لـ Calcineurin. فالـ Calcineurin يعمل لي dephosphorylation للحته دي،
+الحته دي اسمها إيه؟ Nuclear Factor of Activated T-cells (NFAT). فلما يحصل
+dephosphorylation، البتاعة الفوسفيت دي تتشال، فتقوم دي تقوم داخلة جوه الـ
+nucleus. فيقابل الـ Nuclear Factor of Activated T-cells ده جزء ليه شبيه ليه جوه،
+Nuclear Factor of Activated T-cells برضه. لما يدخل جوه يمسكوا في بعض الاتنين،
+يعملوا activation للـ mRNA فيحصل transcription يطلع لي الـ Interleukin.
+فهمنا؟ فأي بقى دي آخر process عشان أـ activate الـ T-cell. فهما وجدوا إن
+الكالسيوم لما يمسك في الـ Calmodulin يديني الـ Calcineurin. الـ Calcineurin ده
+هو المسؤول عن الـ activation بتاع الحته دي. الحته دي لو دخلت جوه النواة، كأنه ده
+الزرار، لو دخل جوه الـ nucleus هيـ activate الـ DNA هيشتغل أو الـ RNA هيشتغل
+فهيطلع لي الـ Interleukin. طب إيه الحل؟ إيه الحل عشان أوقف إن دي ما تدخلش؟
+إن أنا أخلي الفوسفيت زي ما هي، أخلي دي زي ما هي. إن أنا أوقف مين؟ مين يا
+دكاترة قولوا معايا؟ إن أنا أـ block الـ Calcineurin، أو أـ inhibit الـ
+Calcineurin. فهما لقوا الوضع ده كده، لقوا إن الـ Calcineurin ده بيعمل
+dephosphorylation للحته دي فيحصل activation فتطلع لي Interleukin-2. ففكروا إيه
+الدواء، عملوا Calcineurin inhibitor systemic، طلع مين؟ طلع الدواء الشهير
+بتاعنا الـ Cyclosporine. Cyclosporine بتاع الـ urticaria، وCyclosporine
+بتاع الـ psoriasis، وبنعتبره إن هو الكوبري اللي بنعدي بيه أي حالة صعبة وبعد
+كده بنرجع للأدوية تاني. هو ده الـ Cyclosporine، هو ده لما بنحفظ بنقول إن هو
+Calcineurin inhibitor ومببقاش عارفة يعني إيه Calcineurin inhibitor. لقوا دواء
+تاني topical بيشتغل على الـ Calcineurin اللي هو الـ Tacrolimus. كلنا كدكاترة
+جلدية بلا استثناء حافظين الكلمة كده: Calcineurin inhibitor Tacrolimus. مين الـ
+Calcineurin ده؟ هو ده. يعمل لي إيه؟ يعمل لي activation للـ T-cell من الآخر. فالـ
+T-cell تطلع خلاص تشتغل، أنا عايزة أعمل inhibition للـ T-cell أقوم مقللة الـ
+Calcineurin. طيب سؤال بقى كده يعني لئيم شوية، الـ Cyclosporine specific ولا
+non-specific؟ يعني...
+
+Student: Non-specific.
+
+Professor: Non-specific لإيه؟ لا. طيب الـ Calcineurin ممكن نشتغل زي الـ
+Methotrexate كـ anti-proliferative drug ولا مينفعش؟
+
+Student: أعتقد مينفعش.
+
+Professor: طبعاً مينفعش، طبعاً مينفعش. لأن هو مبيشتغلش غير على الـ T-cell. الـ
+pathway ده مش موجود غير في الـ T-cell، تمام؟ فالـ Cyclosporine ده
+immunosuppressive بس عن طريق إنه بيشتغل على الـ T-cell بس، مبيشتغلش على B-cell،
+مبيشتغلش على أي خلايا مناعية تانية. هو جاي للـ T-cell بس، عشان إيه؟ عشان هو
+Calcineurin inhibitor. فهمنا يا دكاترة؟ الدنيا ماشية معاكم لحد دلوقتي كويس؟
+
+Student: دكتورة إيمان بعد إذنك، ليه زمان كان مثلاً بنحط الـ corticosteroids كـ
+immunosuppressive وبنحط الـ Tacrolimus أو الـ Calcineurin inhibitors كـ
+immunomodulator؟ يعني إيه immunomodulator؟
+
+Professor: Immunomodulator كأنه مبيعمليش inhibition للـ immunity بس هو برضه
+بيعمل لي inhibition للـ immunity. Immunomodulator يعني بيلعب لي في الـ
+immunity، يعني ممكن يقلل حاجات ويزود حاجات. لكن هو برضه immunosuppressive لأنه
+بيشتغل على الـ T-cell وبيقللها. تمام؟ إحنا كان فكرة الـ Tacrolimus إن هو
+potassium-sparing عشان أبعد عن الـ side effects بتاعت الـ potassium، بتاعت الـ
+cortisone. لأن الـ cortisone من الحاجات اللي أصلاً non-specific كمان. تمام؟
+
+Student: تمام دكتورة إيمان.
+
+Professor: تمام يا دكاترة لحد دلوقتي؟ حد عنده أي سؤال؟ أنا عارفة إن الكلام صعب،
+بس والله يمكن يعني أنا مش هقول حاجة محدش هيشكر في نفسه، بس الفكرة إن دي أبسط
+طريقة ممكن تفهموا بيها immunology. حد فيكم أكيد اللي ماشي في الجلدية عارف
+دكتور أحمد كامل اللي كلنا متعلمين على إيديه، الـ immunology دي تقريباً
+عاملها في 24 ساعة. فيعني تقريباً 10 محاضرات، 12 محاضرة، فإنتي أصلاً
+مبتسمعيهاش، اللي هو لا أنا هبتدي أشتغل في الكتب قبل ما أصلاً أخد الـ
+immunology. وهو ده اللي حصل معانا كلنا. فهي غلسة، فاللي هيستغلسها ميحسش إن هو في
+دماغه مشكلة أو حاسس إن في حاجة وحشة أو حاسس إني مش فاهم حاجة، لا هي غلسة، هي
+موضوع تقيل، تقيل أوي كمان. بس إن إحنا نفهمه دلوقتي شوية بشوية ونقطعه كده مع
+بعض، كده حلو أوي. تمام؟
+
+Student: تمام.
+
+[40:00]
+
+Professor: في حد عنده سؤال في اللي فات؟ إحنا لحد دلوقتي عملنا إيه؟ عملنا
+activation للـ T-cell، صح؟ صح ولا مش صح؟
+
+Student: إحنا دلوقتي لغاية دلوقتي إحنا في الـ lymph node.
+
+Professor: آه تمام مفيش مشكلة. لا، إحنا برضه مش في الـ lymph node.
+
+Student: مش الـ Antigen-Presenting Cell راحت عن طريق الـ lymphatics للـ lymph
+node؟
+
+Professor: أيوة بالظبط، هي راحت للـ lymph node بالظبط كده. بس أنا الخطوة الأخيرة
+بتاعت الـ activation دي مش شرط تبقى في الـ lymph node. تمام؟ بس إنتي كويس إن
+إنتي قلتي لي كلمة lymph node دي. الـ Antigen-Presenting Cell راحت للـ lymph
+node عشان تـ activate الـ naive T-cells على أساس CD8 أو CD4. طيب أنا حولتها
+دلوقتي لـ T-helper، تقوم جايبالي attraction للـ T-helper كلها فين؟ في الـ
+site بتاع الـ infection أو بتاع المشكلة اللي هو الـ skin. تمام؟ حد بقى سأل نفسه
+قبل كده الـ journey بتاعت خروج الـ T-cell من الـ lymph node للـ skin إزاي؟
+
+Student: عن طريق الـ pores؟
+
+Professor: عن طريق الـ blood.
+
+Student: لا هي by blood لكن هي by chemotactic factors.
+
+Professor: بتوصل إزاي؟ هي ماشية دلوقتي في الـ blood، بتوصل إزاي للمكان اللي فيه
+مشكلة؟
+
+Student: Chemotactic factors، chemicals.
+
+Professor: أيوة تمام بالظبط كده، عن طريق chemotactic. طيب عملنا chemotactic
+factor وعملنا كل حاجة، بتمشي إيه الـ process بتاعتها عشان تمشيلي من الـ blood
+flow تدخل لي جوه المكان؟
+
+Student: بتعدي pores؟ بتعدي between الـ gap أو pores بين الـ endothelial cells،
+بيحصل dilatation.
+
+Professor: أيوة بالظبط كده، بالظبط كده. عن طريق حاجة اسمها الـ Skin Homing. أنا
+بشرح لكم كل التفاصيل بتاعتها عشان كل حاجة هنبقى محتاجينها في مرض معين. وهسمع في
+الـ psoriasis عن حاجة اسمها E-selectin، وهسمع عن حاجة اسمها CLA (Cutaneous
+Lymphocyte-associated Antigen)، وهسمع في الـ Mycosis Fungoides (MF) عن كذا،
+وهسمع في الـ Melanoma عن كذا. فالحاجات دي كلها تبقوا عندكم خلفية عنها
+دلوقتي مش لازم بحفظ. طيب أنا عشان أوصلها لمكان الجلد بتاعنا بقى، مكان
+المشكلة اللي هي في الجلد، بيحصل حاجة اسمها Skin Homing للـ T-cell أو
+recruitment للـ T-cell. إيه اللي بيحصل؟ الـ T-cell أهي ماشية في الـ blood في
+أمان الله عادي جداً جداً. تبتدي تطلع receptors على سطحها. بصوا أهي، دي
+الرسمة دي حلوة أوي أوي. ده الـ antigen presentation، ده الـ antigen أهو،
+دي الـ naive T-cell اتحولت لـ clonal expansion خلاص بقت الـ effector T-cell
+اللي هي سواء T-helper أو T-cytotoxic. دخلت جوه فين؟ خرجت من الـ lymph node
+دخلت للـ bloodstream. ومن الـ bloodstream عايزة تخرج للـ skin، إزاي؟ عن طريق
+حاجتين: الـ T-cell تطلع على سطحها حاجات، والـ endothelial cell الـ wall بتاع
+الـ blood يطلع على سطحه حاجات. عشان ما هي ماشية، هي لو كده هتنجرف وتبتدي تمشي
+في الدم سايحة تايهة، فاهمين قصدي؟ فأنا عايزة حاجة تبتدي تبطأ عشان تلزق في الـ
+wall عشان لما يجي المكان المناسب أقوم مخترقة وخارجة للـ skin. عن طريق حاجتين:
+الـ T-cell تطلع الـ Cutaneous Lymphocyte-associated Antigen (CLA)، والـ blood
+vessels تطلع لي الـ E-selectin. تمام؟ دي تمسك في دي. الـ Cutaneous
+Lymphocyte-associated Antigen صح؟ لسه قايلاها لكم دلوقتي.
+
+Student: قولوا يا دكاترة.
+
+Professor: قولوا الاسم بتاع CLA.
+
+Student: Cutaneous Lymphocyte-associated Antigen.
+
+Professor: دي بيني وبينكم ماشي؟ عشان منروحش في داهية كلنا. وبعدين ده اسمه إيه؟
+الـ E-selectin. أهي عمالة تلف، بعد كده شايفين عملت إزاي؟ سبحان الله. وبعد كده
+جت ما بين الخلايا وقامت داخلة، extravasation. تمام؟ في حاجة اسمها adhesion
+molecules تطلع من الـ T-cell وتطلع من الـ endothelial cell مش لازم تتحفظ، ولكن
+اللي إحنا عارفينه أنا مقلتلكوش دول، الـ E-selectin والـ Cutaneous
+Lymphocyte-associated Antigen 1. ولكن الـ T-cell ممكن تطلع لي الـ LFA-1 وليها
+برضه وليها اختصار لحاجة، والـ ICAM اللي هي Intracellular Adhesion Molecules،
+والـ VCAM اللي هي Vascular Adhesion Molecules، مش لازم نحفظ الحاجات دي. ولكن
+أهم حاجة دول، تمام؟ تمام يا دكاترة؟ تدخل جوه الـ skin بقى تبتدي تعمل شغلها.
+تمام كده؟ فاهمين الدنيا ماشية إزاي ولا مش فاهمين؟
+
+Student: تمام.
+
+Professor: إحنا كده عملنا كل الـ T-cell، يعني مشينا في الـ process بتاعتها كلها،
+سواء داخلياً بيحصلها activation إزاي، هي بتتعرف على الـ Antigen-Presenting Cell
+إزاي، هي بتطلع إيه والـ Antigen-Presenting Cell بتطلع إيه. كل حاجة اتكلمنا عنها
+وكل حاجة هنبقى محتاجينها بعد كده، فلما تبقوا فاهمين من دلوقتي أحسن ما نيجي في كل
+موضوع نبتدي نفهم حتة بحتة كده. طيب، الصورة دي حلوة أوي أوي، ويا ريت دي تتحفظ، مش
+الأولانية. ليه؟ لأن هي دي، ده دي الـ Antigen-Presenting Cell أو الـ Dendritic
+Cell شايلالي الـ antigen. جت على الـ naive T-cell تعمل لي activation. الـ naive
+T-cell تتحول، لو الـ antigen ده مثلاً اللي هيشتغل عليه T-helper 1، فإيه اللي
+يطلع؟ naive T-cell تطلع لي interferons والـ Interleukin-12. Interleukin-12
+يحفز لي T-helper 1. دي تتحفظ بعد إذنكم عشان ليها دور حلو أوي أوي أوي معانا بعد
+كده في إيه؟ في الـ biologics، صح؟ biologics. Interleukin-12 و23 وInterleukin-17
+والحاجات دي كلها وكل حاجة والـ interferons والـ Tumor Necrosis Factor، الكلام
+ده كله. دي تتحفظ عشان يبقى الـ biologics بعد كده سهل عليكم كويس. الـ
+Interleukin-12 يطلع لي T-helper 1. Interleukin-4 هيـ activate T-helper 2.
+Interleukin-23 بالذات هيـ activate T-helper 17. Interleukin-6 بـ activate
+T-helper 22. Interleukin-2 والـ Tissue Growth Factor أو الـ Tumor Growth Factor
+بـ activate الـ T-regulatory. تمام؟ T-helper 1 نعرف في الآخر إن هي بتطلع حاجات
+وبتتحول لـ T-cytotoxic أو بتـ activate الـ T-cytotoxic. T-helper 2 بتقلل لي الـ
+immunity، يعني دايماً نعرف إن الـ T-helper 1 الـ upper hand بتاعت الـ immunology
+اللي بتزود لي الـ immunity وتطلع لي الـ T-cytotoxic. T-helper 1 لا، بتقلل لي الـ
+immunology عشان بتـ activate الـ T-regulatory في الآخر. تمام؟ خلينا بس دي في
+دماغنا شوية عشان بعد كده الـ atopy والـ psoriasis والـ leprosy والكلام ده
+كله هيبقى فيها الحاجات دي. الصورة دي بعد إذنكم، أنا شفت طول المحاضرة بقول لكم
+مش عايزاكم تحفظوا حاجة، بس الصورة دي تحفظوها بأرقامها هتسهل عليكم كتير جداً جداً
+جداً في كل اللي جاي بإذن الله. تمام يا دكاترة؟ الصورة دي من بولونيا (Bolognia).
+هتقروها هتلاقوها نفس اللي فات، نفس الكلام. ولكن أنا عايزة الصورة دي عشان نفهم
+دي نفس برضه الحوار بس دي الـ pathogenesis بتاعت الـ psoriasis اللي إحنا
+هناخدها المرة اللي جاية. جايباها لكم عشان بس أقول لكم مثلاً إيه، دي الـ
+dendritic cell أهي، جت هنا Interleukin-12 حفز لي T-helper 1. طب أنا عايزة أقفل
+Interleukin-12، إيه الـ biologic اللي يقفل لي الـ Interleukin-12؟
+
+[50:00]
+
+Professor: عشان ما أحفزش T-helper 1، عشان الـ T-helper 1 ما تطلعليش الـ
+interferon والـ Tumor Necrosis Factor alpha وتعمل لي psoriasis. عايزة أقفل الـ
+Interleukin-12 بإيه يا دكاترة؟
+
+Student: Secukinumab؟
+
+Professor: الـ Secukinumab Interleukin-12 ومين تاني؟ دايماً بنحفظهم مع بعض عشان
+هما الـ biologic إيه؟
+
+Student: 17؟
+
+Professor: لا، Interleukin-12 وInterleukin-23. الاتنين دول نوع biologic واحد
+اللي بيشتغل عليهم، اللي هو الـ Ustekinumab. حضرتك عارفة عشان إيه يا دكتورة
+أحمد؟ الاتنين دول مشتركين في نفس الـ biologic عشان عليهم Interleukin-12 و23،
+الاتنين في حاجة مكون رئيسي فيهم حاجة اسمها p40 في الغالب، يعني جزء من جسمهم من
+تكوينهم شكل بعضه. فبيـ target الـ p40 دي سواء موجودة هنا أو موجودة هنا، فأنا
+تارجت الدواءين مع بعض بالـ Ustekinumab. طيب حد سمع عن الـ Cosentyx قبل كده؟
+
+Student: آه، Interleukin-17.
+
+Professor: أيوة، بتاع الـ Interleukin-17 اللي هو الـ Secukinumab، صح؟ تمام. حد
+سمع عن الـ Infliximab؟ حد سمع عن الـ Humira طيب؟
+
+Student: Yes.
+
+Professor: Humira ده بتاع إيه؟
+
+Student: Psoriatic arthritis.
+
+Professor: أيوة صح، بيضرب مين؟ بيوقف مين؟
+
+Student: Tumor Necrosis Factor.
+
+Professor: أيوة أهو، اللي هو مين؟ اللي هو الـ Adalimumab. تمام؟ الصورة دي حلوة
+أوي أوي أوي هتوفر علينا كتير في اللي جاي برضه نعرفها. إحنا شرحنا دي، بعد كل ده
+بعد كل ده ما بيحصل إيه اللي بيحصل هنا؟ activation اللي هو الـ intracellular
+signaling T-cell activation. الـ correlation هنا كان الـ Cyclosporine والـ
+Tacrolimus. تمام كده؟ حد فاهم حاجة في الـ T-cell؟
+
+Student: تمام.
+
+Professor: تمام. طيب، خلونا نحل السؤالين دول بقى كده وبعد كده نشوف. إحنا بس
+عايزين نشيل البار ده، محدش يبص على الإجابة. طيب، هو هنا عايز يقول لي إن الـ
+Tacrolimus تقريباً بيشتغل إزاي. The pharmacological activity of Tacrolimus...
+أول حاجة، ممكن يعمل لي phosphorylation of the Nuclear Factor of Activated
+T-cells؟ ولا binding and inhibition للـ Nuclear Factor kappa B؟ ولا inhibition
+للـ Interleukin-1؟ ولا activation للـ Calcineurin؟ ولا inhibition للـ
+Interleukin-2؟
+
+Student: Inhibition للـ Interleukin-2.
+
+Professor: إزاي؟ شفتي الإجابة؟ إنتي شفتي الإجابة؟
+
+Student: لا، مش إحنا قلنا إن هو بيعمل dephosphorylation؟
+
+Professor: أيوة، في حد فيكم يتلخبط ويقول لي هي دي عشان phosphorylation، زي
+dephosphorylation، كنت هقول لك dephosphorylation.
+
+Student: لا، فبيمنع إنه يدخل الخلية أصلاً فيحصل inhibition.
+
+Professor: أيوة بالظبط كده، فما يحصلش activation في الآخر خالص، الـ net result
+إن الـ Interleukin-2 مش هيطلع. الإجابة E زي ما إنتي قلتي يا دكتورة. تمام؟
+هتقروا الكلام ده هتلاقوه نفس الكلام اللي إحنا بنقوله. طيب، هنا بيقول
+لي 24-year-old female patient is referred to management of chronic idiopathic
+urticaria. Many cases of this disease are associated with autoantibodies against
+what؟ السؤال ده ممكن يبقى غلس شوية، ولكن إحنا بنتكلم على urticaria، فهيبقى إيه؟
+
+Student: IgE receptor.
+
+Professor: IgE، بس هنا عشان كده كلكم وقفتوا، يقصد الـ immunological urticaria.
+لأن أنا عندي IgE هو ممكن يجي عليه الـ antigen فيمسك في الـ mast cell فيحصل
+degranulation. وفي autoimmune immunological urticaria إن تيجي IgG تهاجم الـ IgE
+فيحصل degranulation للـ mast cell. لفة كده في الـ urticaria هنبقى نقولها، ولكن
+urticaria يعني IgE. تمام؟ Immunoglobulins most commonly found in mucous
+secretions، لسه قايلينه.
+
+Student: IgA.
+
+Professor: تمام. فين باقي الناس؟ دكتورة زينب اللي معايا مش كده؟
+
+Student: لا، دكتورة دعاء.
+
+Professor: إزيك يا دكتورة دعاء. بصوا أنتم تلاقين بتلخبط في الأسماء طول ما إحنا
+ماشيين عشان أنا مش بشوف الصور. ولو بقى كمان إيه، صوتين زي بعض بتلاقيني بقى
+معلقة عليهم وكده. أهلاً بيكي يا دكتورة دعاء. ماشي، IgA. تمام. بيقول لي
+Interleukin-22 plays a critical role in pathogenesis of psoriasis. Which of the
+following cytokines is critical for Interleukin-22 mediated epidermal
+hyperplasia in psoriasis؟ أنتم فاهمين هو عايز إيه؟ بيقول لي إن الـ
+Interleukin-23 ده بيلعب critical role في الـ pathogenesis بتاعت الـ urticaria.
+طيب هو عايز إيه الـ cytokines اللي بيشتغل اللي هو critical for Interleukin-23
+mediated epidermal hyperplasia in psoriasis؟ يعني إيه الـ interleukins اللي ليها
+علاقة بالـ Interleukin-23؟ محدش هيجاوبها، هرجع لكم دلوقتي. فين دكتور أحمد؟ أنتم
+فين يا دكاترة؟ الناس نامت معايا ليه؟ بصوا، Interleukin-23 بيحفز لي T-helper 17،
+T-helper 17 بتطلع لي Interleukin-17A ودول بيلعبوا دور مهم أوي أوي في الـ
+psoriasis. فإذن إيه الـ interleukin اللي ليه علاقة بالـ 23؟ اللي هو الـ 17. عشان
+كده أنا ما بشرحش في ده كتير عشان هو specific. مش قصدي، لا أنا قصدي الـ
+interleukins دي بتطلع بناءً على interleukin صح؟
+
+Student: أيوة بالظبط، بناءً على الـ interleukin دي، ما أنا قايلة لكم دي تتحفظ،
+دي مفيهاش حاجة غير حفظ.
+
+Student: الـ interleukin دوت بيطلع بقى أصلاً من الـ naive T-cell؟
+
+Professor: أيوة بالظبط، interleukins زي ما شرحتها لكم في الأول خالص إن هي عبارة
+عن cytokines بتطلع من الـ leukocyte عشان تشتغل على الـ leukocyte. تطلع من الـ
+leukocyte عشان تشتغل على الـ leukocyte. فهمتيني؟
+
+Student: آه تمام.
+
+Professor: بس كده، بس دي نحاول نحفظها، على الأقل اللي محطوط عليها دوائر دي. مهم
+جداً جداً جداً تتحفظ، في أي مرض هنلاقيها، وهنلاقي الحاجات دي طالعالنا زي
+العفريت في العلبة كده في كل مشكلة. فلو اتحفظت من دلوقتي هتسهل عليكم كتير
+أوي. تمام يا دكاترة؟ حد عنده أي سؤال دلوقتي؟ عارفة إن الكلام صعب، لو كلكم
+وصلتوا معايا لـ 50% من المعلومة مهضومة، أنتم فهمتوا. فكلكم وصلتوا لـ 50%
+ولا حد لسه الدنيا واقعة أوي؟
+
+Student: لا أنا تمام، كويس أوي.
+
+Professor: كويس، بقية الدكاترة؟
+
+Student: الحمد لله تمام.
+
+Professor: الدنيا كويسة؟ بصوا المحاضرة دي لو عدت، والله أحلف لكم إن دي يمكن من
+أصعب أصعب المحاضرات في الجلدية، في الكورس ده. تعدي بس كده إن شاء الله على خير،
+بعد كده هنلاقي الدنيا... طبعاً مبقولش إن الجلدية سهلة، ولكن دي مجمعة يعني ماشية
+كده immunology من أول حاجة لحد آخر حاجة، وفي ساعتين. فهي طبيعي إن هي تبقى تقيلة
+على دماغنا شوية. تمام؟ طيب إحنا كده خلصنا الـ T-cell، وده كان أول جزء من مين؟ من
+الـ adaptive immunity. الـ humoral immunity سهلة بقى، الـ B-cell سهلة. الـ
+B-cell أهي، بنسميها الـ humoral immunity عشان لما بيحصل activation للـ B-cell
+بتطلع لي antibodies عشان تبتدي تهاجم المشكلة. إحنا كان cells أو antibody،
+cell تهاجم الـ antigen أو antibody يهاجم الـ antigen. الـ antibody اللي هي دي،
+تمام؟ يجي virus دخل في infected cell، تبتدي activate مين؟ الـ B-cell. الـ
+B-cell تطلع لي plasma cell، الـ plasma cell تطلع لي antibodies. تمام؟ إيه أنواع
+الـ antibodies الموجودة عندنا في الدم؟ إيه أنواع الـ antibodies الموجودة عندنا
+في الدم؟
+
+Student: IgM، IgD، IgG، IgA، IgE.
+
+Professor: كلمة ماجد (MAGED). الـ B-cell بتتحفز تطلع لي IgM، IgG، IgA، IgE، IgD.
+الـ IgM بيقول لي إن هو ده أكبر يعني largest component، شكله أكبر واحد، وده اللي
+بيمثل الـ primary immune response. يعني لو antigen أول مرة يجي الـ blood وإحنا
+عايزين antibodies، مين اللي هيقابله؟ الـ IgM. طيب لو مش أول مرة يجي الـ blood؟
+مين هيقابله؟ الـ IgG. مش لازم برضه الكلام ده يتحفظ، ولكن نبقى عارفين إن الـ IgG
+صاحب مشاكل كتير أوي أوي عندنا في الجلدية. يعني معظم الأمراض الـ autoimmune اللي
+سببها antibody مش سببها T-cell. تمام؟ الـ IgG. الـ IgA برضه بيسببلنا شوية أمراض
+في الجلدية، ولكن المرض اللي بيكون الـ main فيه IgA بيكون ليه characteristics
+خاصة بيه كده، حد يعرفها؟ حد يعرفها؟
+
+Student: IgA pemphigus؟
+
+Professor: أيوة ماشي، ما هو IgA pemphigus وlinear IgA bullous dermatosis والـ
+dermatitis herpetiformis. أنا بقول لكم حاجة دلوقتي بدأت أقولها عشان أدخلكم في
+خلية تانية. IgA دايماً مرتبط عندنا بالـ neutrophils، مرتبط دايماً بـ severe
+pruritus، مرتبط دايماً إن علاجه إيه؟
+
+Student: Dapsone.
+
+Professor: Dapsone، برافو عليكم، بالظبط كده. تمام، الـ IgE طبعاً الـ IgE الـ
+main بتاعنا بتاع الـ urticaria والـ anaphylaxis والحاجات دي. الـ IgD مش عايزين
+نعرف عنه حاجة أوي. ده تركيب الـ antibody نفسه، بيبقى عبارة عن two chains:
+heavy chain وlight chain. الـ light chain دي بيبقى فيها جزء constant، ده ثابت في
+كل الـ antibodies، في كل الـ antibodies الموجودة لازم يكون فيها جزء ثابت كله شبه
+بعضه. الـ variable region دي، دي بتختلف على كل عشان ما هي جابت منين الـ
+specificity؟ الـ specificity ليه ده specific لدي وليه ده specific لده؟ عن طريق
+الـ variable region بتاعتي. تمام؟ بيقول لي الـ structure بتاع الـ
+immunoglobulins: two identical heavy chains، two identical light chains. تمام؟
+Each chain contains variable region and constant region. There are five types of
+heavy chains (five classes from IgA to IgE).
+
+[54:20]
+
+
+
+
+
+
+
