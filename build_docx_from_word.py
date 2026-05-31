@@ -885,11 +885,90 @@ def copy_paragraph_with_formatting(src_para, out_doc):
 def copy_docx_into_doc(src_path, out_doc):
     """
     Read a .docx source file and copy all its paragraphs (with colour + images)
-    into out_doc, preserving run-level formatting.
+    into out_doc, preserving run-level formatting AND transferring image binaries.
+
+    Strategy:
+      1. Read word/_rels/document.xml.rels directly from the zip to find image rIds.
+      2. Read each image binary from word/media/ in the zip.
+      3. Add each image as a new Part in the output document, recording src_rId -> new_rId.
+      4. Copy paragraphs, then rewrite all r:embed/r:id attributes using the rId map.
     """
-    src = Document(src_path)
-    for para in src.paragraphs:
-        copy_paragraph_with_formatting(para, out_doc)
+    import zipfile
+    from xml.etree import ElementTree as ET
+    from docx.opc.part import Part
+    from docx.opc.packuri import PackURI
+
+    IMAGE_REL_TYPE = 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/image'
+    REL_NS = 'http://schemas.openxmlformats.org/package/2006/relationships'
+
+    # Content-type map for common image extensions
+    CT_MAP = {
+        'png':  'image/png',
+        'jpg':  'image/jpeg',
+        'jpeg': 'image/jpeg',
+        'gif':  'image/gif',
+        'bmp':  'image/bmp',
+        'wmf':  'image/x-wmf',
+        'emf':  'image/x-emf',
+        'tiff': 'image/tiff',
+        'svg':  'image/svg+xml',
+    }
+
+    rId_map = {}
+    src_doc = Document(src_path)
+    out_part = out_doc.part
+    img_counter = getattr(copy_docx_into_doc, '_img_counter', [0])
+    copy_docx_into_doc._img_counter = img_counter
+
+    with zipfile.ZipFile(src_path, 'r') as zf:
+        # Parse the document relationships XML directly
+        try:
+            rels_xml = zf.read('word/_rels/document.xml.rels')
+        except KeyError:
+            rels_xml = b''
+
+        root = ET.fromstring(rels_xml) if rels_xml else None
+        if root is not None:
+            for rel_elem in root.findall(f'{{{REL_NS}}}Relationship'):
+                rel_type = rel_elem.get('Type', '')
+                if IMAGE_REL_TYPE not in rel_type:
+                    continue
+                src_rId = rel_elem.get('Id')
+                target  = rel_elem.get('Target', '')  # e.g. 'media/image1.png'
+                # Normalise path: strip leading '../'
+                zip_path = 'word/' + target.lstrip('../')
+                try:
+                    img_bytes = zf.read(zip_path)
+                except KeyError:
+                    continue
+                ext = zip_path.rsplit('.', 1)[-1].lower()
+                content_type = CT_MAP.get(ext, 'image/png')
+                # Create a unique part URI in the output package
+                part_uri = PackURI(f'/word/media/compiled_img_{img_counter[0]:04d}.{ext}')
+                img_counter[0] += 1
+                new_part = Part(part_uri, content_type, img_bytes, out_part.package)
+                new_rId = out_part.relate_to(new_part, IMAGE_REL_TYPE)
+                rId_map[src_rId] = new_rId
+
+    # Copy paragraphs, rewriting rIds in any drawing XML
+    for para in src_doc.paragraphs:
+        new_para = copy_paragraph_with_formatting(para, out_doc)
+        if rId_map:
+            _rewrite_rids(new_para._element, rId_map)
+
+
+def _rewrite_rids(element, rId_map):
+    """
+    Walk all descendants of element and replace any r:embed / r:id attribute
+    values that appear in rId_map with the corresponding new rId string.
+    """
+    RELN_NS = 'http://schemas.openxmlformats.org/officeDocument/2006/relationships'
+    for el in element.iter():
+        for attr_name in list(el.attrib.keys()):
+            if attr_name in (f'{{{RELN_NS}}}embed', f'{{{RELN_NS}}}id'):
+                old_val = el.attrib[attr_name]
+                if old_val in rId_map:
+                    el.attrib[attr_name] = rId_map[old_val]
 
 
 def get_doc_text_fallback(path):
