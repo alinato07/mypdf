@@ -773,36 +773,143 @@ ENTRIES = [
 
 
 
-def get_docx_text(filename):
-    """Extract full text from a Word document (.docx or .doc)."""
-    path = os.path.join(BASE_DIR, filename)
-    if not os.path.exists(path):
-        return f"[File not found: {filename}]"
-    # Handle legacy .doc files with olefile
-    if filename.endswith('.doc'):
-        try:
-            import olefile, re as _re
-            ole = olefile.OleFileIO(path)
-            word_stream = ole.openstream('WordDocument').read()
-            chunks = _re.findall(b'[ -~]{15,}', word_stream)
-            lines = []
-            for c in chunks:
-                try:
-                    t = c.decode('latin-1').strip()
-                    if t:
-                        lines.append(t)
-                except Exception:
-                    pass
-            return '\n'.join(lines)
-        except Exception as e:
-            return f"[Error reading {filename}: {e}]"
-    # Handle .docx files
+import copy
+from docx.oxml.ns import qn
+from docx.oxml import OxmlElement
+from docx.shared import RGBColor
+
+
+def copy_paragraph_with_formatting(src_para, out_doc):
+    """
+    Copy a source paragraph into out_doc preserving:
+      - run-level colour, bold, italic, underline, font size
+      - inline images (drawings / blipFill elements)
+    Returns the new paragraph object.
+    """
+    new_para = out_doc.add_paragraph()
+    # Copy paragraph-level alignment
+    if src_para.alignment is not None:
+        new_para.alignment = src_para.alignment
+
+    src_xml = src_para._element
+
+    for child in src_xml:
+        tag = child.tag
+
+        # --- inline run (w:r) ---
+        if tag == qn('w:r'):
+            # Check if this run contains an image (drawing or pict)
+            drawing = child.find('.//' + qn('w:drawing'))
+            pict    = child.find('.//' + qn('w:pict'))
+
+            if drawing is not None or pict is not None:
+                # Deep-copy the entire run XML (image + rPr) into new paragraph
+                new_run_elem = copy.deepcopy(child)
+                new_para._element.append(new_run_elem)
+                continue
+
+            # Plain text run — copy text + formatting
+            new_run = new_para.add_run()
+            # Copy run properties (rPr)
+            rpr = child.find(qn('w:rPr'))
+            if rpr is not None:
+                new_run._element.insert(0, copy.deepcopy(rpr))
+
+            # Copy w:t text nodes
+            for t_elem in child.findall(qn('w:t')):
+                new_run.text += (t_elem.text or '')
+
+            # Apply formatting directly to run object as well (belt-and-braces)
+            if rpr is not None:
+                # Bold
+                b = rpr.find(qn('w:b'))
+                if b is not None:
+                    new_run.bold = True
+                # Italic
+                it = rpr.find(qn('w:i'))
+                if it is not None:
+                    new_run.italic = True
+                # Underline
+                u = rpr.find(qn('w:u'))
+                if u is not None and u.get(qn('w:val'), '') not in ('none', ''):
+                    new_run.underline = True
+                # Colour
+                color_elem = rpr.find(qn('w:color'))
+                if color_elem is not None:
+                    val = color_elem.get(qn('w:val'))
+                    if val and val.lower() not in ('auto', '000000', ''):
+                        try:
+                            r = int(val[0:2], 16)
+                            g = int(val[2:4], 16)
+                            b_val = int(val[4:6], 16)
+                            new_run.font.color.rgb = RGBColor(r, g, b_val)
+                        except Exception:
+                            pass
+                # Font size
+                sz = rpr.find(qn('w:sz'))
+                if sz is not None:
+                    half_pts = sz.get(qn('w:val'))
+                    if half_pts:
+                        try:
+                            new_run.font.size = Pt(int(half_pts) / 2)
+                        except Exception:
+                            pass
+
+        # --- hyperlink (w:hyperlink) — treat as plain text preserving colour ---
+        elif tag == qn('w:hyperlink'):
+            for sub_run in child.findall(qn('w:r')):
+                new_run = new_para.add_run()
+                rpr = sub_run.find(qn('w:rPr'))
+                if rpr is not None:
+                    new_run._element.insert(0, copy.deepcopy(rpr))
+                for t_elem in sub_run.findall(qn('w:t')):
+                    new_run.text += (t_elem.text or '')
+                if rpr is not None:
+                    color_elem = rpr.find(qn('w:color'))
+                    if color_elem is not None:
+                        val = color_elem.get(qn('w:val'))
+                        if val and val.lower() not in ('auto', '000000', ''):
+                            try:
+                                r = int(val[0:2], 16)
+                                g = int(val[2:4], 16)
+                                b_val = int(val[4:6], 16)
+                                new_run.font.color.rgb = RGBColor(r, g, b_val)
+                            except Exception:
+                                pass
+
+        # --- bookmark start/end, proofErr, etc. — skip ---
+
+    return new_para
+
+
+def copy_docx_into_doc(src_path, out_doc):
+    """
+    Read a .docx source file and copy all its paragraphs (with colour + images)
+    into out_doc, preserving run-level formatting.
+    """
+    src = Document(src_path)
+    for para in src.paragraphs:
+        copy_paragraph_with_formatting(para, out_doc)
+
+
+def get_doc_text_fallback(path):
+    """Fallback for legacy .doc files: extract readable ASCII text via olefile."""
     try:
-        doc = Document(path)
-        paragraphs = [p.text.strip() for p in doc.paragraphs if p.text.strip()]
-        return '\n'.join(paragraphs)
+        import olefile, re as _re
+        ole = olefile.OleFileIO(path)
+        word_stream = ole.openstream('WordDocument').read()
+        chunks = _re.findall(b'[ -~]{15,}', word_stream)
+        lines = []
+        for c in chunks:
+            try:
+                t = c.decode('latin-1').strip()
+                if t:
+                    lines.append(t)
+            except Exception:
+                pass
+        return '\n'.join(lines)
     except Exception as e:
-        return f"[Error reading {filename}: {e}]"
+        return f"[Error reading {path}: {e}]"
 
 
 def build_doc():
@@ -829,19 +936,28 @@ def build_doc():
     out_doc.add_page_break()
 
     for i, (filename, display_title, summary_rows) in enumerate(ENTRIES, start=1):
-        # Section heading
+        src_path = os.path.join(BASE_DIR, filename)
+
+        # ---- Section heading ----
         out_doc.add_heading(f'{i}. {display_title}', level=2)
 
-        # Transcript subheading
+        # ---- Transcript subheading ----
         out_doc.add_heading('Transcript', level=3)
-        transcript_text = get_docx_text(filename)
-        p = out_doc.add_paragraph(transcript_text)
-        p.paragraph_format.space_after = Pt(6)
 
-        # Summary table subheading
+        if not os.path.exists(src_path):
+            out_doc.add_paragraph(f'[File not found: {filename}]')
+        elif filename.endswith('.doc'):
+            # Legacy .doc — plain text fallback (no colour/image support)
+            text = get_doc_text_fallback(src_path)
+            p = out_doc.add_paragraph(text)
+            p.paragraph_format.space_after = Pt(6)
+        else:
+            # .docx — copy paragraphs preserving colour + images
+            copy_docx_into_doc(src_path, out_doc)
+
+        # ---- Summary table ----
         out_doc.add_heading('Summary Table', level=3)
 
-        # Build the table
         table = out_doc.add_table(rows=len(summary_rows) + 1, cols=2)
         table.style = 'Light Grid Accent 1'
 
