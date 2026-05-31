@@ -1,4 +1,4 @@
-"""Build a comprehensive Word document collating all 62 dermatology Word transcript files."""
+"""Build a comprehensive Word document collating all 63 dermatology Word transcript files."""
 import os
 from docx import Document
 from docx.shared import Pt, Inches
@@ -9,7 +9,19 @@ BASE_DIR = '/projects/sandbox/mypdf'
 # Each entry: (docx_filename, display_title, summary_table_rows)
 # summary_table_rows: list of (key, value) tuples
 ENTRIES = [
-    # -------- Pyoderma Gangrenosum --------
+    # -------- Drug-Induced Lupus Erythematosus --------
+    ('DILE-wolfs-drug-surplus-website-file.doc', 'Drug-Induced Lupus Erythematosus (DILE)', [
+        ('Onset', 'Usually >1 year on the medication before symptoms appear'),
+        ('Cutaneous findings', 'NOT prominent in typical DILE; TNF-alpha inhibitor DILE = exception (photosensitivity, malar rash)'),
+        ('Most common symptoms', 'Arthralgias and myalgias (#1); also fever, weight loss, serositis'),
+        ('Typical drugs (anti-histone Ab+)', 'Procainamide, Isoniazid, Hydralazine, Methyldopa, Penicillamine (PIHMP)'),
+        ('Penicillamine distinction', 'Can UNMASK true underlying SLE in addition to causing DILE'),
+        ('Minocycline', 'Atypical DILE; NOT anti-histone antibodies; instead p-ANCA positive'),
+        ('TNF-alpha inhibitors', 'Atypical DILE; cutaneous lupus features (photosensitivity, malar rash); positive dsDNA antibodies'),
+        ('Slow acetylators', 'Higher risk for typical DILE (especially procainamide, hydralazine, isoniazid)'),
+        ('Resolution', 'Symptoms resolve within 4-6 weeks of stopping the offending agent'),
+    ]),
+
     ('A-day-to-pie-for-script.docx', 'Pyoderma Gangrenosum (PG)', [
         ('Classification', 'Neutrophilic dermatosis; sterile inflammatory ulceration'),
         ('Pathergy', 'Lesions develop/worsen at sites of trauma; avoid unnecessary debridement'),
@@ -762,10 +774,29 @@ ENTRIES = [
 
 
 def get_docx_text(filename):
-    """Extract full text from a Word document."""
+    """Extract full text from a Word document (.docx or .doc)."""
     path = os.path.join(BASE_DIR, filename)
     if not os.path.exists(path):
         return f"[File not found: {filename}]"
+    # Handle legacy .doc files with olefile
+    if filename.endswith('.doc'):
+        try:
+            import olefile, re as _re
+            ole = olefile.OleFileIO(path)
+            word_stream = ole.openstream('WordDocument').read()
+            chunks = _re.findall(b'[ -~]{15,}', word_stream)
+            lines = []
+            for c in chunks:
+                try:
+                    t = c.decode('latin-1').strip()
+                    if t:
+                        lines.append(t)
+                except Exception:
+                    pass
+            return '\n'.join(lines)
+        except Exception as e:
+            return f"[Error reading {filename}: {e}]"
+    # Handle .docx files
     try:
         doc = Document(path)
         paragraphs = [p.text.strip() for p in doc.paragraphs if p.text.strip()]
@@ -847,7 +878,7 @@ def build_doc():
     # Sanity check
     actual = set(
         f for f in os.listdir(BASE_DIR)
-        if f.endswith('.docx') and not f.startswith('~')
+        if (f.endswith('.docx') or f.endswith('.doc')) and not f.startswith('~')
         and f not in ('Dermatology_Transcripts_Compiled.docx', 'Dermatology_Word_Transcripts_Compiled.docx')
     )
     listed = set(e[0] for e in ENTRIES)
