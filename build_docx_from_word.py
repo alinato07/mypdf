@@ -1014,7 +1014,7 @@ def build_doc():
     out_doc.add_paragraph('Source: Dermatographics / Dermnemonics audio episodes. Original Word transcript documents.')
     out_doc.add_page_break()
 
-    for i, (filename, display_title, summary_rows) in enumerate(ENTRIES, start=1):
+    for i, (filename, display_title, summary_rows) in enumerate(ENTRIES, start=138):
         src_path = os.path.join(BASE_DIR, filename)
 
         # ---- Section heading ----
