@@ -1,0 +1,1215 @@
+[00:00]
+
+Professor: الصوت مسموع ولا مش سامعني؟
+
+Student: تمام.
+
+Student (Dr. Doaa): يا دكتور إيمان، إزيك حضرتك عاملة إيه؟
+
+Professor (Dr. Eman): إزيك يا دكتورة دعاء، عاملة إيه؟ الحمد لله بخير، ربنا
+يخليكي. أخباركم إيه؟ يا رب تكونوا بخير. معلش بعتذر عن التأخير.
+
+Student (Dr. Doaa): لا عادي يا دكتور إيمان، ولا يهمك.
+
+Professor (Dr. Eman): إيه الأخبار؟ عاملين إيه في المذاكرة؟ الصدفية (Psoriasis)
+عاملة إيه معاكم؟
+
+Student (Dr. Doaa): جميلة ما شاء الله، كويسة أوي. هي بس الكام ورقة اللي حضرتك
+بعتيهم على الواتس آب حساهم تقال شوية، خصوصاً الـ Complement pathway. هل هو
+غالباً عايز في حاجات تتعرف على الـ disease صح؟
+
+Professor (Dr. Eman): الـ Complement pathway، الصورة دي أنا حطاها للتوضيح، لكن
+الشرح بتاعنا كان أسهل. اعرفوها على السلايد بتاعة الـ PDF. هو الكلاسيكال،
+معظمها هو نفس التكملة، هو الـ starting بس. تبقوا فاهمين الدنيا ماشية إزاي،
+مبيجيش أسئلة في التفاصيل القوية دي.
+
+Student (Dr. Doaa): أنا لقيتها تخض شوية.
+
+Professor (Dr. Eman): لا، السلايد بس حاطة الصورة للتوضيح، لكن السلايد بتاعتنا هي
+اللي نحاول نحفظ منها. والـ Interleukins تبقى معاكم، مش لازم تحفظوها النهاردة أو
+بكرة، بس لما تيجوا تحلوا أسئلة هتلاقوا نفسكم شفتوا الحاجات دي قبل كده فترجعولها
+تاني.
+
+Student (Dr. Doaa): زي تجميعة، إحنا كده كده الحاجات دي كلها هتمر علينا.
+
+Professor (Dr. Eman): بالظبط كده، زي تجميعة. أخباركم إيه يا دكاترة؟ بقية الناس
+عاملين إيه في المذاكرة؟ يا شباب؟ قولولي حد عنده أي تعليق أو أي سؤال على أي
+حاجة قبل ما نبدأ؟ الدنيا معاكم كله تمام؟ ولا أصلاً لسه مبدألوش تذاكروا؟
+نظامكم إيه؟
+
+Student (Dr. Sarab): تمام، أنا بصراحة المحاضرة الماضية تبع الـ Psoriasis ما
+شفتها.
+
+Professor (Dr. Eman): ليه يا دكتورة؟ اسم حضرتك إيه؟
+
+Student (Dr. Sarab): أنا الدكتورة سراب، أنا انضميت مؤخراً، فكان رايح علي أول
+محاضرتين، فحضرتهم وسمعتهم، بس ما سمعتش حقت الـ Psoriasis.
+
+Professor (Dr. Eman): طيب، إنتي طالما سمعتي الـ Immunology هتمشي معانا شوية،
+ولكن برضه هيبقى في ديفيكت لأن إحنا شرحنا نص الـ Psoriasis المرة اللي فاتت
+وهنكمل المرة دي. فهتفهمي الدنيا لأن هي منفصلة، هتفهميها كأنواع، لكن كـ
+Etiopathogenesis لما تسمعي المحاضرة الأولى إن شاء الله تفهميها.
+
+Student (Dr. Sarab): إن شاء الله.
+
+Professor (Dr. Eman): دكتورة مروة بتقول أنا أول مرة أحضر. مفيش مشكلة، هتكملي
+برضه معانا، والقديم تسمعيه بس على طول.
+
+[10:00]
+
+Student 1: دكتورة، السلام عليكم. بالنسبة للـ PRN study، الأسئلة، هي فين بتنزل
+بالظبط؟ في الموقع؟ أنا اللينك اللي وصلني من الأكاديمي عبارة عن إيتاج وبولونيا
+بوك.
+
+Student 2: لا، موجودة باللينك التاني اللي بالإيميل.
+
+Student 1: موجودة؟ أنا ما وصلني.
+
+Student 2: في تلاتة لينك.
+
+Student 1: تلاتة؟
+
+Student 2: آه، في تلاتة. في واحد اللي هو الـ Schedule أو الـ Lectures اللي إحنا
+هنمشي عليها، وفي اللينكين التانيين.
+
+Student 1: عادي تحطوها لي في الجروب؟
+
+Professor (Dr. Eman): في الغالب مش هيعرفوا يبعتوهالك، تواصلي مع الأكاديمي وهم
+هيبعتولك اللينكات تاني متقلقيش.
+
+Student 1: تمام، شكراً ليكي دكتورة.
+
+Professor (Dr. Eman): العفو حبيبتي. يلا نبدأ المحاضرة، إن شاء الله برضه محاضرة
+خفيفة ولطيفة، إنتوا بتمشوا معايا بسرعة فالأمور بتبقى سهلة. يلا بسم الله الرحمن
+الرحيم. آخر حاجة وقفنا عليها المرة اللي فاتت هي الـ Variants بتاعة الـ
+Psoriasis. حد يقولي كده الأرقام بتاعتنا كانت إيه؟ يلا صحصحوا معايا.
+
+Student: 4، 7، 2، 8.
+
+Professor (Dr. Eman): الـ 4 اللي إحنا اشتغلنا فيهم المرة اللي فاتت: أول حاجة
+Psoriasis vulgaris اللي هو الـ Classic type، وبعد كده Guttate psoriasis، والـ
+Erythrodermic، والـ Pustular psoriasis. الـ 7 اللي هم الـ Site: الـ Nail
+psoriasis، الـ Psoriatic arthritis، الـ Scalp psoriasis، Palmoplantar، Mucosal،
+Flexural، Penile psoriasis. الـ 2 اللي هم مكنوش أنواع ولكن بيبقى ليهم حاجات
+specific ليهم: الـ Childhood psoriasis والـ Unstable psoriasis. آخر حاجة الأنواع
+الـ Rare خالص بتاعة الـ Psoriasis: الـ Rupioid، الـ Elephantine، الـ Ostraceous،
+الـ Digital، الـ Interdigital، الـ Verrucous، الـ Lichenoid، الـ Follicular. دي
+بس المطلوب منكم إن إنتوا تفتحوا جوجل مثلاً تكتبوا Rupioid psoriasis، شوفوا
+الشكل بتاعها عامل إزاي. الـ Rupioid شبه الـ Elephantine شبه الـ Ostraceous،
+بتبقى حاجات تخينة أوي، Scales very thick على الجلد، هتشوفوها في المحاضرة دلوقتي.
+Digital و Interdigital و Verrucous و Lichenoid تمام مفيش مشكلة، و Follicular.
+
+Professor (Dr. Eman): إحنا خلصنا المرة اللي فاتت الـ Psoriasis vulgaris والـ
+Guttate psoriasis والـ Erythrodermic، وكنا قلنا بس Enumeration للـ Pustular
+psoriasis. حد يقول معايا الـ Enumeration بتاعة الـ Pustular psoriasis، نفس
+السلايد. كان في منها نوعين: Generalized و Localized. الـ Generalized كنا
+بنقسمها للأنواع دي اللي هم تقريباً ست أنواع. Localized يعني إيه Localized
+pustular psoriasis؟ يعني في الـ Palm والـ Sole، أو في الـ Digital (الضوافر
+نفسها).
+
+Professor (Dr. Eman): الـ Generalized كان أول نوع منها Acute generalized
+pustular psoriasis اللي بنسميها Von Zumbusch، وده بيبقى Emergency case على فكرة.
+و Generalized pustular psoriasis in pregnancy، و Circinate و Annular و Linear ده
+Type مع بعضه، Exanthematous psoriasis، Infantile، وآخر نوع Localized but not in
+the hand and feet. عشان كده بقولكم التايب الـ Localized لوحده لازم يبقى في الـ
+Hand والـ Feet، لكن لو لقينا Localized pustular psoriasis في أي مكان في الـ Body
+تعتبر نوع من أنواع الـ Generalized بس Localized، هي بتلخبط بس تبقوا عارفين كده.
+الـ Localized pustular psoriasis نوعين بس: Palmoplantar pustulosis (يعني هنلاقي
+Pustules موجودة في الـ Palm والـ Sole)، أو Acrodermatitis continua of Hallopeau،
+وده معناه إن الـ Psoriasis موجودة في الضوافر بتاعة الـ Fingers. هنشوف صورة ليها
+دلوقتي.
+
+[20:00]
+
+Professor (Dr. Eman): نبدأ بقى بالـ Generalized اللي هي الـ Von Zumbusch
+pustular psoriasis. بيقولي في الـ Generalized pustular psoriasis إيه اللي بيحصل؟
+أنا عندي دلوقتي المرة اللي فاتت قلتلكم وجود الـ Pustules موجود بناءً على إيه؟ أو
+إيه اللي يخلي الـ Psoriasis تتحول لـ Pustular psoriasis؟ مش الـ Factors، إيه في
+الـ Pathology اللي يخليني أشوف Pustules clinically على الجلد بتاعنا؟
+
+Student: وجود Neutrophils.
+
+Professor (Dr. Eman): وجود إيه؟
+
+Student: Increased neutrophils.
+
+Professor (Dr. Eman): أيوة برافو عليكي. طيب سؤال تاني، هل الـ Neutrophils موجودة
+في الطبيعي في أي تايب من التايبس بتاعة الـ Psoriasis؟
+
+Student: آه موجودة في الـ Epidermis بس...
+
+Professor (Dr. Eman): اللي هي اسمها إيه؟
+
+Student: Munro microabscess.
+
+Professor (Dr. Eman): Munro microabscess، برافو عليكي. ولما بتكون كبيرة بقى
+بنسميها إيه؟
+
+Student: Kogoj.
+
+Professor (Dr. Eman): Kogoj spongiform pustule. لما بتكبر وتكتر تديني المنظر ده،
+شايفين المنظر ده لما متكبر عامل إزاي؟ Pustules. تديني الـ Kogoj spongiform
+pustule. يعني معنى Pustular psoriasis معنى وجود Neutrophils كتير في الـ Skin.
+شايفين الصورة دي؟ إنتوا لو ركزتوا فيها أو من بعيد أو لو شفتوا كذا حالة مش
+هتفهموا إن دي Pustular psoriasis. أنا كنت في بداية النيابة بتاعتي نقعد نقول
+Pustular psoriasis فين الـ Pustules؟ إحنا مش شايفين حاجة غير زي كأنها قشور
+محطوطة على الجلد. هي فعلاً بتبقى Pustules والـ Pustules بتقشر فإنتي
+مبتشوفيهاش، أو لما تقربي بنلاقي Erythema وعليها قشور بتبان إن هي
+Pustules، لكن Pustule كبيرة لا، متبقاش كده. بتبقى صغيرة Very very small وكمان
+Eroded فعاملالي زي Crusting. تمام يا دكاترة؟
+
+Professor (Dr. Eman): إيه اللي بيحصل بقى كـ Pathology؟ بيقولي في الـ Generalized
+pustular psoriasis في Infiltration of neutrophils dominates the
+histopathological feature، explaining the bright erythema and sterile pustules.
+نفس الكلام اللي أنا قلته. بيقولي إيه بقى؟ بيقولي It is unusual manifestation
+للـ Psoriasis. مش الطبيعي إن أنا أشوف الـ Psoriasis كـ Pustular psoriasis،
+لكن في Triggering factor تحول لي الـ Psoriasis لـ Pustular psoriasis. إيه الـ
+Triggering factor دي؟ الـ Pregnancy ذات نفسه ممكن الـ Patient عندها Psoriasis
+دخلت تبقى حامل يجيلها Pustular psoriasis، وبنسميها في الوقت ده Generalized
+pustular psoriasis in pregnancy. ممكن إيه تاني؟ Rapid tapering of
+corticosteroids، زي ما قلتلكم المرة اللي فاتت عشان كده مبنديش Systemic steroids
+أبداً في مريض صدفية. تالت حاجة الـ Hypocalcemia. رابع حاجة الـ Infection. خامس
+حاجة الـ Topical irritants زي الـ Tar والـ Coal tar والحاجات اللي إحنا ساعات
+بنستخدمها في الـ Psoriasis دي. تمام يا دكاترة؟ دي تعتبر Risk factors، والـ
+Pustular psoriasis تعتبر نوع من أنواع الـ Unstable psoriasis. ده Patient بيبقى
+عنده Psoriasis عادي خالص، فجأة دخل في Erythrodermic psoriasis، فجأة دخل في
+Pustular psoriasis. إيه الحاجات اللي ممكن تدخله؟ حاجة زي الـ Hypocalcemia، حاجة
+زي الـ Infection، الـ Topical irritants، الـ Rapid tapering للـ Steroids، وممكن
+الـ Pregnancy. لحد دلوقتي الدنيا تمام سهلة مش كده؟
+
+Professor (Dr. Eman): أول نوع بقى الـ Acute generalized pustular psoriasis
+بيقولي إن هو بيظهر لي بإيه؟ أولاً Burning pain في الـ Skin، بيبقى شديد
+جداً. الحالة دي بيكون معاها Systemic manifestation: Fever و Malaise. بيقولي
+إن بتبقى عبارة عن إيه؟ Sheets من الـ Erythema studded with pustules، زي ما إحنا
+شايفين كده، عبارة عن Erythema وعليها Pustules studded with يعني كتير جداً لدرجة
+إن أنا مش شايفة الـ Pustule نفسها، حاجات جنب بعضها. بيقولي In affected and
+unaffected skin. إيه المقصود بمعنى Affected والـ Unaffected دي؟ يعني الـ Skin
+اللي كان عليه Psoriasis واللي مكنش عليه كمان، بييجي عليه Erythema وبييجي عليه
+Pustules. بـ Affect إيه؟ بـ Affect mainly الـ Flexures، بيبتدي بالـ Flexural
+area في الأماكن دي. بيحصل إيه تاني؟ بيحصل Nail thickening وبيحصل Onycholysis.
+بيبقى موجود معاها Geographic tongue.
+
+[30:00]
+
+Professor (Dr. Eman): الـ Complications بتاعتها طبعاً أنا عندي Erythema وعندي
+Pustules والـ Pustules بيحصل فيها كأنها بتـ Rupture فبتسيب لي Crusting والجلد
+بيقشر، فأنا عندي Erythema و Scales. إيه اللي يحصل في الجسم كله لو بقت أكتر
+من 90%؟ الموضوع يتحول لـ Erythroderma. تمام يا دكاترة؟ إيه تاني؟
+Hypoalbuminemia. Hypoalbuminemia ليه؟ لأن الجلد عمال بيفقد في بروتين، عمال بيقشر
+فبروتينات كتيرة، هو الـ Scales دي عبارة عن إيه؟ مش عبارة عن Keratin؟ الكيراتين
+ده عبارة عن بروتين، البروتين ده بيفقده فبيقل في الدم، عاملة زي الـ
+Erythroderma برضه، لما نيجي نشرح شابتر الـ Erythroderma هنعرف إن هي برضه Acute
+case ومعاها Systemic manifestations كتير. إيه اللي يحصل تاني؟ الـ Hypocalcemia،
+والـ Hypocalcemia نفسها هي اللي ممكن تعمل لي الـ Pustular psoriasis. Oligemia،
+ممكن يبقى معاها Liver و Kidney و Joint affection، عشان كده بقولكم إن دي
+Emergency case مش مجرد مشاكل على الـ Skin بس. إيه تاني يحصل في الـ CBC؟
+Leukocytosis، زيادة الـ ESR، نقص الـ Albumin والـ Zinc والـ Calcium. تمام يا
+دكاترة؟ دي كانت أهم حاجة، أهم نوع اللي هو الـ Acute generalized pustular
+psoriasis، بنسميه الـ Von Zumbusch psoriasis.
+
+Professor (Dr. Eman): الأنواع التانية بقى دي في جدول كده هنقولها. الـ Pustular
+psoriasis في الـ Pregnancy بنسميها الاسم التاني بتاعها Impetigo herpetiformis.
+أنا عندي Dermatoses بتيجي في الـ Pregnancy يا دكاترة، كانوا أربعة أو خمسة. حد
+يعرف يعمل لي ليهم Enumeration يقولهم لي سريعاً؟ يعني في جدول كده إحنا كلنا بتوع
+جلدية عارفينه، إن في أمراض جلدية معينة بتيجي في الـ Pregnancy. وجدول بقى مقارنات
+هل بتأثر على البيبي ولا لأ، بتيجي في الـ First ولا في الـ Second trimester، هل
+ممكن Recurrent ولا بتيجي مرة واحدة بس. حد عارف الأمراض دي ولا مش عارفينها؟
+
+Student: أنا فكراها بس مش فاكرة الاختصارات أوي. كان في اللي هي اختصارها PUPPP
+اللي هي Pruritic urticarial papules and plaques of pregnancy، وفي Pruritus
+سببها الـ Intrahepatic cholestasis...
+
+Professor (Dr. Eman): الـ Cholestasis، الـ Pruritus والـ Cholestasis of
+pregnancy.
+
+Student: وفي Pemphigoid...
+
+Professor (Dr. Eman): اللي بنسميه إيه؟
+
+Student: Gestational pemphigoid.
+
+Professor (Dr. Eman): Pemphigoid gestationis. والأخيرة اللي هي الـ Atopic، الـ
+Atopic eruption of pregnancy. والخمسة بتاعتهم خدوا بالكم الـ Impetigo
+herpetiformis مش أساسية في الجدول ده، بس هم بيعتبروا خمسة بنحط معاهم الـ
+Impetigo herpetiformis. تمام؟ مش موضوعنا دلوقتي. طيب الـ Pustular psoriasis في
+الـ Pregnancy إيه الخصائص بتاعتها؟ أولاً بتيجي في الـ Last trimester، بتبقى
+Associated مع Hypocalcemia، بتأثر لي على البيبي ممكن تعمل لي Placental
+insufficiency فتعمل لي Stillbirth وتعمل لي Neonatal death، آخر حاجة ممكن تعمل لي
+Fetal abnormalities كمان، فدي حاجة مخيفة على البيبي كمان. ده بالنسبة للـ
+Pustular psoriasis في الـ Pregnancy. قلنا بتيجي في الـ First ولا في الـ Last
+trimester؟
+
+Student: Last trimester.
+
+Professor (Dr. Eman): Last trimester. قلنا إن هي بتبقى Safe على البيبي ولا بيحصل
+مشاكل في البيبي؟
+
+Student: بيحصل مشاكل في البيبي.
+
+Professor (Dr. Eman): بيحصل مشاكل في البيبي. الحاجات اللي بقولها دي مهمة عشان
+المقارنة اللي هتيجي بعد كده لبقية الأمراض. تمام؟
+
+Professor (Dr. Eman): الـ Circinate والـ Annular والـ Linear بيقول لي إن دي
+Pustules بتبان على شكل Circinate وشكل Annular وشكل Linear. بتبان بشكل دواير بشكل
+خط مفيش فيها مشكلة. Pustules appear peripherally on the advancing edge، dry and
+leave trailing fringe of scales. يعني بمعنى إيه؟ بمعنى إن أنا عندي دايرة كده من
+الـ Erythema عليها Pustules، الـ Pustules دي بتسيب لي Trailing of scales، يعني
+إيه Trailing؟ كأن Scale كده مشدودة. تمام يا دكاترة؟ تكتبوها برضه على جوجل
+وهتشوفوا شكلها. لكن أهمية دي إن ليها Differential diagnosis كتير. حد يعرف
+إيه الـ Differential diagnosis بتاعتها؟ حاجات Annular وبيكون فيها Pustules أو
+Bullae أو كده.
+
+Student: Linear IgA... اللي هي بتعمل الـ String of pearls sign.
+
+Professor (Dr. Eman): الـ Linear IgA bullous dermatosis والـ IgA pemphigus. لما
+نيجي ناخد شابتر الـ Bullous...
+
+Student: دكتورة بس الـ Linear IgA مش أعتقد الـ Bullae بتبقى فيها Fluid وكده
+فمتلخبطش ما بينهم صح؟
+
+Professor (Dr. Eman): ما هي متلخبطش بس تحطيها، ما حصل عليها Infection ممكن تتحط.
+إحنا بنتكلم دلوقتي أهي دي الـ Linear IgA bullous dermatosis اللي هي بتبقى نوع من
+أنواع الـ Pemphigoid عشان كده بتنسي Bullae. ده في الـ Bullous dermatosis. ودي
+الـ IgA pemphigus بيبقوا برضه Annular و Linear بالشكل ده. وده الشكل بتاع الـ
+Sneddon-Wilkinson اللي هو حاجة اسمها Subcorneal pustular dermatosis. يعني إيه
+Subcorneal pustular dermatosis؟ يعني في Pustules بتطلع Subcorneal يعني تحت الـ
+Cornea على طول فبتبقى Superficial. بتيجي إزاي؟ بتيجي على الـ Flexures بالطريقة
+دي. أنا مش عايزة من ده حاجة، مش عايزاكم تفهموا في حاجة إلا إن ده Differential
+diagnosis لو شفت حاجة زي دي، ده مثلاً Annular psoriasis أو الـ Circinate
+psoriasis، يتحط له Differential diagnosis لكل ده، ونبتدي بقى نعمل Exclusion مع
+نفسنا سواء بـ Pathology، بـ Biopsy، أو بـ Investigation، أو حتى بالشكل، ما هو
+الشكل ده مختلف عن الشكل ده. دي Tense bullae ظاهرة جداً زي ما الدكتورة قالت عشان
+كده ما يتحطش، لا يتحط بس هـ Exclude. ده مثلاً شايفين Erosion، ده الـ Trailing
+scale يا دكاترة، إن هو بيقشر يعني دي كانت المفروض Pustules لازقة في بعضها، فكت
+وبقت عاملة زي كأنها قشور بس. تمام؟ مهم جداً الـ Differential diagnosis ده.
+Sneddon-Wilkinson اللي هو الاسم التاني بتاعه Subcorneal pustular dermatosis،
+وهنا IgA pemphigus وهنا Linear IgA bullous dermatosis اللي هو نوع من أنواع
+الـ Pemphigoid.
+
+[40:00]
+
+Professor (Dr. Eman): رابع نوع الـ Exanthematous. Exanthematous يعني إيه؟ بيقول
+لي إن هو Acute self-limited after infection أو Lithium. يعني الـ Risk factor
+بتاعته Infection أو Lithium. معهوش أي Systemic manifestation ولكن اللي يخوفني
+منه كـ Differential diagnosis لمين؟ حد سمع عن AGEP ده قبل كده؟ Acute generalized
+exanthematous pustulosis. Exanthem يا دكاترة الـ Exanthem اللي هو بتاع زي الـ
+Viral infection، بيبقى زي Morbilliform eruption موجود و Exanthematous بنسميها
+كده. ده أهم Differential ليها الـ AGEP. الـ AGEP ده عبارة عن Acute
+generalized exanthematous pustulosis، يعني إيه؟ يعني Pustules بتبقى منتشرة في
+الجسم كله، سببها إيه؟ ده بيبقى Drug reaction after Ampicillin. بنفرقه إزاي؟
+بنفرقه إن هو بييجي هنا starting من الـ Flexures أكتر، لكن هنا الـ Face والـ
+Flexures، وبيظهر بعد 24 ساعة لازم يكون في History إن أخد حاجة فيها Ampicillin.
+وكمان أنا لو عملت هنا في الـ Exanthematous pustular psoriasis biopsy هلاقي
+Neutrophils، لكن هنا هلاقي Eosinophils لأن الـ Eosinophils كنت قايلالكم في
+المحاضرة بتاعة الـ Immunology بتاعة الـ Drug والـ Allergy. تمام يا دكاترة؟
+
+Professor (Dr. Eman): خامس نوع الـ Infantile، عادي مفيش مشكلة، ده بيقول لي إن هو
+أصلاً Benign و Self-limited و No systemic و Spontaneous remission، ميخوفناش،
+بييجي في الأولاد أكتر من سن سنتين لـ 10 سنين. آخر نوع الـ Localized except
+الـ Palm والـ Sole، ده بيقول لي إن هي Pustules appear within أو على الـ Edge
+نفسها بتاعة الـ Psoriatic plaque. ده Bad indicator أو Bad sign إن يبين لي لو
+Plaque من الـ Psoriasis على أطرافها بقى في Pustules، ده يقول لي إن هي اتحولت لـ
+Unstable phase أو Unstable psoriasis. تمام يا دكاترة؟ يعني ممكن تدخل لي في Acute
+generalized pustular psoriasis، ممكن تدخل لي في Erythrodermic psoriasis، فدي مش
+حاجة كويسة إن أنا ألاقي Psoriatic plaque عليها Pustules. تمام؟ تمام يا دكاترة
+لحد دلوقتي ولا أنا سريعة؟
+
+Student 1: أيوة تمام.
+
+Student 2: تمام دكتور إيمان.
+
+Professor (Dr. Eman): ماشيين كويس برتم حلو؟ والناس اللي لسه في البداية ماشيين
+معايا كويس ولا أهدي الدنيا شوية؟
+
+Student: لا تمام.
+
+Professor (Dr. Eman): طيب كويس أوي. دي طبعاً الـ Pustular psoriasis في الـ
+Pregnancy. ده الـ Infantile. طيب إحنا كده خلصنا الـ Generalized pustular
+psoriasis بكل أنواعها. هندخل على النوعين بتوع الـ Localized pustular psoriasis
+ونتكلم عنهم شوية. عايزة أوريكم الـ Palmoplantar pustulosis والـ Acrodermatitis
+continua of Hallopeau عشان تبقوا شايفين معايا. ده الـ Palmoplantar pustulosis،
+Pustules واللي بيميزها جداً الـ Yellowish brown macules أو Papules، الـ Brown
+macules اللي موجودة دي بتميز جداً من أهم مميزات الـ Palmoplantar pustulosis، لأن
+ده Differential diagnosis. أنا لو شفت ده ممكن أحط إيه Differential diagnosis
+للمنظر ده؟
+
+Student 1: Tinea.
+
+Professor (Dr. Eman): تحطي Tinea، أي نوع من الـ Tinea؟
+
+Student 1: Hand... مش فاكرة الـ Hand.
+
+Student 2: Tinea manuum.
+
+Professor (Dr. Eman): Tinea manuum. إنتي عمرك شفتي Tinea بتيجي بـ Pustules؟
+
+Student 2: Herpes.
+
+Professor (Dr. Eman): Herpes whitlow دي. لكن أنا بتكلم على دي. الدكتورة قالت
+Tinea، فعلاً ممكن تحطي Tinea بس نوع معين من الـ Tinea، الـ Vesiculobullous، لأن
+إنتي الـ Tinea الأساسي بتاعك إن هي بتبقى Circinate lesion وعمال بيوسع وليها
+Active edge، ده الطبيعي بتاعها. لكن في أنواع تانية من الـ Tinea اسمها
+Vesiculobullous، هيحصل عليها Infection تتحول لـ Pustules، فعادي ممكن تحطي Tinea،
+لكن لو قلتي Tinea كده لوحدها لا، لازم تحددي الـ Type. تمام؟ في دكتورة قالت
+Eczema صح؟
+
+Student: اللي هي Dyshidrotic eczema.
+
+Professor (Dr. Eman): والـ Dyshidrotic، قصدك الـ Pompholyx.
+
+Student: اللي هي Dyshidrotic eczema.
+
+Professor (Dr. Eman): أيوة اللي هو الاسم بتاعها بقى أنا نسيته، لسه كان حالاً
+هيتقال. الـ Dyshidrotic eczema ده بيبقى Deep-seated vesicles موجودة بتشوفيها
+كأنها زي Papules تحت الجلد وبتبقى Very itchy، تتحط برضه مفيش مشكلة. هنفتكر الاسم
+بتاعها دلوقتي. ده الـ Acrodermatitis continua of Hallopeau، الدكتورة حطت
+Differential اللي هم مين؟ Herpetic whitlow. يعني إيه Herpetic whitlow؟ لما بييجي
+الـ Herpes في الضوافر بنسميه Herpetic whitlow. ممكن نحط إيه تاني؟
+
+Student: Paronychia.
+
+Professor (Dr. Eman): نحط Paronychia مثلاً، نحط Staph infection، ممكن تجيلي
+بالطريقة دي. تمام؟ نرجع لها بقى. الـ Palmoplantar pustulosis بيقول لي إن هو
+Bilateral symmetrical sterile pustules. تمام؟ أنا عايزة أسأل سؤال، الـ
+Palmoplantar pustulosis أو الـ Pustular psoriasis ده، الـ Pustules الموجودة دي
+هل هي Primary lesion ولا Secondary lesion؟
+
+Student 1: Primary.
+
+Student 2: Secondary.
+
+Professor (Dr. Eman): في حد قال Primary وفي حد قال Secondary. على أساس إيه
+الدكتورة اللي قالت Primary وعلى أساس إيه برضه الدكتورة اللي قالت
+Secondary؟
+
+Student 2: هو أنا بقول Secondary لأن أنا مرة جاتلي حالة أخدت منها Swab وطلع فيها
+Infection.
+
+Professor (Dr. Eman): آه، بس هي مش هتبقى Pustulosis أو حصل عليها Infection. بس
+هي Aseptic دكتورة.
+
+Student 2: أيوة طبعاً.
+
+Professor (Dr. Eman): Primary بالظبط كده، هو ده اللي أنا عايزة أقوله. الـ
+Palmoplantar pustulosis primary، والـ Sneddon-Wilkinson primary، والـ AGEP
+primary، والـ Linear IgA primary. فاهمين؟ دي أمراض هي ظهورها كده، أنا بتظهر لي
+Papule أو Pustule، فاهمين قصدي؟ عشان وجود الـ Neutrophils. الـ Linear IgA أو الـ
+IgA pemphigus برضه Pustules بـ Neutrophils. تمام؟ لكن مثلاً نقول على إيه؟ الـ
+Herpetic whitlow لو بقى فيها Pustules، لو اتحولت من Vesicles بقى فيها Pus هتبقى
+Secondary. تمام؟ الـ Infected eczema secondary، يعني أي Infection عمل Pustule ده
+Secondary infection، ده Secondary lesion. إنتوا فاهمين قصدي؟ فاهمين الفرق؟
+
+[50:00]
+
+Professor (Dr. Eman): طيب هنا بيقول لي إن هو Bilateral و Symmetrical sterile
+pustules، with yellow brown macules، دي specific يعني دي حاجة مهمة ليها إن
+دايماً بنشوفها معاها Yellow brown macules دي. بتكون Associated مع سندروم
+اسمها SAPHO syndrome. حد سمع عن الـ SAPHO syndrome قبل كده؟
+
+Student: SAPHO syndrome ده اختصار لإيه؟ الـ S... اللي هو مع الـ Isotretinoin؟
+
+Professor (Dr. Eman): أيوة مع الـ Isotretinoin ليه؟ عشان في Acne. فهمتي؟ الـ
+SAPHO syndrome أول حاجة Synovitis، الـ S for Synovitis، والـ A for Acne، والـ P
+for Pustulosis (Palmoplantar pustulosis)، والـ H والـ O ليهم علاقة بالـ Bone
+(Hyperostosis و Osteitis). تمام يا دكاترة؟ إنتي ربطتيها بالـ Iso عشان هي بيكون
+الحالة دي معاها Acne.
+
+Professor (Dr. Eman): Triggering factor بقى بيقول لي Focal infection، Smoking،
+Stress، Lithium. ركزوا إن معظم الـ Triggering factor هي ضمن الـ Tripod lab بتاعة
+الـ Risk factor بتاعة الـ Psoriasis عموماً، مفيش حاجة خارجة عنهم. بيقول لي إن هو
+Chronic course و Resists for treatment، من أغلس الحالات فعلاً وبتجيلي كتير وببقى
+خلاص بقى اللي هو تدي له العلاج مش هيتحسن، تدي العلاج يتحسن شوية، عايز Systemic.
+طيب الـ Differential diagnosis زي ما قلنا الـ Pompholyx، الـ Vesiculobullous
+tinea، الـ Secondary infected eczema. طيب تاني نوع بقى من الـ Localized pustular
+psoriasis الـ Acrodermatitis continua of Hallopeau، اسمها غلس بس لازم يتحفظ. ده
+عبارة عن Pustules موجودة في الـ Distal portion بتاعة الـ Finger أو الـ Toe. إيه
+اللي بيحصل؟ Nail dystrophy و Shedding، وكمان مش بس على الـ Nail، ممكن ياكل في
+الـ Bone كمان (Osteolysis في الـ Distal phalanges). تمام؟ بيكون Associated
+معاها Geographic tongue، وكنا سمعنا الـ Geographic tongue دي فين حتة تانية
+دلوقتي حالاً من شوية؟
+
+Student: سمعناها مع الـ Von Zumbusch، مع الـ Acute generalized pustular
+psoriasis.
+
+Professor (Dr. Eman): عشان الـ Association مهمة، الـ Association في الامتحان
+مهمة جداً. تمام؟ Geographic tongue برضه هتجيبوها من على جوجل تشوفوا شكلها
+عامل إزاي، اللي هي بيسموها الـ Annulus migrans. طيب الـ Differential
+diagnosis زي ما قلنا Herpetic whitlow، Staph infection، و Contact dermatitis.
+تمام يا دكاترة؟ لحد دلوقتي حد عنده سؤال في اللي فات؟ إحنا كده خلصنا الـ Four
+main types.
+
+Professor (Dr. Eman): تمام كده؟ في حد عنده سؤال في اللي فات؟ إحنا كده خلصنا
+الأربعة، في سبعة، في اتنين، في تمانية. هندخل على أول واحد في السبعة اللي هو
+مين؟ الـ Nail psoriasis. الـ Nail psoriasis بيقول لي إن هو 5% Isolated، يعني 5%
+بس من الحالات ممكن تيجي Nail psoriasis without psoriasis في أي مكان تاني. 40
+لـ 45% Associated مع Skin psoriasis. بصوا المفاجأة بقى، 80 لـ 90% Associated
+مع Psoriatic arthritis. يعني شفت Nail لازم أركز إن ممكن يكون موجود Psoriatic
+arthritis أو هيجيله. تمام؟ الـ Fingernail أكتر من الـ Toenail. طيب حد يعرف إيه
+اللي هيحصل في الضوافر؟ يعني إحنا لما بنشوف عيان Psoriasis لازم نبص على الضوافر
+بتاعته، حد يعرف إيه اللي هيحصل؟
+
+Student: Pitting، Regular nail pitting، ومعاها الـ Oil drop...
+
+Professor (Dr. Eman): تمام.
+
+Student: بس أكتر حاجتين Specific هما الـ Pitting والـ Oil drop.
+
+Professor (Dr. Eman): كويس أوي، كل الحاجات اللي قلتوها صح، بس معلومات مش مرتبة
+شوية فهتتنسي. أنا عندي الـ Psoriasis بتأثر على جزئين في الـ Nail: أول حاجة الـ
+Nail matrix اللي هو المصنع بتاع الـ Nail نفسه، فالـ Nail matrix لما تتأثر إيه
+اللي هيظهر لي متأثر؟ الـ Nail نفسه اللي هو الـ Nail plate، فيديني مشاكل في
+الـ Nail plate زي ما إنتوا قلتوا Pitting وقلتوا Nail dystrophy صح؟ تاني حاجة
+تتأثر الـ Nail bed، يعني إيه الـ Nail bed؟ يعني اللي تحت الـ Nail plate، اللي
+تحت الضافر، الجلد اللي تحت الضافر، كمان هيبقى فيه مشاكل. يبقى Nail matrix و
+Nail bed، هتحفظوهم بكلام كده بيني وبينكم، اللي هم إيه؟ هتحفظوهم الـ Nail matrix
+المشاكل بتاعتها PDRL، والـ Nail bed المشاكل بتاعتها كلمة HOOS (H-O-O-S). HOOS
+يعني إيه؟ Hyperkeratosis، Onycholysis، Oil drop، Splinter hemorrhage. طبعاً في
+حاجات تانية غير دول بس دول أكتر حاجات Specific للـ Psoriasis. تمام؟ الـ Nail
+matrix إيه اللي هيحصل؟ أول حاجة الـ Pitting زي ما شفنا صورتها من شوية. تاني حاجة
+Leukonychia، Leukonychia يعني White patches موجودة، اللون نفسه لون الضافر يبقى
+فيه نقط بيضا. تالت حاجة الـ Red spot. رابع حاجة Plate dystrophy اللي هو الـ
+Nail dystrophy. خامس حاجة الـ Beau's lines. طيب نحفظها إزاي؟ الـ P for Pitting،
+الـ D for Dystrophy، الـ R for Red spot، الـ L for Leukonychia. تمام؟ تمام يا
+دكاترة؟ احفظوها كده عشان متتنسيش. الـ PDRL أنا حفظتها كده إزاي؟ يعني بدل الـ
+VDRL، حد سمع عن الـ VDRL قبل كده؟ بتاع إيه؟
+
+Student: بتاع الـ Syphilis.
+
+Professor (Dr. Eman): بتاع الـ Syphilis، برافو عليكم. طيب عشان منلخبطش بقى ملناش
+علاقة بالـ Investigation for syphilis، فإحنا هنحفظ هنا الـ Nail matrix PDRL. الـ
+Nail bed HOOS، HOOS يعني إيه؟ Hyperkeratosis إن الـ Nail bed اللي تحت الـ Nail
+نفسه بيتخن. Onycholysis إن الـ Nail نفسه هيتشال خلاص هيقع. Oil drop، و
+Splinter hemorrhage. Splinter hemorrhage من أكتر الحاجات الـ Specific اللي
+بنشوفها في الـ Psoriasis خصوصاً تحت الـ Dermatoscope، والـ Oil drop بتتشاف
+وشوفوا صورها عاملة إزاي. دي الـ Salmon patch أو الـ Oil spot تمام؟ وده الـ
+Pitting، دي الـ Leukonychia نقط بيضا موجودة، دي الـ Red macules فين الـ Red
+macules؟ ماشي. ده Crumbling خلاص Nail dystrophy بيبوظ بأي طريقة، Crumbling أو
+Trachyonychia اللي هي خلاص الـ Nail باظ. Trachyonychia دي أكتر حاجة Specific
+ليها إيه؟ الـ 20-nail syndrome، Specific لإيه؟
+
+Student: Lichen planus.
+
+Professor (Dr. Eman): Lichen planus، وإيه تاني؟
+
+Student: Alopecia areata.
+
+Professor (Dr. Eman): Alopecia areata، برافو عليكي.
+
+[60:00]
+
+Professor (Dr. Eman): طيب، تاني نوع الـ Psoriatic arthritis. الـ Psoriatic
+arthritis بيقول لي إن هو بييجي في 5 لـ 30% من الـ Psoriatic patients. الـ Peak
+age بتاعه من 40 لـ 60 سنة. الـ Psoriatic arthritis بيـ Precede الـ Skin disease
+في 15% من الحالات، يعني ممكن ييجي Psoriatic arthritis قبل ما ييجي الـ Skin
+disease أصلاً. الـ Psoriatic arthritis بيـ Follow الـ Skin disease في 70% من
+الحالات، يعني الـ Skin disease ييجي الأول وبعدين الـ Psoriatic arthritis
+ييجي بعده. الـ Psoriatic arthritis بييجي مع الـ Skin disease في 15% من
+الحالات. تمام؟ الـ Psoriatic arthritis بيـ Affect الـ DIP joint (Distal
+interphalangeal joint) أكتر من الـ PIP joint (Proximal interphalangeal joint).
+الـ Psoriatic arthritis بيعمل لي حاجة اسمها Dactylitis (Sausage digit)، يعني
+الصباع كله بيبقى منفوخ زي السجق كده. الـ Psoriatic arthritis بيعمل لي
+Enthesitis، يعني إيه Enthesitis؟ يعني Inflammation في الـ Enthesis، الـ Enthesis
+ده اللي هو الـ Insertion بتاع الـ Tendon أو الـ Ligament في الـ Bone. الـ
+Psoriatic arthritis بيعمل لي Arthritis mutilans، يعني إيه Arthritis mutilans؟
+يعني بيحصل Severe destruction للـ Bone والـ Joint لدرجة إن الصباع بيبقى زي
+الـ Telescope كده (Telescoping of digits). الـ Psoriatic arthritis بيعمل لي
+Spondylitis و Sacroiliitis. تمام يا دكاترة؟
+
+Professor (Dr. Eman): الـ Associations بتاعة الـ Psoriasis، الـ Psoriasis مش بس
+Skin disease، الـ Psoriasis ده Systemic disease. الـ Psoriasis بيبقى Associated
+مع Metabolic syndrome (Obesity، Hypertension، Dyslipidemia، Diabetes). الـ
+Psoriasis بيبقى Associated مع Cardiovascular disease (Myocardial infarction،
+Stroke). الـ Psoriasis بيبقى Associated مع Inflammatory bowel disease (Crohn's
+disease، Ulcerative colitis). الـ Psoriasis بيبقى Associated مع SAPHO syndrome
+اللي إحنا لسه قايلينها. الـ Psoriasis بيبقى Associated مع Psychological
+problems (Depression، Anxiety). تمام يا دكاترة؟
+
+Professor (Dr. Eman): إزاي بنـ Assess الـ Severity بتاعة الـ Psoriasis؟ بنـ
+Assess الـ Severity عن طريق الـ BSA (Body Surface Area). لو الـ BSA أقل من 3%
+يبقى ده Mild psoriasis. لو الـ BSA من 3 لـ 10% يبقى ده Moderate psoriasis. لو
+الـ BSA أكتر من 10% يبقى ده Severe psoriasis. في حاجة تانية اسمها PASI score
+(Psoriasis Area and Severity Index)، ده بيـ Assess الـ Erythema والـ Induration
+والـ Desquamation والـ Area affected. في حاجة تالتة اسمها DLQI (Dermatology
+Life Quality Index)، ده بيـ Assess الـ Impact بتاع الـ Disease على الـ Quality
+of life بتاعة الـ Patient. تمام يا دكاترة؟
+
+
+Here is the cleaned, professionally formatted transcript of the second part of lecture. Filler
+words and false starts have been removed, grammar and punctuation have been
+corrected, and speaker labels have been added while preserving all educational
+content verbatim.
+
+[00:00]
+
+Professor: هنبقى عارفينه كاسم، لكن هو بيعقدنا إحنا لأننا بنعرفه ونفهمه ونركز فيه
+وبعد كده بشوية ننساه. عايزين دلوقتي نفصصه مع بعض وإن شاء الله ما ننساهوش تاني.
+اسمه إيه السكور ده؟
+
+Student: الـ PASI score.
+
+Professor: اللي قال PASI score، يقول لي إيه هو الـ PASI score ده عموماً؟ مش
+عايزة أرقام ولا حاجة.
+
+Student: هو بيقسمها لـ 3 درجات: Mild، و Moderate، و Severe. ولها حسبة كده و
+Surface area وحاجات زي كده.
+
+Professor: بالمنظر ده، هو ده. منظره بصراحة حاجة، ودي بتاعة بولونيا، وده بتاع
+أحمد كامل، وده أسهل واحد الصراحة. نرجع له، هو مش صعب خالص.
+
+الـ PASI score اختصار لـ: Psoriasis Area and Severity Index. يعني بيعمل
+Assessment للـ Psoriasis عن طريق الـ Area (واخدة مساحة قد إيه من الجسم بتاعي)
+والـ Severity بتاعتها. أصل هي ممكن تبقى واخدة مساحة كبيرة ولكن الـ Scales
+فيها مش كتير، والـ Erythema فيها مش كتير، وممكن تبقى واخدة مساحة صغيرة ولكن
+الـ Severity بتاعتها عالية. يبقى الـ PASI score عبارة عن Psoriasis Area and
+Severity Index.
+
+أنا باجي أعمل إيه؟ بقسم الـ Body بتاعي لـ 4 أماكن، وبعمل Assessment لكل منطقة
+Separate لوحدها خالص. افهموا معايا عشان كل كلمة بقولها مهمة، ومش ضامنة أعرف أعيد
+لكم الكلام ده تاني ولا لأ لأني أنا نفسي بنساه. بقسم الجسم لـ 4 أماكن، وكل منطقة
+باخدها أعمل لها الـ PASI score لوحدها.
+
+إيه الـ 4 أماكن دول؟ أول حاجة الـ Head and Neck، وبديها رقم 0.1 (واحفظوا
+الأرقام). وباخد الـ Upper Limbs وأديها رقم 0.2. والـ Trunk 0.3. والـ
+Lower Limbs 0.4.
+
+الأرقام دي مش محطوطة هباءً؛ الـ Head and Neck أصغر مكان فبنديله 0.1، الـ Upper
+Limbs تاني أصغر مكان فـ 0.2، الـ Trunk كبر شوية 0.3، الـ Lower Limbs أكبر
+حاجة 0.4.
+
+أنا مثلاً هاخد دلوقتي الـ Trunk. أنا دلوقتي قسمت الجسم بتاعي لـ 4 أماكن، جيت بقى
+أنا عايزة الـ Trunk أعمل Assessment للـ Psoriasis فيه. هعمل Assessment للـ
+Psoriasis على أساس إيه؟ الـ Area والـ Severity. تمام يا دكاترة؟ لحد دلوقتي
+الدنيا ماشية معايا؟
+
+Students: تمام يا دكتورة، معاكي.
+
+Professor: قلنا دلوقتي قسمنا الـ Body بتاعنا لـ 4 أماكن، قلت همسك منطقة الـ
+Trunk وهي دي اللي هعمل عليها الـ PASI score بتاعي. هاجي بقى أعمل الـ Severity.
+الـ Severity بتبقى على حسب 3 حاجات: الـ Erythema، والـ Scales، والـ
+Induration. كل حاجة من دول هتاخد Score من 0 لـ 4. يعني الـ Erythema من 0 لـ 4
+على حسب الـ Severity بتاعتها، الـ Scales من 0 لـ 4 على حسب الـ Severity
+بتاعتها، الـ Induration من 0 لـ 4 على حسب الـ Severity بتاعتها.
+
+كده الـ Total بتاع الـ Severity قد إيه؟
+
+Student: 12.
+
+Professor: برافو عليكم. يبقى أنا كده عندي الـ Total بتاع الـ Severity من 0
+لـ 12. على حسب بقى أنا شايفة None، شايفة Slight، شايفة Moderate، صح يا دكاترة؟
+فهمتوها لحد دلوقتي؟ يعني أنا لما آجي أدي Score للـ Severity، السكور بتاعي هيبقى
+من 0 لـ 12 على حسب التلاتة دول، على حسب أنا تقييمي بعينيا إديتها إيه. يعني
+مثلاً الـ Severity ممكن أديها 2، الـ Scales ممكن أديها 4، الـ Induration
+ممكن أديها 0، فأنا كده 2 و 4 بقوا 6، إذن من 0 لـ 12 على حسب أنا شايفة إيه.
+
+كل ده فين؟ في الـ Block الموجودة على الـ Trunk. أنا عملت Assessment للـ
+Severity، طيب عايزة أعمل Assessment للـ Area بقى. هي واخدة قد إيه من الـ Trunk؟
+الـ Psoriasis دي واخدة قد إيه من الـ Trunk؟ ركزوا معايا، مش من الـ Body كله، أنا
+بس خدت الـ Trunk.
+
+أولاً، بعمل Assessment للـ Area بديها Score من 0 لـ 6 على حسب إيه؟ 0 يعني مش
+واخدة حاجة خالص من الـ Trunk، الـ Trunk معليهوش أي حاجة Free. 1: أقل من 10%.
+2: من 10 لـ 30%. 3: من 30 لـ 50%. 4: من 50 لـ 70%. 5: من 70 لـ 90%. 6: من 90
+لـ 100%. هتحفظوا ده، بس يعني شوية كده إن شاء الله. المهم بس تفهموا الدائرة
+عاملة إزاي عشان أنا أقسم بالله قعدت كام سنة أصلاً على ما فهمت الـ PASI score
+ده أصلاً بيتعمل إزاي. يعني إيه من 0 لـ 72 اللي إحنا هنوصل ليها للآخر دي؟ وخدوا
+بالكم التقييم بتاع الـ Psoriasis في امتحان الـ SCE والـ EBDV بالـ PASI score.
+وسكور تاني كده بتاع الـ Quality of life وحاجات كده ممكن نبقى نعمل Search عليه،
+لكن الـ PASI score مهم جداً جداً جداً.
+
+[10:00]
+
+Professor: لحد دلوقتي فهمتوا؟ حد يقول معايا بالراحة كده أنا بعمل إيه.
+
+Student: بناخد المناطق الأربعة، منطقة منطقة، وبنعمل Assessment للـ Severity والـ
+Area، وبعدين بنضربهم في الأرقام المكتوبة. النتيجة المجموع، صح؟
+
+Professor: أيوه، لا ما هو مجموع إيه؟ إنتي عملتي Assessment للـ Severity، مجموع
+الـ Severity من 0 لـ 12. والـ Area بتاعة كل منطقة. نيجي بقى هنا، شايفين ده؟
+الصراحة ده أحسن جدول برضه من دكتور أحمد كامل. الـ Head and Neck إدى الـ
+Erythema من 0 لـ 4، الـ Upper Limbs الـ Erythema من 0 لـ 4، الـ Trunk من 0 لـ 4،
+الـ Lower Limbs من 0 لـ 4. الـ Induration نفس الحوار، الـ Scale نفس الحوار.
+
+هنا جه عمل إيه؟ الـ Severity Score، جمع الـ Erythema والـ Induration والـ
+Scaling، بقت الـ Head and Neck من 0 لـ 12، صح؟ نفس الكلام اللي أنا قلته، جمعت
+التلاتة دول مع بعض. ممكن يبقى 2، 4، 1، هتجمعيها هتطلع كام، فاهمين قصدي؟ وهنا
+برضه من 0 لـ 12، من 0 لـ 12. هنا كده أنا جمعت الـ Severity.
+
+الـ Area من 0 لـ 6. آجي بقى عشان أطلع السكور، الـ Head and Neck قلت لكم كانت
+واخدة كام؟ كانت واخدة رقمها إيه؟ عشان كده قلت لكم الأرقام دي تتحفظ. الـ
+Trunk كانت واخدة إيه؟ 0.3. أنا دي مثلاً طلعت الـ Severity بتاعتي وليكن 8 (اللي
+هي من 0 لـ 12 بعد ما حسبت كل ده طلعت 8)، والـ Area طلعت 5. أنا مطلوب مني أعمل
+إيه؟ أضرب 8 في 5 في 0.3. هنا أنا في الـ Trunk: 8 في 5 في 0.3.
+
+عشان هنا بيقول لي أهو: A في B في C يطلع لي الرقم. أقوم جامعة الأرقام دي كلها على
+بعض، هتطلع لي من 0 لـ 72. لو قعدتوا كده مع نفسكم وبدأتوا تحسبوها، مفيش فيها
+صعوبة، إنتوا فهمتوا كل حاجة ما عدا الخطوة الأخيرة. أنا لازم في الخطوة
+الأخيرة هضرب A في B في C. الـ A عبارة عن جمع الـ Severity، الـ B الـ Area،
+الـ C الـ Body Surface Area اللي هي 0.1، 0.2، 0.3. يعني هنا الصورة دي أنا هضرب
+الرقم ده في الرقم اللي هيطلع لي من هنا في الرقم اللي هيطلع لي من هنا، فهمتوا؟
+يبقى أنا كده جبت الـ Trunk إيه الـ PASI score بتاعه.
+
+بعد كده بقى خلاص أنا جبت الـ Trunk الـ PASI score بتاعه، والـ Head and Neck ده
+الـ PASI score بتاعه، وده الـ PASI score بتاعه، وده الـ PASI score بتاعه، وفي
+الآخر خالص هجمعهم مع بعض، يديني الـ PASI score. فهمتوها؟ عارفة إن هي غلسة،
+عارفة، بس يعني مع بعض كده، الجدول ده يتعرف وتفهموا اللي أنا قلته هنا
+هتلاقوا الدنيا سهلة. تمام يا دكاترة؟ في الآخر خالص الـ PASI score من 0
+لـ 72 على حسب كل الحسبة اللي إحنا حسبناها هنا دي. دي في بولونيا نفس الكلام، مش
+قايل حاجة مختلفة، بس أنا كان عاجبني ده عشان ده اللي أنا مذاكرة منه أساساً. تمام؟
+
+Student: دكتورة بس عندي سؤال، الـ PASI score من 0 لـ 10 عندنا يعني Mild،
+Moderate، Severe عندنا يعني في الـ Psoriasis. الـ Mild هو من 0 لـ 10، الـ PASI
+من 0 لـ 10 يحتسب؟
+
+Professor: من 0 لـ 10؟ إزاي؟ يعني إيه؟
+
+Student: يعني هسه مثلاً كيف نقول هاي الـ Case هي Mild Psoriasis؟ نحسب على الـ
+PASI؟
+
+Professor: آه، هقول لك على حاجة. أنا قلت لك اللي إحنا بنشتغل بيه في المستشفى،
+إحنا بنشتغل في المستشفى بـ Surface Area بس. ده مش PASI أصلاً. اللي بيسهل
+علينا في المستشفى اللي هو أقل من 10% من الـ Body Surface Area هندي Topical،
+أكتر من 10% هندي Systemic. بس من الأبحاث، يعني أنا لأن كان بحثي عن الـ
+Psoriasis، بيسوونها كده مثلاً Mild، Moderate، Severe على الـ Psoriasis.
+بيحسبوها على حسب الـ Body Surface Area مش الـ PASI score. الـ PASI score
+هو ده، لازم من 0 لـ 72 على حسب الحسابات اللي إحنا حسبناها. لكن هو في الغالب في
+معظم المستشفيات إحنا ما بنمشيش كده، إحنا بنمشي بالـ Surface Area بس. يعني أنا
+فحصت الجسم لقيت إنه أقل من 10% من الـ Body Surface Area، لأن إحنا فاكرين
+التقسيمة بتاعة الـ Body أصلاً لما بيكون حاصل حروق أو حاجة؟ الـ Lower Limb
+بتاخد 18، الـ Trunk بياخد 18، الـ Back بياخد 18، فاكرين التقسيمة دي؟
+
+Student: الـ Rule of Nines.
+
+Professor: أيوة، حاجة كده، هو ده اللي إحنا بنشتغل عليها. اللي هو الـ Surface
+Area بتاعة الـ Body عاملة إزاي. فلو واخد الـ Upper Limb كله بيبقى واخد 9، الـ
+Upper Limb التاني 9، عارفين دي؟ بس دي حاجة والـ PASI score حاجة تانية خالص. دي
+Surface Area بتسهل علينا الـ Psoriasis واخدة قد إيه من الجسم، فهمتيني؟
+
+Student: نعم.
+
+[20:00]
+
+Professor: تمام. ده بالنسبة للـ PASI score بتاع الـ Skin. الـ Nail بقى، الـ Nail
+بيسموه NAPSI score (Nail Psoriasis Severity Index). بياخد الـ Nail ويقسمه لـ 4
+أجزاء، وكل جزء بيتأسس على حسب إيه؟ الـ Matrix والـ Nail bed. تمام؟ يعني هنا
+Matrix و Nail bed، هنا Matrix و Nail bed، هنا Matrix و Nail bed، هنا Matrix و
+Nail bed. فاهمين يا دكاترة؟
+
+Students: تمام يا دكتورة.
+
+Professor: هقول إيه، أنا جبت الـ Quadrant ده جيت هنا، في Matrix هدي 1، في Nail
+bed هدي 2، مفيش هدي 0. يبقى في كل واحد من 0 لـ 2. في Matrix هدي 1، في Matrix و
+Bed هدي 2، فهمتوا قصدي؟ ونفس الحوار هنا. هنا كده السكور بتاعي هيبقى كام؟ هنا 2
+من 0 لـ 2، وهنا كام؟ من 0 لـ 2 على حسب الـ Matrix والـ Bed، وهنا من 0 لـ 2،
+وهنا من 0 لـ 2. إذن كده الـ Total بتاعي كام؟
+
+Student: 8.
+
+Professor: 8، برافو. يعني من 0 لـ 8 في كل صباع، في كل الـ Fingers كام؟ 8 في 10
+بـ 80. طيب في الـ Fingers والـ Toes كمان معانا؟ 160. يبقى من 0 لـ 160 في كل
+الـ Fingers. فهمتوها؟ دي اللي هتفهمها لكم. بيقول لي بنـ Divide الـ Nail بـ
+Imaginary horizontal and longitudinal lines لـ 4 أرباع كده يعني. كل Nail is
+given a score in each quadrant. الـ Nail bed psoriasis (اللي هي الحاجات اللي
+إحنا عارفينها) والـ Nail matrix psoriasis. لو مفيش None، 1 Present in one
+quadrant، 2 Present in two quadrants، 3 Present in three quadrants، 4 Present in
+four quadrants. تمام يا دكاترة؟
+
+بيقول لي Each nail gets matrix and bed, the total range من 0 لـ 8. The total
+NAPSI score sum of all nails 80، الـ Toes والـ Fingers 160. فهمناها جاية منين؟
+بيأسس هنا لقيت مثلاً وليكن إحنا كنا حافظينها بـ PDRL و HOOS. هنا لقيت مثلاً
+Pitting ماشي؟ بس، يبقى كده هياخد كام؟ 1. هنا لقيت Leukonychia ولقيت Oil drop،
+هياخد كام؟ 2. طيب هنا لقيت Leukonychia و Pitting، هياخد كام؟ 1، برافو عليكي،
+كنت عايزاكي تقعي فيها. في Two signs ولكن الـ Two signs تبع الـ Nail matrix،
+مفيش Nail bed. فهمتوني يا دكاترة؟ دي التقسيمة بتاعة اللي هو الـ NAPSI score.
+
+إحنا كده خلصنا الـ Psoriasis ولله الحمد. هندخل بقى على الـ Treatment بتاعها. الـ
+Treatment of Psoriasis فيه Topical، وفيه Systemic، وفيه Phototherapy، دول أهم
+تلاتة. ولكن فيه Photodynamic وممكن يبقى فيه Laser زي الـ Excimer laser، الـ
+Pulsed dye، الـ CO2 ماشي. ممكن يبقى فيه حاجات اسمها Special situations في حاجات
+معينة، في الـ Pustular psoriasis بنعالج إزاي، في الـ Erythrodermic بنعالج إزاي،
+ده المقصود بيها. نبتدي بأول حاجة النهاردة ودي الحاجة الوحيدة اللي إحنا هنقولها
+في المحاضرة هي الـ Topical treatment.
+
+الـ General measures طبعاً إن إحنا بنـ Exclude الـ Risk factors، الـ Trauma،
+الحاجات الـ Drugs اللي بياخدها. أول حاجة الـ Topical treatment، حد يقول
+معايا كده إيه الحاجات اللي إحنا بنكتبها في مريض Psoriasis في العادي بتاعنا؟
+بنكتب إيه؟
+
+Student: Corticosteroids، Salicylic acid.
+
+Professor: إيه الـ First line؟
+
+Student: Emollients، Keratolytics، Steroids، Emollients.
+
+Professor: ماشي، أنا بقول إيه الـ First line؟
+
+Student: Topical Steroids.
+
+Professor: Topical Steroids، برافو عليكي. خليكوا مخضوضين عشان إحنا عمالين نقول
+Steroids لأ والـ Steroids ما بنديهوش، لكن الـ First line بتاع علاج الـ Psoriasis
+هو الـ Topical Steroids. الـ Systemic هو اللي فيه مشاكل.
+
+الـ Second line treatment مكتوب في شيميزان هو الـ Anthralin اللي أنا كاتباه آخر
+واحد ده، مكتوب الـ Second line treatment. أول حاجة الـ Steroids (الـ Steroid
+sparing اللي هو الـ Tacrolimus)، الـ Vitamin D3، الـ Retinoids زي الـ Acitretin
+والـ Adapalene، الـ Salicylic acid، الـ Coal tar، والـ Anthralin.
+
+نيجي على الحاجات الـ Topical ونتكلم فيها واحدة واحدة. الـ Steroids بيقول لي
+طبعاً إن هو الـ First line in mild and moderate psoriasis as monotherapy،
+ممكن نستخدمه لوحده خالص. تمام؟ بيقول لي في الـ Severe psoriasis كـ Combination
+therapy، إنتي كده كده بتدي الـ Steroid، Topical steroid حتى لو هتدي Systemic،
+بنمشيه على Topical steroid. تمام؟ بيشتغل إزاي؟ كـ Anti-inflammatory،
+Anti-proliferative، Immunosuppressive. طبعاً كلنا عارفين إن الـ Steroid
+non-specific لأن هو بيدخل يشتغل على الـ DNA بتاع كل الخلايا يعمل لها
+Suppression.
+
+الـ Side effects بتاعة الـ Steroids برضه معظمنا عارفينها: Atrophy،
+Telangiectasia، Striae، Rosacea، Glaucoma، Cataract، الـ Tachyphylaxis. يعني إيه
+Tachyphylaxis يا دكاترة؟
+
+Student: يعني ما يجيبش نتيجة، يحصل تشبع للريسبتورز.
+
+Professor: تزودي بقى، تزودي وبرضه مفيش نتيجة، كأن الجسم بيتعود عليه. الـ
+Contraindications: Bacterial and viral infections. هو عبارة عن Category C في الـ
+Pregnancy، يعني بنديه ولا ما بنديهوش؟
+
+Student: Category C ممكن نديه.
+
+Professor: بنديه طبعاً، إنتي عندك أصلاً لو عيانة Pregnant وعندها Psoriasis إيه
+اللي هتديهولها؟ هتحاولي تبعدي بقدر الإمكان عن الـ Systemic، فإنتي قدامك الـ
+Topical steroids.
+
+طيب تاني نوع الـ Calcineurin inhibitors اللي هو مين؟ ومين الـ Calcineurin ده؟
+وسمعناه فين؟ وهل هو Specific ولا Non-specific؟ يلا.
+
+Student: في الـ Immunity.
+
+Professor: أيوه تمام، في الـ Immunity كان إيه يا دكتور؟
+
+Student: Tacrolimus.
+
+Professor: آه ماشي، اللي هو الـ Tacrolimus. الـ Tacrolimus بيعمل لي إيه بالظبط؟
+إيه الـ Mechanism of action بتاعته؟ بتاع مين؟
+
+[30:00]
+
+Student: بتاع الـ T-cells.
+
+Professor: الـ T-cells، بالظبط كده. الـ Calcineurin pathway بتاع الـ Activation
+بتاع الـ T-cell عشان تطلع لي في الآخر Interleukin-2 وتشتغل. فاكرين الكلام ده يا
+دكاترة؟ فاكرين الـ Calcineurin pathway؟ Calcium و Calmodulin يتحول يبقى
+Calcineurin، الـ Calcineurin يعمل لي Dephosphorylation للـ Nuclear factor of
+activated T-cells (NFAT)، الـ NFAT الكبير ده يدخل جوه الخلية يرتبط بالجزء التاني
+بتاعها يعمل لي Activation للـ DNA. فاكرين مين اللي كان بيقفلها؟ الـ Calcineurin
+inhibitor اللي هو الـ Tacrolimus. طيب كان مين الـ Systemic calcineurin
+inhibitor؟
+
+Student: Cyclosporine.
+
+Professor: Cyclosporine، تمام برافو عليك. كويس أوي. إذن الـ Tacrolimus أو الـ
+Pimecrolimus دول Specific ولا Non-specific؟
+
+Student: Specific.
+
+Professor: Specific طبعاً. طيب سؤال بقى، بيشتغل على الـ T-helper والـ
+T-cytotoxic ولا واحدة منهم؟
+
+Student: ...
+
+Professor: هو إنتوا فين؟ فين محاضرة الـ Immunology؟ ده إحنا لسه ما عداش عليها...
+
+Student: ما بيشتغلش على الـ Cytotoxic.
+
+Professor: آه، ليه ما بيشتغلش؟ لا إحنا هيبقى في Punish بعد كده، إنتوا حرين.
+
+Student: يبقى كده بيشتغل.
+
+Professor: هو عشان بيشتغل وما بيشتغلش عشان الصمت الرهيب اللي أنا عايشة فيه ده،
+ده لسه ما عداش محاضرتين على المحاضرة. لا بقولكوا إيه...
+
+Student: بعد الـ PASI score والـ NAPSI score الدنيا ضلمت شوية.
+
+Professor: كلكم عملتوا نفسكم من بنها ما عدا الدكتور اللي بيتكلم معايا. بصوا إحنا
+مش موجودين، إحنا كلنا ما سمعناش المحاضرة دي أصلاً. ده أنا المحاضرة دي وجيت المرة
+اللي فاتت كمان عدت لكم الكلام ده، قلته كذا مرة. الـ Tacrolimus والـ Cyclosporine
+هم Calcineurin inhibitors، والـ Calcineurin ده عبارة عن Pathway، الـ
+Intracellular activation pathway بتاع الـ T-cell. T-cell، أي T-cell، T-helper،
+T-cytotoxic، أي T-cell ماشية في الشارع، ما حددناش حاجة معينة. ماشي؟ طيب ماشي،
+هنشوف، ماشي.
+
+ماشي يا دكاترة، يلا. الـ Tacrolimus والـ Pimecrolimus بيقول لي إن هو بنشتغل
+دايماً بيعتبر عبارة عن إيه؟ Steroid sparing، يعني الأماكن اللي مش هينفع
+فيها الـ Steroid أو المواقف اللي مش هينفع فيها الـ Steroid بلجأ للـ
+Tacrolimus. زي إيه؟ زي الـ Intertriginous areas وتحت العين، حوالين الفم، الحاجات
+دي بنلجأ فيها للـ Tacrolimus أو الـ Pimecrolimus. تمام؟ بيعمل إيه؟ بيـ Decrease
+الـ T-cell activation، أهو، أهو الموضوع بسيط، بأي ساعة بشرح في الحتة دي.
+
+الـ Side effects بتاعته Burning و Itching، عشان كده دايماً دايماً بنقول للـ
+Patient اللي بياخد Tacrolimus يحطه في التلاجة، لأن بيعمل Burning و Itching
+sensation قوي كمان. بيقولوا إن بيعمل Malignancy with animals لكن ما لقوش الكلام
+ده في البني آدمين لسه. No contraindications، برضه Category C.
+
+طيب Vitamin D3 analogs زي مين بقى؟ زي مين موجود في الماركت عندنا؟
+
+Student: الـ Daivobet والـ Calcipotriol.
+
+Professor: أيوه، Daivobet، Calcipotriol والحاجات دي. وطبعاً بقى في مصر أصلاً ما
+بقيناش نلاقيه. الـ Calcipotriol 50 ميكروجرام بير جرام، ركزوا في دي جداً. تمام؟
+الـ Maximum dose بتاعته 100 جرام بير ويك، برضه دي تتحفظ، 100 جرام بير ويك. الـ
+Mechanism of action بتاعته بيقلل لي الـ Proliferation، بيـ Normalize الـ
+Differentiation بتاع الـ Keratinocytes. الـ Side effects بتاعتي Irritation و
+Reversible hypercalcemia، ممكن يعمل لي Hypercalcemia عشان كده بقول لكم ركزوا في
+التركيز بتاعه وركزوا في الـ Maximum dose بتاعته. بيـ Decrease الـ Parathyroid
+hormone. الـ Contraindications بتاعتي ما ينفعش أديه في Large area، لو في
+Abnormality في الـ Bone، لو في Abnormality في الـ Calcium level، لو في Renal
+insufficiency. الـ Pregnancy والـ Lactation contraindicated. تمام؟ تمام يا
+دكاترة؟ إحنا قربنا نخلص على فكرة عشان أنا حاسة إن إنتوا نمتوا تقريباً أو
+مش عارفة بتعملوا إيه، سرحانين في إيه. طب إنتوا مركزين؟ قولوا آه.
+
+Students: إن شاء الله، آه دكتورة مركزين معاكي.
+
+Professor: طيب كلكم، أنا عايزة كله يقول لي آه دلوقتي، إحنا تمام.
+
+Students: آه تمام دكتورة.
+
+Professor: طيب كملوا، العدد قل، العدد قل، تقريباً بتهربوا مني يعني بعد الـ PASI
+score. ماشي، دول آخر تلات أدوية تقريباً أو حاجة بعدهم حاجة بسيطة Anthralin
+تقريباً، هنتكلم عنهم. مش مطلوب برضه تحفظوا كل الكلام بطريقة الدش دي، لكن
+أنا بحاول أحط لكم كل المعلومات لأن إحنا في الكورس ما عندناش رفاهية إن إحنا
+نقعد نعمل محاضرات كتير، فإحنا آه 45 محاضرة كتيرة أوي بس إحنا ممكن يبقوا 60
+و 70 لو إحنا قاعدين، تمام؟ فمفيش كده، فالـ Therapy اللي هيتذكر في محاضرة مش
+هيتعاد تاني، فاهمين قصدي؟ يعني مثلاً أنا اتكلمت عن الـ Topical retinoids، لأ
+ده هيتعاد في الـ Acne، الـ Salicylic مش هيتعاد تاني، الـ Coal tar مش هيتعاد
+تاني، فاهمين قصدي؟ حتى كمان في الـ Systemic هنيجي نتكلم عن الـ Methotrexate
+والـ Cyclosporine باستفاضة كأننا في محاضرة Therapy بالظبط عشان مش هنعرف نعيده
+تاني. يعني خلي الوقت ده لحاجة جديدة نعرف نتكلم فيها. فاهمين قصدي؟ فمش مطلوب
+إن إحنا في المحاضرة دي تحفظوا كل الكلام لما تيجوا تذاكروا، لأ تعرفوه وتحفظوا
+حاجة بسيطة وكل مرة على التانية هتلاقيكوا بتضيفوا معلومات خصوصاً للناس الجديدة.
+
+طيب الـ Retinoids، بيقول لي التركيز بتاعه 0.05 و 0.1، ده بيبقى في منه Cream وفي
+منه Gel. الـ Maximum area to be treated 10-20% of body surface area، اللي هو زي
+زي أي حاجة Topical. الـ Mechanism of action بتاعة الـ Retinoids ده هيتكلم عنها
+باستفاضة بعد كده في الـ Systemic وفي الـ Topical بتاع الـ Acne. بيقول لي أولاً
+بيـ Decrease الـ Hyperproliferation بتاع الـ Keratinocytes، بيـ Normalize الـ
+Differentiation، بيـ Decrease الـ Expression of inflammatory cytokines، فاشتغل
+على حاجات كتيرة جداً جداً من الـ Etiopathogenesis بتاعة الـ Psoriasis. الـ
+Side effects بتاعتي طبعاً Local irritation، كلنا عارفين الـ Acitretin والـ
+Adapalene بيعملوا إيه أصلاً في الجسم. Local irritation in lesional and
+perilesional skin. طبعاً طبعاً Teratogenicity، Category X، سواء Topical أو
+Systemic. كلنا عارفين المعلومة دي مش كده؟ أكيد صح؟ الناس اللي ماشية في الشارع
+عارفين إن هو Teratogenic.
+
+[40:00]
+
+Professor: الـ Photosensitivity، بيقول لي الـ Contraindications بتاعته Use with
+caution during pregnancy and lactation، في الـ Children كمان. دي مهمة جداً جداً
+جداً، في حاجة اسمها Goeckerman regimen، الـ Goeckerman regimen ده بيكون
+Combination الـ Tar مع الـ Ultraviolet، بنسميها Goeckerman. وفي برضه Combination
+تاني مع الـ Anthralin بنسميها إيه؟
+
+Student: Ingram.
+
+Professor: Ingram، ده مجرد Combination عادي جداً عشان لو سمعتوا بعد كده بيقول لك
+Goeckerman regimen بتاع الـ Psoriasis نبقى فاهمين يعني إيه. يعني بيستخدموا الـ
+Coal tar مع الـ Ultraviolet. الـ Anthralin، Ingram، Combination للـ Dithranol مع
+الـ Ultraviolet برضه. إيه الـ Anthralin ده؟ بيقول لي إن هو Short contact
+therapy، يعني بيتحط لوقت معين وبيتشال. ده الـ Mechanism بتاعته إيه؟ مجرد إنه
+بيعمل لي Inflammation، بيزود لي الـ Inflammation في الـ Skin نفسه فيبتدي
+يقاوم الـ Psoriasis، لحاجات تانية غير الحاجات بتاعة الـ Psoriasis، خلينا
+فاهمين. Short contact therapy starting at 1% concentration، بنبتدي نزود في
+الـ Concentration بالتدريج وفي الـ Time بالتدريج، من 20 لـ 30 دقيقة With
+increasing concentration. تمام يا دكاترة؟ لحد ما نوصل لـ 2% عادي. بيعمل إيه الـ
+Anthralin؟ بيـ Inhibit الـ T-cell lymphocytes وبيـ Normalize الـ Keratinocytes.
+الـ Side effects بتاعتي برضه بيعمل لي Staining و Skin irritation. الـ
+Contraindications بتاعتي Applied with caution to the face والـ Intertriginous
+areas. تمام؟ Severe skin irritation. آخر حاجة الـ Ingram regimen هو الـ
+Combination بتاع الـ Dithranol اللي هو الـ Anthralin مع الـ Ultraviolet. تمام يا
+دكاترة؟ إحنا كده يعتبر خلصنا المحاضرة بتاعتنا. في حد عنده سؤال في اللي فات؟
+
+Student: دكتورة إيمان بعد إذنك، الـ Salicylic acid يعني الـ Daivobet أو اللي هو
+الـ Calcipotriol ليه Maximum dose في الأسبوع عشان ما يحصلش Hypercalcemia. طيب
+الـ Salicylic acid عشان ما يحصلش Salicylism يعني ليه إيه الـ Max؟ أقول للـ
+Patient آخره إيه أو ما لوش؟
+
+Professor: ما لوش آخر إيه، زي ما مكتوب كده، هتستخدمي الـ Salicylic acid 5 لـ 10%
+مثلاً تلات مرات في الأسبوع.
+
+Student: طب لمدة قد إيه وإيه العلامة مثلاً ممكن لو دخل في Side effects أوقف؟
+
+Professor: لا بصي، هو إحنا إحنا بصي، يعني أنا مثلاً في شغلي أنا، أنا مش بكتب
+Salicylate كتير إلا لما بيكون في Scales كتير. أول ما بشوف الـ Scales قلت ببتدي
+لا، أوقف. تمام؟ يعني مش زي الـ Steroid بتطولي عليه، إنتي بمجرد ما بتلاقي أصلاً
+الـ Scales راحت على طول، إنتي مجرد الـ Patient ما ياخد العلاج أسبوعين ويرجع لك
+في الاستشارة بتاعتك بتلاقي الـ Scales فعلاً بدأت تقل، فبتبتدي توقفي الـ
+Salicylic، تروحي هتلاقي اللي باقي Plaque، فهتوقفي الـ Salicylate، يعني مش من
+الحاجات اللي إنتي بتبقي ماشية عليها كتير وخايفة إن يحصل منها مشاكل. فهمتيني؟
+لكن ما وصلتش أنا لمرحلة قبل كده إنه يحصل Toxicity من الـ Salicylic acid أو حاجة،
+ما وصلتش لدي خالص.
+
+Student: دكتور هو في Contraindication باين إني أنا أكتب الـ Daivobet اللي هو الـ
+Calcipotriol مع الـ Betamethasone إني أدخله مع الـ Salicylic acid؟ هل فعلاً في
+Contraindication لكده؟
+
+Professor: لا، ما قرأتهاش الصراحة. ما قرأتهاش، بس برضه إنتي بتكتبي الـ Salicylic
+acid بالذات الـ Betnosal أو أي حاجة فيها Salicylic acid لوقت بسيط مش وقت طويل.
+هو كان في اثنين فعلاً ما بنكتبهمش، مش عارفة الـ Anthralin تقريباً مع الـ
+Salicylic، كان في حاجتين ما بيتكتبوش مع بعض فعلاً. بس دي هبقى أدور لك عليها
+وأقول لك. بس الـ Steroid دايماً بيبقى معاكي، مع الـ Salicylic، الـ Steroid
+مع الـ Vitamin D3، الـ Tacrolimus هيتحط في أماكن معينة، يعني إنتي مش هتكتبي كل
+ده مع بعضه. إنتي فهماني؟
+
+Student: تمام يا دكتورة.
+
+Professor: حد عنده سؤال تاني؟ أنا كنت بس أوقات بدخلهم علشان أزود الـ Efficacy.
+
+Professor: ماشي، كده كده برضه الـ Salicylic هيقشر لك شوية وهيوقف، يعني الـ
+Salicylic ميزته كمان إنه بيزود الـ Penetration بتاع بقية الأدوية لأنه بيشيل الـ
+Scales، أنا فاهمة. بس برضه وقته هيقف، ما شفتش منهم مشاكل يعني أنا حتى لو
+استخدمنا Combination مع بعض ما بنطولش وما شفتش مشاكل الحمد لله.
+
+إحنا كده خلصنا الجزء بتاع المحاضرة دي. عارفة إن الكلام كله دش وما بحبش الرغي
+الكتير، بس على الأقل هتقرأوه وهتوضحوه مع نفسكم، يعني إحنا قرأناه كده
+وشرحناه، هتلاقوا الدنيا بعد كده سهلة إن شاء الله.
+
+طيب كام سؤال كده خفيف على اللي إحنا في الغالب على معظم الحاجات بتاعة القديمة.
+الـ Major Histocompatibility Complex Class I molecules، يلا نختار، بصوا هو
+جايب الإجابة فمحدش يبص عليها. معلش يعني ما تبصوش على الإجابة لو سمحتوا. أهو
+مفيش إجابة. يلا، الـ Major Histocompatibility 1 بيقول لي إن هو عبارة عن إيه؟
+Are inducible on keratinocytes، هتقولوا معايا صح ولا غلط؟ الـ Major
+Histocompatibility 1 بيطلع على الـ Keratinocytes؟
+
+Student: لأ، غلط.
+
+Professor: طيب أومال بيطلع مع مين؟
+
+Student: 1 كانت CD8 تقريباً.
+
+Professor: أيوه، مين اللي بيطلعه؟ مع الـ T-cell، الـ T-cell. أيوه، مين اللي
+بيطلعه؟ الـ T-cell اللي بتطلعه؟
+
+Student: الـ CD8.
+
+Professor: يا دكاترة، الـ Antigen Presenting Cell. أيوه، هو ده اللي أنا عايزاه.
+اللي بتطلع الـ Major Histocompatibility 1 الـ Antigen Presenting Cell عشان تمشي
+تروح للـ T-cell، فلما الـ T-cell تلاقيها كده Naive تطلع لها مين؟ الـ CD8. طيب
+خلوني نقرأ بقية الحاجات. Complexed with antigen trigger cytotoxic T-cells؟
+
+Student: Cytotoxic T-cells.
+
+Professor: ولا Are recognized by receptors on CD4؟ ولا Peptide derived from
+pathogen taken up into vesicles؟ مفيش الكلام ده. ولا All of the above؟ طبعاً
+إنتوا شفتوا الإجابة. طيب إنتوا قلتوا CD8 من شوية، CD8 اللي هي Cytotoxic ولا
+Helper؟
+
+Student: Cytotoxic.
+
+Professor: Cytotoxic، يبقى هي دي. رغم إن الكلام في البداية تحسوه ملعبك.
+Complexed with antigen trigger cytotoxic T-cells. بالظبط كده، اللي هي الـ CD8،
+يبقى الإجابة B.
+
+Major Histocompatibility Class I molecules are present on all nucleated cells.
+They are recognized by receptors on the surface of CD8 when complexed with
+antigen trigger cytotoxic T-cells. يعني الكلام لما بيكون Antigen، الـ Antigen
+Presenting Cell شايلة الـ Antigen وشايلة الـ Major Histocompatibility 1، اللي
+اتعرف عليها مين؟ الـ T-cytotoxic. تمام؟
+
+طيب Psoriatic arthritis most commonly associated with؟ يلا بقى بسرعة.
+
+Student: HLA-B27.
+
+Professor: HLA-B27، أوكي. Which antibody can bind the Fc epsilon receptor 1
+portion of the mast cell؟ Mast cell، Mast cell، والـ Basophils والـ Langerhans
+والـ Dermal dendritic cells. Mast cell، هل أأكد عليكم؟ حد قال حاجة؟
+
+Student: أنا قلت IgE.
+
+Professor: IgE؟ ليه بقى؟ ليه؟ ما هي قهرتني، كنت سمعت غلط وفضلت سامعة غلط. مين
+بتاع الـ Urticaria والـ Mast cell؟
+
+Student: الـ E.
+
+Professor: الـ E يا دكاترة، اقرأوا بقى الـ Explanation هتلاقوه بيشرح لكم الموضوع
+نفسه. و Thank you، خلصنا المحاضرة. يا رب أكون خفيفة لطيفة عليكم، ولو إني مش
+حاسة، حاسة إن إنتوا نمتوا مني، فقدتوا الأمل.
+
+Student: الـ PASI score صعب شوية.
+
+Professor: معلش. دكتور أيمن بعد إذنك، هو كل الأسئلة بتبقى MCQ؟
+
+Professor: الأسئلة كلها بتبقى MCQ، بصوا بقى أنا عايزة أوريكم دي أسئلة اللي جبتها
+لكم دي Study PRN. ده نظام الأسئلة، هتبقوا أحسن إن شاء الله، إنتوا فرفشوا بس كده
+معايا وكله هيعدي. طول ما إحنا مع بعض الدنيا كويسة. ده نظام الأسئلة، كل محاضرة
+مثلاً نحل تلات أربع أسئلة لأن هي بتعتبر Cases، عايزة إن إنتوا عينيكوا تاخد على
+الحاجة من البداية، واللي مش هتعرفوا تحلوه عادي، أقسم بالله عادي، إحنا لسه في
+الأول خالص ولسه ما اتدربناش على الحل ولسه مفيش حاجة. حد يقرأ معايا الكلام
+ده، يلا حد يقرأ.
+
+Student: محدش عايز يقرأ.
+
+Professor: 35 years old Caucasian female presents with tender lesions on her
+shins of two weeks duration. ركزوا، دي الصورة اللي جابها وده الكلام اللي بيقوله.
+اللي هيعرف يحل معايا يحل من غير ما إحنا نشوف ولا إجابات ولا أي حاجة خالص. من الـ
+History أو من الـ Signs والـ Symptoms اللي جاية بيها. Tender lesions on her
+shins of two weeks duration. She is being investigated by chest physician for
+mild breathlessness و reduced exercise tolerance و cough و general feeling of
+malaise. يعني الست دي عندها Tender nodules على الـ Shins of the tibia، تمام؟
+وعندها مشاكل في الـ Chest كمان، ركزوا. She denies any recent sore throat but
+has had dry cough. Her medical history includes mild asthma، يعني برضه بيأكد على
+مشاكل في الـ Chest. She uses salbutamol inhaler as required and is taking oral
+contraceptive pills. Few years ago she had painful red eye، عندها Red eye كمان،
+مشاكل في العين، which had settled with some eye drops. There is no recent
+foreign travel، ما سافرتش قبل كده. On clinical examination there are tender
+nodules on the shins of the tibia. بس كده، إحنا عملنا Examination لقينا Tender
+nodules على الـ Shins of the tibia. ها؟
+
+Student: ده كان Syndrome في الـ Sarcoidosis تقريباً.
+
+Professor: Erythema Nodosum. يا دكتورة دعاء، اصبري عشان إنتي ما شاء الله عليكي
+شطورة. الناس تفكر معايا، أنا شايفة إيه هنا؟ إيه الحاجة اللي واخدة عينيا؟ أنا
+مش عايزة حد يحلل Pathology خالص، ولكن الحاجة اللي واخدة عينيا هنا هو أنا من
+غير Pathology شاكة في Erythema Nodosum. بالظبط، شاكة في Erythema Nodosum.
+عشان الـ Pathology بس ولا عشان الـ History أصلاً من الأول كان بيقول؟ عشان
+الكلام اللي قاله وعشان الـ Pathology، إنتي لو بصيتي في الـ Pathology أول حاجة
+تاخد عينيكي الحتة دي، الكلام ده ده Vacuolation بتاع الـ Lipid، بتاع الـ Fat
+cells الموجودة هنا، تمام؟ فدي Septal panniculitis، ده الشكل بتاع الـ Septal
+panniculitis. دايماً في الـ Pathology خليكوا ناصحين لأن إحنا معظمنا إلا اللي
+واخد دكتوراه في الـ Pathology هم اللي ممتازين فيه، لكن معظمنا عندنا Defect
+شوية في الـ Pathology. فخلوا في حاجة دايماً هي اللي تـ Attract عينيكوا، الـ
+Lesion موجود فين وأبتدي أدور حواليه. مع الكلام ده، ده هو ده الامتحان، ده الـ
+Study PRN، دي أسئلة الـ Study PRN بتاعة الـ General Dermatology. جه قال لي صورة
+أهي وقال لي Tender nodule على الـ Shins of the tibia، أول حاجة هتحط أو هتيجي في
+دماغنا الـ Erythema Nodosum. ولكن قال لي كمان إن في مشاكل في الـ Chest وقال لي
+إن في مشاكل في الـ Eye، أنا أفكر في إيه؟
+
+Student: Sarcoidosis معاها.
+
+Professor: إيه بقى؟
+
+Student: TB.
+
+Professor: لأ، مين اللي بيقول TB؟
+
+Student: TB، Tuberculosis.
+
+Professor: ليه قلتي TB؟ عشان الـ Chest؟ طيب سمعتي قبل كده عن حاجة اسمها Löfgren
+syndrome؟
+
+Student: آه، هما Triad هو.
+
+Professor: اللي هو مين؟ بتاع الـ Sarcoidosis، صح؟ اللي هو فيه مشاكل، أيوة ما
+برافو عليكي ما أنا عشان كده قلت لك خليكي شوية يا دكتورة دعاء صح؟
+
+Student: لأ أنا رنا.
+
+Professor: دكتورة رنا، إزيك يا دكتورة رنا؟ ماشي، إنتي صح، Sarcoidosis. السؤال
+كان بيقول لي إيه المرض اللي هيعمل لي المشكلة دي؟ Mycoplasma pneumoniae
+infection، Oral contraceptive pills، Sarcoidosis، Streptococcal sore throat
+infection، Tuberculosis زي ما الدكتورة قالت. الإجابة Sarcoidosis. Explanation
+بقى بيقول لي الـ Histopathology shows septal panniculitis. Sarcoidosis is the
+cause of Erythema Nodosum. خدوا بالكم الـ TB برضه ممكن يعمل لي Erythema Nodosum،
+بس أنا عندي Erythema Nodosum وعندي مشاكل في الـ Eye وعندي مشاكل في الـ Chest،
+أنا كده عملت الـ Syndrome اللي هي الـ Löfgren syndrome. كان Manifest with
+Löfgren syndrome، which is triad of Erythema Nodosum والـ Ankle arthritis و
+arthralgia والـ Lymphadenopathy اللي هي الـ Hilar lymphadenopathy. تمام؟ وفي
+Absence of this ماشي هنكمل بقى الكلام، فهمتوا وضع الامتحان بيبقى عامل إزاي يا
+دكاترة؟
+
+Student: آه تمام، يعني كله MCQ بصرف النظر عن السؤال في الآخر هو اختياري في
+الآخر.
+
+Professor: هو كله MCQ، هو كله MCQ بس Cases.
+
+Student: لا مش قصدي، آه آه أنا قصدي مفيش أنا أكتب، كله هيبقى اختياري مهما كان.
+
+Professor: لأ لأ لأ مفيش إنتي اللي تكتبي، وعايزة أقول لك إنتي تتمني إن إنتي اللي
+تكتبي، إنتي هتكتبي هتكتبي على قد ما إنتي فاهمة، لكن هو هنا عايز حد بصي لافف
+المنهج كـ Clinical وكـ مذاكرة بطريقة ذكية مش حفظ. فده اللي أنا بحاول
+أوصلهولكم، وخدوا بالكم الحل كويس جداً جداً جداً عشان قراية الـ
+Explanation بتاعتهم ممتازة، وكمان بيكتب لك الـ Reference من Paper كذا سنة كذا
+ومن كذا سنة كذا، فإنتي عايزة ترجعي للكلام ده بتلاقي الدنيا كويسة معاكي.
+
+طيب الحالة دي، أول ما شفتوا الصورة دي نقول إيه؟ من غير ما نتكلم.
+
+Student: Amyloidosis.
+
+Professor: حد قال Macular amyloidosis؟ تمام، كويس أوي. هي Amyloidosis بس Raised
+شوية، مفيش مشكلة. طيب 35 years old woman of Indian origin presents with
+intensely itchy lesion on her upper back. She has had itching on the upper back
+for six years، تمام؟ And in the last three to four years she has noticed rash.
+Diagnostic biopsy has shown non-specific features، طبعاً إحنا عارفين أو هنبقى
+نعرف الـ Pathology بتاع الـ Amyloidosis بعد كده. To aid diagnosis further
+stains were requested. أنا هطلب Stain بتاعة الـ Amyloidosis اللي هي مين؟
+
+Student: نشوف الاختيارات طيب؟
+
+Professor: هديكم الاختيارات. أقول لكم الاختيارات بالحل. Crystal violet، Gomori
+methenamine silver، Martius (مش عارفة دي إيه)، Oil red O، Perls' Prussian blue.
+كلنا عارفين إن بتاعة الـ Amyloidosis Crystal violet، وكان كذا واحدة كمان. هو
+الـ Crystal violet هي الصح. شفتوا بيلف بيكم إزاي؟ فهمتوا بيعمل إيه؟ هو جاب لك
+الحالة وجاب لك صورتها وجاب لك حاجة تافهة جداً، لو إنتي مش مذاكرة الموضوع كويس مش
+هتعرفي الـ Stain. فهمتوني يا دكاترة؟
+
+Student: بيختبر كل حاجة، Investigation، Diagnosis.
+
+Professor: ما بيسيبش حاجة، ما بيسيبش حاجة، هو في كل سؤال، هو الامتحان
+تقريباً 100 سؤال أو حاجة أو 200 كنت قايلة لكم أنا على الـ Papers بتاعتهم،
+كل سؤال هو بيمتحنك في حاجة معينة عشان يعرف إنتي مؤهلة Treatment، مؤهلة
+Investigation، مؤهلة تشخيص، مؤهلة Differential diagnosis، لازم هيطلعك دكتورة
+شاطرة في الآخر.
+
+Student: دكتورة أنا دخلت الامتحان ده من كذا سنة، كان بيسأل في حاجات غريبة، يعني
+كان بيسأل في لجنة هتختبر دواء، فمثلاً فيها حد اللي مقدم الـ Medicine ده ليه
+Relative في اللجنة، حاجات زي كده يعني، حاجة عاملة زي الـ Ethics كده.
+
+Professor: عشان في Ethics، عشان في Ethics. بصي في حاجات هيبقى في إيديكم تعرفوها
+وحاجات تانية لو عدت منكم خلاص لأن إحنا مش معانا الـ Ethics بتاعهم.
+
+Student: كانت أسئلة غريبة أنا حسيت إنها من كلية صيدلة مش من كلية طب. برضه كان
+بيسأل الدواء ده Dangerous و Fatal ولا مش عارف إيه، يعني كده درجة الـ Safety
+بتاعة الـ Medicine برضه.
+
+Professor: ماشي، بس الأسئلة دي كانت بنسبة قد إيه؟ مش كتير.
+
+Student: ما كانتش كتيرة بس كانت غريبة.
+
+Professor: بالظبط، مش كبيرة خالص، بس الأغرب كمان إن الأسئلة بتاعتنا نفسها غريبة.
+الحاجات مش سهلة، فده اللي أنا أقصد أقوله لكم، إنتوا عندكم تقريباً نسبة 50%
+General Dermatology اللي هو اللي إحنا شغالين فيهم دول. بعد كده عايزة أوريكم
+أصلاً هي متقسمة إزاي. خليكم معايا ثواني. خلونا نفتح ده كده. ده الـ
+Curriculum اللي بييجي في الامتحان. الـ Allergy 10 درجات، الـ Dermatopathology
+تقريباً 10، كانت الـ Orientation lecture اللي شرحتهالكم فيها، الـ General
+Dermatology كانت 50، الـ Genitourinary كان مش عارفة كذا، فاهمين قصدي؟ دي تقسيمة
+الامتحان بالظبط. فإحنا لو وصلنا إن إحنا نبقى عارفين في الحاجات دي كلها، ولكن
+مثلاً الـ Researches والـ Researches بالذات هي دي اللي إحنا مش هنبقى عارفين
+فيها بصراحة يعني، أنا مش هعرف أتطرق لكم ليها لأني أنا مش عارفاهم، الحاجات اللي
+بتسألي فيها دي. لكن كل الحاجات دي إحنا هنتطرق ليها بما فيهم الـ Surgery حتى.
+فإنتي في كل حاجة عرفتي طريقتهم عاملة إزاي هتعرفي إن شاء الله تدخلي وتجتازي
+الامتحان. تمام يا دكاترة؟ نكتفي بهذا القدر النهاردة، والمرة اللي جاية يبقى
+لينا تلات أربع أسئلة أو تلات أربع Cases كل مرة عشان نحلها مع بعض، يعني
+نستفيد كلنا مع بعض. تمام؟
+
+Student: دكتورة عادي اللينك هادي تحطيها لنا في الجروب؟
+
+Professor: ده مش هينفع أحطهولكم في الجروب، ده الـ Account بتاعكم. تمام؟ وكده كده
+إحنا بنحل مع بعض.
+
+Student: لا هو لو ممكن حد يحطها لي الـ PRN study.
+
+Professor: قصدك اللينك بتاعك؟ ما أنا بقول لك تواصلي معاهم، اكتبي دلوقتي على
+الجروب إن إنتي عايزة اللينكات توصل لك.
+
+Student: تمام.
+
+Professor: تمام؟
+
+Student: تمام، شكراً. تمام، شكراً.
+
+Professor: حد عنده أي سؤال يا دكاترة؟
+
+Student: تسلمي دكتورة إيمان، شكراً تعبناكي كتير النهاردة.
+
+Professor: شكراً ليكي يا دكتورة، تعبناكِ معانا.
+
+Professor: العفو يا جماعة، تصبحوا على خير، ومع السلامة.
+
+Students: شكراً ليكي، شكراً، مع السلامة.
+
